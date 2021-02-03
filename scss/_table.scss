@@ -1,0 +1,51 @@
+.table {
+    background: #F7F7F7;
+    thead{
+        th {
+            border: 0px;
+            border-bottom: 1px solid #fff;
+            border-right: 1px solid #fff;
+        }
+        td{
+            font-size: 14px;
+            font-weight: bold;
+        }
+    } 
+    td, th{
+        vertical-align: middle;
+        padding: 20px;
+        border-top-color: #fff;
+        border-right: 1px solid #fff;
+    }
+    td {
+        font-size: 16px;
+        font-weight: 100;
+        line-height: 24px;
+    }
+    th{
+        font-size: 14px;
+    }
+}
+
+.common-tbl {
+    overflow: auto;
+    margin-bottom: 2rem;
+    table{
+        margin: 0px;
+        li {
+            list-style: none;
+        }
+        p{
+            margin: 0px;
+        }
+    }
+}
+
+.naac-modal-view-btn {
+    color: #07a0ea;
+    cursor: pointer;
+}
+
+.naac-content-align {
+    text-align: left;
+}

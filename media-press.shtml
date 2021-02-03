@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>Shanmugha College of Engineering</title>
+        <meta charset="utf-8">
+        <link rel="icon" href="images/shanmugalogo.png">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+        <meta name="description" content="Shanmugha College" />
+
+        <!--#include file="commonInclude/js-css-include.html" -->
+
+        <link rel="stylesheet" href="fonts/fontawesome/css/all.min.css">
+        
+        <script src="js/spotlight.bundle.js"></script>
+
+    </head>
+
+    <body>
+        <!--#include file="commonInclude/header.html" -->
+        <!--#include file="commonInclude/navbar.html" -->
+
+        <section class="mid-section">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="back-page">
+                            <a href="index.shtml">
+                                <img src="images/icons/arrow-blue.svg" />
+                                <span>Home</span>
+                            </a>
+                            <div class="menu-title">MEDIA & PRESS</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="spotlight-group" id="press-images"></div>
+            </div>
+        </section>
+
+        <!--#include file="commonInclude/footer.html" -->
+        <script>
+            $(document).ready(function(){
+                shanmugaJs.pageInit(); 
+                shanmugaJs.pressImages();
+            })
+        </script>
+    </body>
+</html>

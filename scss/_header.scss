@@ -1,0 +1,71 @@
+.container-fluid {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.logo-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+    padding-top: 90px;
+    .logo-img {
+        display: flex;
+    }
+    .counselling-code {
+        background: #ffc700;
+        height: 80px;
+        width: 324px;
+        border-radius: 42px;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        span {
+            font-size: 24px;
+            font-weight: 100;
+        }
+        label{
+            margin: 0;
+            font-size: 24px;
+            margin-left: 5px;
+            font-weight: bold;
+        }
+    }
+}
+
+.navbar-nav{
+    width: 100%;
+    .nav-item {
+        width: 100%;
+    }
+}
+
+.bg-custom{
+    background-color: $primary-color;
+    padding: 0 35px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-image: url("../images/toggleicon.svg") !important;
+}
+
+nav .nav-item{
+    &:hover, &.active{
+        background-color: #ffffff14;
+    }
+    a{
+        min-width: 130px;
+        height: 50px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+}

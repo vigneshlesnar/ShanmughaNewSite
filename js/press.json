@@ -1,0 +1,18 @@
+{
+    "press1": {
+        "year":2017,
+        "imgcount": 1
+    },
+    "press2": {
+        "year":2016,
+        "imgcount": 1
+    },
+    "press3": {
+        "year":2015,
+        "imgcount": 5
+    },
+    "press4": {
+        "year":2014,
+        "imgcount": 1
+    }
+}

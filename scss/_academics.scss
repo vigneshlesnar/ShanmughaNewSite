@@ -1,0 +1,156 @@
+.mid-section {
+    padding: 35px 0px;
+}
+
+.left-nav-menu{
+    ul{
+        background: #f7f7f7;
+        padding-bottom: 30px;
+        position: sticky;
+        top: 20px;
+        border: 0px;
+        li{
+            font-size: 14px;
+            display: block;
+            cursor: pointer;
+            width: 100%;
+            padding: 30px 30px 0px 30px;
+            .nav-link{
+                color: #000;
+                font-weight: 100;
+                padding: 0;
+                min-width: auto;
+                text-align: left;
+                border: 0px;
+                &.active,
+                &:hover{
+                    color:$secondary-color;
+                    font-weight: bold;
+                    background: transparent;
+                }
+            }
+        }
+    }
+}
+
+a{font-size: 16px;}
+.right-card{
+    margin-bottom:30px;
+    p {
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 100;
+        margin-bottom: 2rem;
+    }
+    img {
+        margin-bottom: 20px;
+    }    
+}
+
+.right-heading {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.manage-lists {
+    margin-top: 20px;
+    li {
+        display: flex;
+        border-bottom: 1px solid #e7e7e7;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+        .manager {
+            height: 160px;
+            width: 160px;
+            margin-right: 40px;
+            img {
+                max-height: 100%;
+            }
+        }
+        .manager-details{
+            flex: 1;
+            label {
+                font-size: 20px;
+                font-weight: bold;
+                color: $primary-color;
+                margin-bottom: 20px;
+            } 
+            p {
+                font-size: 20px;
+                font-weight: 100;
+                margin: 0px;
+            }
+        }
+    }
+}
+
+.mission-list{
+    margin-top: 20px;
+    li {
+        padding-left: 20px;
+        position: relative;
+        font-size: 16px;
+        font-weight: 100;
+        line-height: 24px;
+        margin-bottom: 24px;
+        &:before{
+            content: '';
+            position: absolute;
+            left: 0px;            
+        }
+    }
+}
+
+iframe{width: 100%;}
+
+.card-name {
+    padding: 20px;
+    font-size: 16px;
+}
+
+.vip-section{
+    .card {
+        min-height: 480px;
+    }    
+    .card-img {
+        height: 230px;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+.card-para {
+    padding: 20px;
+    padding-top: 0px;
+    font-weight: 100;
+}
+
+.back-page {
+    background: #f7f7f7;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    a{
+        text-decoration: none !important;
+        position: absolute;
+    }
+    img{
+        transform: rotate(180deg);
+        margin-right: 5px;
+    }
+    .menu-title{
+        flex: 1 1 100%;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+a{
+    color: #0083ca;
+}

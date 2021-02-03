@@ -1,0 +1,1577 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <!-- <link rel="icon" type="image/x-icon" href="images/logo.svg"> -->
+    <link rel="icon" href="images/shanmugalogo.png">
+    <!-- <link rel="stylesheet" type="text/css" href="css/shanmuga.css"> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+    <!--#include file="commonInclude/js-css-include.html" -->
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#GCI">Green Campus Initiative</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#WMR">Waste Management</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#AGS">Alternate Energy Source</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#WC">Water Conservation</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#BFE">Barrier Free Environment</a> 
+                        </li>
+                        <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#wifi">Internet & WiFi</a> </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#hostel">Hostel</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#Cafeteria">Cafeteria</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#scr">Smart Class Room</a> 
+                        </li>
+                        
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#transport">Transport</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#TRANSPORT-COMMITTEE">Transport Committee</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#yoga-centre">Yoga Centre</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#gym">Multi-Gym</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#MAINTENANCE">Maintenance</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#SPORTS">Sports</a> 
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" data-toggle="tab" href="#CULTURALACTIVITIES">Cultural Activities</a> 
+                        </li>
+                         <li class="nav-item"> 
+                            <a href="http://lms.shanmugha.edu.in" target="_blank" class="nav-link">LMS</a> 
+                        </li>
+                    </ul>
+                </div> 
+                <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+                    <!-- SECTION - 1 -->
+                    <div id="wifi" class="right-nav-divs tab-pane active">
+                        <div class="right-card">
+                            <div class="right-heading">INTERNET & WI-FI</div>
+                            <p> Sri Shanmugha College of Engineering and Technology entered in to an e-revolution by making its entire campus with Wi-Fi facility. This provides laptop users with a seamless mobile connection to the corporate network (intranet and Internet) for browsing, presentations and documents around the campus. </p>
+                            <p>College have 55 Mbps Internet connection, locally networked and connected through Wi-Fi also to the central server which are available for students project work and preparing seminar presentations. It accesses e-books, study materials, previous question papers, daily circulars and etc. through the college Local Area Network. Internet facility has been given in the well-equipped internet lab with high speed connectivity and the student can surf the net to get unlimited information. </p>
+                            <p>The internet can be accessed across the entire campus.The campus intranet has important details about Test Schedules, Time Tables, Examination Schedules, Campus News and etc., and a wealth of information about the college.This allows learning to move outside the classroom where students can discuss, learn and grow. The institute has a leased line and each student is provided with an IP address of his own. All the websites browsed by him/her are regularly monitored. </p>
+                            <p>Wi-Fi facility in the campus is a milestone in the history of this institution as it puts the college on the road to paperless administration and functioning. In addition, the college provides internet and intranet facility to all the students and staff for instructional purpose on par with colleges internationally. </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 2 -->
+                    <div id="hostel" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">HOSTEL</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-4"> <img src="images/facities/hostel.jpg" /> </div>
+                            </div>
+                            <ul class="mou-ul">
+                                <li> SSCET provides accommodation to students wishing to reside in the hostels. Hostel in the institute is an independent unit in respect to its internal administration under the overall supervision is done by the Principal and the Hostel Management. The hostel is administered by a Warden appointed by the Chairman and he/she will be assisted by the assistant warden. </li>
+                                <li> Hostel has a Hostel Council which is an advisory body comprising the Warden (as its Chairman), the assistant warden and the elected student secretaries as its members. The Hostel Council plans the students activities for a year which includes preparation for the sports budget, recreational and other social activities and is also responsible for the functioning of mess with the help of the mess committee. </li>
+                                <li> The Hostel Office is located within the hostel premises. The Office maintains all the files, registers, records, ledgers, account books, suppliers bill, payment registers and etc., pertaining to the hostel residents, mess and the employees. The Hostel Office will be in service on all weekdays. </li>
+                                <li> Every student who has been admitted in the institution is required to pay the prescribed hostel fee and establishment charges along with a refundable hostel mess caution deposit. These fee are subjected to revision. The change in rooms is effected in accordance with the rules followed by hostel and with the warden’s approval. </li>
+                                <li> Each room is provided with a cot, a table, a chair, a bookshelf, and a ceiling fan. Residents cannot move the furniture or fittings from one room to another. Private cooking in the rooms is prohibited. Smoking, consumption of alcoholic drinks and use of narcotic drugs is strictly prohibited. </li>
+                                <li> Guests of the residents may be permitted to stay in the hostel by the Chairman on necessary payment in the office.During night time guests will be permitted in a student room with the warden’s prior permission. </li>
+                                <li>Boys are not allowed to visit girls hostel and vice-versa.</li>
+                                <li> A number of recreational, sports, literary and social activities take place in the hostel during the academic year. A few rooms in the hostel are used for common facilities such as the Library, Computer Room, Indoor Sports etc.Laundry facilities is available in the hostel. Students can relax in the evenings or on holidays or spend their leisure time in the Common Room which is equipped with a T.V, a music system, newspapers and magazines. The Hostel Library has a good collection of general books, fiction, comics etc. </li>
+                                <li> An external security agency is contracted for providing security and it is monitored by the Warden and the Assistant Warden. </li>
+                                <li>Application for Admission to the Hostel shall be made in the prescribed form.</li>
+                            </ul> <b>Contact</b>
+                            <br>
+                            <p> <strong>Mobile :&nbsp;&nbsp;&nbsp; 7373595999, 7373691999</strong>
+                                <br> <strong>Email ID : hostel@shanmugha.edu.in</strong> </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 3 -->
+                    <div id="cafeteria" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">CAFETERIA</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-6"> <img src="images/facities/canteen-2.jpg" /> </div>
+                                <div class="col-sm-4"> <img src="images/facities/canteen-1.jpg" /> </div>
+                            </div> <b>“Every man should eat and enjoy the fruit of all his labour; it is the gift of god”</b>
+                            <p> Inside the sprawling campus of our Sri Shanmugha College of Engineering and Technology there is a cafeteria that function to serve the students and staff members. </p>
+                            <div class="right-heading">SPECIAL FEATURES</div>
+                            <ul class="mou-ul">
+                                <li>Well manpowered cafeteria</li>
+                                <li>A hygienic catering</li>
+                                <li>Purified Drinking water</li>
+                                <li>Well equipped with modernized cooking appliances</li>
+                                <li>An Audio &amp; Visual Display Room</li>
+                            </ul>
+                            <p> The Campus Cafe is open from 8.00 A.M. to 8.00 P.M. on all working days including Saturdays. A wide variety of South Indian dishes are available. During lunch time Meals are available at very nominal rates. Separate stall is available for vegetarian and non-vegetarian. </p>
+                            <p> The College Cafeteria is a large spacious area, with the green surroundings and a variety of refreshments. The cafe is provided with modern furniture and electrical automatic cooking and storing facilities, which provides hot lunch and snacks both to the students and staff at reasonable price. It is well maintained with efficient service. </p>
+                            <p> It is a place where students relax with friends to enjoy delicious, healthy and quality food. It is definitely a place of treat for all students </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 1 -->
+                    <div id="CULTURALACTIVITIES" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">CULTURAL ACTIVITIES</div>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; Our Institution providing hart full support to promote cultural activities among the students. For conducting cultural activities we have auditoriums with a seating capacity of 248,&nbsp;centralized Air Conditioner, sound system, Recording Facility with handy cam. Various on stage and off-stage events were conducted annually. Movies and short films were projected in auditoriums&nbsp;(75&rdquo;X100&rdquo; LED Display, BOSE sound system,,with AC).</span></span></span></span>
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/initiatives/5.PNG">
+                                </div>
+                                 <div class="col-sm-6">
+                                    <img src="images/activities/initiatives/6.PNG">
+                                </div>
+                                 <div class="col-sm-6">
+                                    <img src="images/activities/initiatives/7.PNG">
+                                </div>
+                                 <div class="col-sm-6">
+                                    <img src="images/activities/initiatives/8.PNG">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- SECTION - MAINTENANCE -->
+                    <div id="MAINTENANCE" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">MAINTENANCE</div>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Maintenance of the physical Infrastructure and Utilization: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp; The maintenance and upkeep of the infrastructure facilities are carried out the surveillance of the campus supervisor. The campus supervisor keeps the records of Infrastructure maintenance. All the Departments and various functioning units of the institute are provided with all the required infrastructure facilities like class rooms, seminar halls, faculty rooms, Common room , laboratories etc.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp; &nbsp;The effective usage of all the facilities is ensured by introducing exclusive hours for Seminar Hall, Smart Class room, Laboratory and Central Library in the regular time table itself. During these slots concerned class incharges / faculty members will ensure the presence and utilization of facilities by the students. Central library has its dedicated human resource and the departmental libraries are taken care of by the faculty Incharge of the concerned department. OD is provided to Students to utilize ground for sport activities.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Laboratories:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One faculty and technical supporting staff are deputed as in-charge for the overall functioning/maintenance of each laboratory. Calibration of equipment /machineries are carried out at the end of every semester.&nbsp;</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Regular checkup of equipment is carried out at the starting of every semester.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Minor repairs are carried out by the lab technician and major repairs are done by the respective suppliers of equipment as per the requirements.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Major Service of equipment will be carried out after the service request made by the respective lab in-charges is approved by HoD and Principal.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Measuring instruments are periodically calibrated.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Details of Service and Maintenance of all equipment are recorded in the history card allotted for the respective equipment.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">All the laboratories are cleaned twice in a week to ensure dust free environment.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">System Maintenance department takes care of the maintenance of computers in laboratories.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Regular stock verification is carried out at the end of every academic year to find the non-working of equipment.</span></span>
+                                    </span>
+                                    </span>
+                                </li>
+                            </ul>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Maintenance of Computer: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A separate computer maintenance team Centralized Computer Centre (CCC) is responsible which handles the departmental requirements. For every computer Centre, a Technician is recruited and a faculty member is made in-charge of the Centre. An exclusive department (CCC) with IT manager, one assistant system admin and 03 hardware engineers is functioning in the institute to cater to the needs of day&ndash;today computer maintenance. However, minor software and hardware problems are being handled by the concerned lab technicians.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Library:&nbsp; </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The requirement and list of books is collected from the concerned departments and HoDs. The finalized list of required books is duly approved and signed by the Principal.&nbsp; Every year in the beginning of the session, students are motivated to register themselves in the library to use INFLIBNET.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To ensure return of books, &lsquo;no dues&rsquo; from the library is mandatory for students before appearing in exam.&nbsp; The proper account of visitors (students and staff) on daily basis is maintained.&nbsp; Other issues such as weeding out of old titles, schedule of issue/ return of books etc are chalked out / resolved by the library committee.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Suggestion box is installed inside the reading room to take users feedback. Their continuous feedback helps a lot in introducing new ideas regarding library enrichment.&nbsp;</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Upkeep and maintenance: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;All departments shall strictly follow the laid down procedures and guidelines of the institute with regard to cleanliness and preventive and corrective maintenance of infrastructure. This shall include the following. Regular cleaning of class rooms, Seminar halls, Labs etc., Regular inspection and periodic maintenance of equipment including lubrication, wherever necessary. Preventive maintenance as per the preventive maintenance schedules and maintenance its records. Annual maintenance and maintaining record of service / maintenance. UPS and GENSET maintenance are carried over by AMC periodically.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Electrical Maintenance: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp;Includes all electrical facilities in academic blocks, hostels; Generator, Air conditioners, etc, Electrician / Office i/c maintain a list of electrical devices that require regular maintenance. The maintenance operation will include all components and systems in Electrical are switches, outlets, GFI outlets, Light fixtures, exit lights, emergency lights, lightning arresters, earth bits and electrical panel boxes.&nbsp;For Generator, a logbook is maintained.&nbsp;</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Building Maintenance: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp; &nbsp;NIET maintains a list of buildings to be maintained. The frequency of inspection is decided in consultation with Principal or any other Authority.&nbsp;Building maintenance is comprised of plumbing, painting, carpentry and minor construction. The maintenance operation will include all components and systems in the areas Class rooms, seminar halls, tutorial halls, carpet, floors, walls and ceilings, Doors exterior/interior, Window and Hardware, Restrooms/Plumbing fixtures (Commode, Lavatories, Urinals, restroom partition, mirrors, exhaust fans).</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Complaints / Suggestion Register:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A Library complaints / suggestion register is kept along with the gate register to record the complaints and suggestions. The Librarian reviews the register every semester and necessary corrective action is being taken in consultation with the Principal.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical facilities:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A separate dispensary room with a medical officer and a nurse is available on campus. College has a dynamic network with local hospitals which provide ambulance facilities in case of emergency and if required the patients are admitted in those hospitals.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Rain Water Harvesting:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Rain Water Harvesting is implemented throughout the campus and one Rain water harvesting well has been installed.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Water Tank: </span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The main overhead water tanks are to be cleaned at least once in six months. Testing of water sample is to be carried out before and after cleaning. The test report is submitted to the Principal or concerned in charge for review. Water coolers provided for drinking purpose are also to be periodically maintained (once in Six Months).</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Sports:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Sports facilities are maintained and upgraded from time to time by the sports department.&nbsp; Major maintenance and repaired are reported to administration for taking proper steps through engineering department. The committee supervises maintenance and repair works.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hostel:</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Looks into the grievances/complaints of the Students</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Keeps Rules and Regulations with regard to incoming and outgoing of Students from the hostel</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Looks after the quality of food served in the hostel</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Maintenance of common facilities, cleanliness in the hostel and the meeting will be held once in a month.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - SPORTS -->
+                    <div id="SPORTS" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">SPORTS</div>
+                            <div class="clr20"></div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" target="_blank" href="pdf/sports/Report-event.pdf">Report of Event</a></li>
+                            </ul>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <p>Sri Shanmugha College of Engineering and Technology is evincing keen interest in developing the sports activities of the students inside the campus. Students are provided with all facilities to participate actively in sports and games at district, state and national level. Athletic, Volleyball, Shuttle grounds and Basketball are major highlights of facilities.</p>
+                                    <p>Sports and games in an engineering college is not only a recreational activity to refresh the mind but when channeled in the right manner, it can also be used to improve the inner qualities of an individual himself/herself in sports and thus it helps to instill in him/her an attitude of team spirit and when he/she enters the work force, this will help to enhance his/her team efforts. In today&rsquo;s world one may face lot of setbacks. An engineer involved in sports will be able to face any situation with confidence and &lsquo;positive win attitude&rsquo; and at the same time if any setback is experienced, he/she will not get disheartened easily. Finally as the saying goes &ldquo;A healthy mind resides in a healthy body&rdquo;, sports will improve the overall fitness, making the person active.</p>
+                                    <p>Yogic values are being taught by qualified and eminent teachers.</p>
+                                    <p>The college provides ample opportunity for the students to take part in all indoor and outdoor sports activities. Sports complex is located adjacent to the college and has facilities for playing and practicing Tennis, Volleyball, Basketball, Badminton Football and Cricket. Our Basketball court is laid to international standards.</p>
+                                    <p>A well-equipped gymnasium including a multi gym is being planned to be kept open throughout the day. Inter college tournaments, inter class matches and annual athletic meet are regular features in the sports section. Many of the students represent the university and the state in various sports.</p>
+                                    <p>Given the need to balance sports &amp; academics, we focus on selected games and sports. Students who have represented the National and International level tournaments for the following games and sports are eligible to apply for the sports quota admissions. Every year we are giving Engineering seats for the sports quota in Athletics, Basketball, Badminton, Cricket, Chess, Table Tennis, Tennis and Squash Racket.</p>
+                                    <h6>ANNUAL SPORTS ACTIVITIES</h6>
+                                    <ul>
+                                        <li>Participation in Anna University zonal and inter zonal tournaments.</li>
+                                        <li>Participation in South Zone and All India inter university tournaments.</li>
+                                        <li>Participation in invitational inter &ndash; collegiate tournaments.</li>
+                                        <li>Participation in Tamil Nadu Inter Engineering Sports (TIES) meet.</li>
+                                        <li>Conducting the College Annual Sports day.</li>
+                                    </ul>
+                                    <h6>SPORTS STAR OF SSCET (2012-2013)</h6>
+                                    <p><strong>Ms. S. Mythili, First B.E.,</strong>&nbsp;Computer Science and Engineering, secured First Place in 200 meters, Discuss Throw, and Shot-put. She has also secured second place in 400 meters and third place in 100 meters.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- SECTION - 4 -->
+                    <div id="scr" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">SMART CLASS ROOM</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-12"> <img src="images/facities/smart-class-room.jpg" /> </div>
+                            </div>
+                            <p> A Smart Classroom is the ultimate self-service, presenter-friendly environment and conducive to the teaching / learning process. The required resources of the faculty are permanent classroom placed in simple, easy-to-use configurations. Collaborative learning environment, simple, friendly and non-intimidating classroom technology inspire the presenters who rely on improvisation, spontaneity and audience participation. </p>
+                            <p> Classroom computer supports interactive learning, facilitating a shift from disclosing information to processing information from 70% presentation and 30% demonstration. These changes in the teaching and learning process enhance the students who are more actively engaged in the classroom environment. </p>
+                            <p> All the classrooms are ‘smart’, with high-speed data networks and LCD projectors for audio and video. </p>
+                            <div class="row">
+                                <div class="col-sm-6"> <img src="images/facities/classroom-1.jpg" height="350px" /> </div>
+                                <div class="col-sm-6"> <img src="images/facities/classroom-2.jpg" height="350px" /> </div>
+                            </div> <a href="http://shanmugha.edu.in/naacpdf/Criteria4/4.1.3/4.1.3.pdf" target="_blank">ICT Enabled Smart Class Rooms</a>
+                            <br> <a href="pdf/facilities/ICT-Enabled-Tools-and-Resources.pdf" target="_blank">ICT Enabled Tools and Resources available in the Institute</a> </div>
+                    </div>
+                    <!-- SECTION - 5 -->
+                    <div id="transport" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">TRANSPORT</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-12"> <img src="images/facities/transport.jpg" /> </div>
+                            </div>
+                            <p> A full fledged Transport department functions in the college to provide transport facility to students and staff from various places. This service is offered ensuring a hassle-free and safe transportation. </p>
+                            <p> The College runs 10 buses for providing transport facility to students from various places in the city. The number of buses will be increased corresponding to the increase in the intake of students. </p>
+                            <p> The transport facility provided by the College will cover most parts of the town and nearby areas with the brand new fleet. </p>
+                            <p> College modern buses provide convenient and comfortable travel. Our drivers are well-educated with experience. They provide a safe journey to our students. </p>
+                            <p> Student’s own transport arrangements (two-wheelers and cars) are not permitted, in order to prevent accidents and late-comers to college. All the buses reach the campus before 08.30 a.m. so that students and faculty can have their breakfast and get ready to attend the classes at 08.50 a.m. The buses leave the campus at 5.00 pm, which helps students to reach home early and safe. </p>
+                            <p> The time mentioned below is the indicative time. The Students are asked to come to the boarding point, 10 minutes before the time indicated. </p>
+                            <div class="right-heading">COLLEGE BUS DETAILS</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No</th>
+                                            <th width="45%">BUS No</th>
+                                            <th width="47%">ROUTE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td rowspan="14">1</td>
+                                            <td rowspan="14">Paramathi Bus No: 4</td>
+                                            <td>Kumbupudupalam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thottiyanthottam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kandampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Maniyanoor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Chitalandhur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Karattu palayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Valarigate</td>
+                                        </tr>
+                                        <tr>
+                                            <td>CHB Colony</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Town police station</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tiruchengode old bus Stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tiruchengode New bus Stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tiruchengode court</td>
+                                        </tr>
+                                        <tr>
+                                            <td>karuveppampatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Narayanampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="7">2</td>
+                                            <td rowspan="7">Jalagandapuram Bus No: 5 </td>
+                                            <td>Idappadi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Konganapuram</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thangayur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Chemicals pirivu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sankari New bus stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sankari Old bus stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thiruchengode corner</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="11">3</td>
+                                            <td rowspan="11">Veppadi Van: 6</td>
+                                            <td>Amman kovil</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Valrasapalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Modamangalam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thaneerpandal palayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Anangoor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Andikadu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Devanankuruchi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Srinivasampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vengipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Morur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Palmadai</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="5">4</td>
+                                            <td rowspan="5">Rasipuram Van No: 7</td>
+                                            <td>Gurusamipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ilachipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vaiyapamalai</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Elimedu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>kumaramangalam</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="6">5</td>
+                                            <td rowspan="6">Sengamamuniyappan Kovil Van No: 9 </td>
+                                            <td>Goundanur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Post office ICL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pirivu Road</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pachakkadu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>R.S.Housing Board</td>
+                                        </tr>
+                                        <tr>
+                                            <td>R.S</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="7">6</td>
+                                            <td rowspan="7">Pokkambalayam Van No:10</td>
+                                            <td>Goundampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kumaramangalam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>SND road</td>
+                                        </tr>
+                                        <tr>
+                                            <td>T.Code, Sengodampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Weavers colony</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sindham palayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Okkilipatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="13">7</td>
+                                            <td rowspan="13">Erode Bus No:11</td>
+                                            <td>G.H Erode</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Erode</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Avuthipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>pallipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Alaramathumedu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>S.P.B Colony</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thokkavadi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vidhya vikas</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kootappalli</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Rajagoundampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Santhapaettai</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tiruchengode</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pollice line -Santhapettai</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="7">8</td>
+                                            <td rowspan="7">Kumarapalayam Bus No:12</td>
+                                            <td>M.G.R Nagar</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Colony Hospital</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pallipalayam corner</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kumarapalayam bus stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Anangoor corner</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Rajam theatre</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Katheri pirivu</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="7">9</td>
+                                            <td rowspan="7">Chinnampatti Bus No:13</td>
+                                            <td>Ettikuttai medu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Konganapuram</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Magudanchavadi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vaikundham</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vagudappatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Oonjanur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sankari R.S</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">10</td>
+                                            <td rowspan="3">Bhavani Bus No: 14</td>
+                                            <td>Bhavani bus stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kalingarayanpalayam pirivu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lakshmi Nagar</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="8">11</td>
+                                            <td rowspan="8">Ponnampalayam Bus No:15</td>
+                                            <td>Koneripatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thevur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Aalichampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Velrivezhi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Idappadi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>velamavalasu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>kuppanur</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sankari sandhaipettai</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="14">12</td>
+                                            <td rowspan="14">Kodumudi Bus No:16</td>
+                                            <td>Othakadai</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Thamaripalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Amman kovil</td>
+                                        </tr>
+                                        <tr>
+                                            <td>kaikati</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sivagiri</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Modakurichi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lakkapuram</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Solar</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kokkarayanpettai</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vittampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Andipalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Animoor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kollappatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Valarai gate</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="14">13</td>
+                                            <td rowspan="14">Salem Bus No: 18</td>
+                                            <td>salem New Bus Stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kondalampatti Bye Pass</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Veerapandi,Palampatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Attayampatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kallipatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Suriya Goundampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kallukadi</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Morepalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Neikkarapatti</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kailasampalayam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tiruchengode Bus Stand</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Salem Road</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pullikarmill</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="right-heading">PUBLIC TRANSPORT FACILITIES SERVING THE CAMPUS FROM TIRUCHENGODE AND SANKARI</div>
+                            <p> Public transport is available from Tiruchengode to Sankari – every 10 minutes.
+                                <br> Public transport is available from Sankari to Tiruchengode – every 10 minutes.
+                                <br> Location of the College : 7 Km. from Tiruchengode and Sankari
+                                <br> Nearest Railway Junction : Sankari (7 Km)
+                                <br> Nearest Airport : Coimbatore(140 km)
+                                <br> </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 5 -->
+                    <div id="TRANSPORT-COMMITTEE" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Transport Committee</div>
+                            <div class="clr"></div>
+                            <p>A full-fledged Transport department functions in the college to provide transport facility to students and staff from various places. This service is offered ensuring a hassle-free and safe transportation.
+                                <br /> The College runs 13 buses for providing transport facility to students from various places in the city. The number of buses will be increased corresponding to the increase in the intake of students.
+                                <br /> The transport facility provided by the College will cover most parts of the town and nearby areas with the brand new fleet.
+                                <br /> College modern buses provide convenient and comfortable travel.
+                                <br /> Our drivers are well-educated with experience. They provide a safe journey to our students.
+                                <br /> Student&rsquo;s own transport arrangements (two-wheelers and cars) are not permitted, in order to prevent accidents and late-comers to college. All the buses reach the campus before 08.30 a.m. so that students and faculty can have their breakfast and get ready to attend the classes at 08.50 a.m. The buses leave the campus at 5.00 pm, which helps students to reach home early and safe.
+                                <br /> The time mentioned below is the indicative time. The Students are asked to come to the boarding point, 10 minutes before the time indicated. </p>
+                            <p><strong>The Transport Committee shall consist of the following:</strong>
+                                <br /> 1. Principal Chairman
+                                <br /> 2. Transport Coordinator
+                                <br /> 3. Members of the Transport Committee </p>
+                            <p style="text-align:justify">&nbsp;</p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 6 -->
+                    <div id="yoga-centre" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">YOGA CENTRE</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-6"> 
+                                    <img src="images/activities/commemorate/yoga3.png" /> 
+                                </div>
+                                <div class="col-sm-6"> 
+                                    <img src="images/activities/commemorate/yoga4.png" /> 
+                                </div>
+                            </div> 
+                            <i>Knowing others is intelligence. Knowing yourself is true wisdom</i>
+                            <div class="clr20"></div>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp; &nbsp; &nbsp;Yoga is a way of life and not only Asanas, as opposed to popular belief. Therefore practical applications of yoga in daily life includes the simple philosophies behind the techniques of yoga that helps to make life worth and living better. The techniques of yoga aims at removing the cause of the physical illness if any, further improves the mental attributes to have a calm mind (concentrated and steady) thereby realizing one&rsquo;s own spiritual self and purpose of life.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 7 -->
+                    <div id="gym" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">MULTI-GYM</div>
+                            <div class="clr"></div>
+                            <div class="row">
+                                <div class="col-sm-12"> <img src="images/facities/gym.jpg" /> </div>
+                            </div>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Multi-Power Gym is opened for students and staff in the year of 2014. Gym is equipped with Modern equipment such as ten station. Students enthusiastically use this facility for their daily workout. Physical Director D.Sathyakumar motivates the students to maintain their physical fitness for better performance in sports and other events.</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Facility available</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1.Ten station</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2.Luxury Rubberized Dumbells</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">3.Push up BAR</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">4.Gym Ball</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">5.Rubberized Weight Plates</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">6.Olympic rod-6ft</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">7.Magnetic Cycle</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">8.Twister with sitting and Standing</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">9.Aerobic Dumbbells</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">10.Squad Stant</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">11.Declined bench Press</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">12.Flat and Inclined Bench press</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">13.Adjustable cable cross</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">14.Table twist</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">15.Abdomen crunch</span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">16.45 deg Abdomen board</span></span>
+                                </span>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- SECTION - 8 -->
+                    <div id="AGS" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Alternate Energy Resource</div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" target="_blank" href="pdf/facilities/Alternate-Energy-Resource.pdf">Report Alternate Energy Resource</a></li>
+                            </ul>
+                            <!-- <a href="pdf/facilities/Alternate-Energy-Resource.pdf"></a> -->
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The Institution has facilities for Alternate Source of Energy and Energy conservation measures.</span></span>
+                                </strong>
+                                </span>
+                                </span>
+                            </p>
+                            <table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; width:638px">
+                                <tbody>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:82px; width:87px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">S.No</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Alternate Source of Energy</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Links</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol>
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Solar Energy </span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Alternate-Energy-Resource.pdf#page=3" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="2">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Biogas Plant</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Alternate-Energy-Resource.pdf#page=6" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="3">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Wheeling to the Grid</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Alternate-Energy-Resource.pdf#page=9" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="4">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Sensor Based Energy Conservation</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Alternate-Energy-Resource.pdf#page=13" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Use of LED bulbs </span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Alternate-Energy-Resource.pdf#page=16" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- https://mail.google.com/mail/u/0/#inbox/FMfcgxwKkRHKcwxJxlXWNJPVvhrpLzdL -->
+                        </div>
+                    </div>
+                    <!-- SECTION - 9 -->
+                    <div id="WMR" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Waste Management Resource</div>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Management of degradable and non &ndash; degradable waste</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong></span></span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Our Institution is highly conscious of the responsibilities to maintain the campus clean and green hence different kinds of waste management practices are adopted to keep the campus clean and hygienic. The different kinds of waste materials available in the premises of the institution are safely disposed by various methods in respect to the intensity of the waste materials.&nbsp; The following are the measures involved in the best waste management criteria.</span></span></span></span>
+                            </p>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" data-toggle="pill" href="#solid">Solid waste management</a></li>
+                                <li><a data-toggle="pill" href="#liquid">Liquid waste management </a></li>
+                                <li><a data-toggle="pill" href="#biomedical">Bio-medical management</a></li>
+                                <li><a data-toggle="pill" href="#e-waste">E – Waste management</a></li>
+                            </ul>
+                            <div class="clr"></div>
+                            <div class="tab-content">
+                                <div id="solid" class="tab-pane in active">
+                                    <div class="right-heading">Solid Waste Management</div>
+                                    <p> Solid waste management refers to the collecting, treating, and disposing of solid material that is discarded or is no longer useful. </p>
+                                    <p> Solid waste materials available in the campus are papers – Used papers in the office, Exam papers and used newspapers - and leaf litters and vegetable wastes. </p>
+                                    <p>The paper scraps amounts to 100 Kilo gram approximately every semester and are disposed to the paper scrap dealer. Solid waste materials like leaf litter effectively converted into compost, a natural manure for supplementing nutritional supply to the garden. Leaf litters collected and dried are used in the biogas plant with supplement of cow dung as inoculums to generate methane gas. Vegetable litters are collected properly and segregated and dried for the production of compost and biogas. The campus is provided with the composting facility and biogas production plant. Organic waste available in the campus is converted in to compost in the pit available in the garden and the organic manure produced in the compost yard is used to maintain the garden. </p>
+                                    <div class="row">
+                                        <div class="col-sm-6"> <img src="images/waste_management/IMG_20210110_131543.jpg"> </div>
+                                    </div>
+                                </div>
+                                <div id="liquid" class="tab-pane fade">
+                                    <div class="right-heading">Liquid waste management </div>
+                                    <p> The drained water from bathroom, kitchen, and lavatories are collected and treated in the sewage water plants are called waste water. It contains various organic and inorganic pollutants, microorganisms, bacteria of different diseases etc. This liquid waste/ sewage water and the waste water generated during the RO process is diverted to the garden and the Farm located in the campus thus providing the garden and the farm with water irrigation independent of any bore well and waste water from RO Plant. Hazardous waste and Biomedical waste management: </p> <strong>Discharge of chemistry laboratory waste water:</strong>
+                                    <p>All the experiments carried out in the chemistry laboratory non- hazardous in nature. Direct usage of strong acidic or basic solutions are not involved in the laboratory experiments. Radioactive and hazardous chemicals are strictly not used in the laboratory. The strength of the solution used during the experiments is less. The laboratory solvents and solutions are diluted when completing the experimental procedure. Further, this solution is getting diluted using water before discharge through the safe disposal of the chemical laboratory spent waste water. Public health and environmental safety are high priority for our Institution. The Institution is maintaining safe and secure living environment in and around the campus.</p>
+                                    <div class="row">
+                                        <div class="col-sm-6"> <img src="images/waste_management/IMG_20210110_131827.jpg"> </div>
+                                    </div>
+                                </div>
+                                <div id="biomedical" class="tab-pane fade">
+                                    <div class="right-heading">Bio Medical Waste management</div>
+                                    <p> No biomedical waste materials are generated in the campus. </p>
+                                </div>
+                                <div id="e-waste" class="tab-pane fade">
+                                    <div class="right-heading">E – Waste management</div>
+                                    <div class="common-tbl">
+                                        <p>The E – waste generated from the campus is handed over to the authorized dealers who purchase the E-scraps and turn them into useful products. Apart from this a special training during laboratory session is given to the students to rectify the faults observed in the electrical devices and thereby minimizing the generation of E-waste.</p>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-6"> <img src="images/waste_management/IMG_20210110_131334.jpg" height="170px" /> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- SECTION - 9 -->
+                    <div id="WC" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Water Conservation</div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" target="_blank" href="pdf/facilities/Water-conservation.pdf">Report Water Conservation</a></li>
+                            </ul>
+                            <table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; width:634px">
+                                <tbody>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:64px; width:122px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">S.No</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Water Conservation Facilities</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Links</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol>
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Rain Water Harvesting</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=3" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="2">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Bore Well Recharge</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=5" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="3">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Open Well Recharge</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=7" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="4">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Construction of Tanks and Bunds</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=9" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="5">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Waste Water Recycling</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=11" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="6">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Maintenance of Water Bodies and Distribution system in the Camps</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=13" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:64px; width:122px">
+                                            <ol start="7">
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:364px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Satellite view of water conservation system</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:64px; width:149px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:20.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Water-conservation.pdf#page=15" target="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- https://mail.google.com/mail/u/0/#inbox/FMfcgxwKkRHKcwxJxlXWNJPVvhrpLzdL -->
+                        </div>
+                    </div>
+                    <!-- SECTION - 9 -->
+                    <div id="GCI" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Green Campus Initiative</div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" target="_blank" href="pdf/energy-audit/Policy-on-Green-Campus.pdf">POLICY ON GREEN CAMPUS</a> </li>
+                                <li><a target="_blank" href="pdf/energy-audit/EA-Report-shanmugha.pdf">Energy Audit Report </a> </li>
+                                <li><a target="_blank" href="pdf/energy-audit/Green-Audit-Report.pdf">Green Audit</a> </li>
+                                <li><a target="_blank" href="pdf/energy-audit/Environmental-2019.pdf">Environmental Audit</a> </li>
+                                <li><a target="_blank" href="pdf/energy-audit/Swachhta-all.pdf">Green Audit Appreciation Certificate </a> </li>
+                                <li><a target="_blank" href="pdf/energy-audit/Beyond-the-campus-environment-promotional-activites.pdf">Beyond the campus environment promotional activites </a> </li>
+                            </ul>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><strong><u><span style="font-size:14.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Green campus initiatives include</span></span>
+                                </u>
+                                </strong><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">:</span></span></strong></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong>7.1.5.1. The institutional initiatives for greening the campus are as follows:  </strong></span></strong>
+                                </span>
+                                </span>
+                                </span>
+                                <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><span style="font-family:&quot;Calibri&quot;,sans-serif">1. Restricted entry of automobiles </span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><span style="font-family:&quot;Calibri&quot;,sans-serif">2. Use of Bicycles/ Battery powered vehicles </span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><span style="font-family:&quot;Calibri&quot;,sans-serif">3. Pedestrian Friendly pathways </span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><span style="font-family:&quot;Calibri&quot;,sans-serif">4. Ban on use of Plastic </span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black"><span style="font-family:&quot;Calibri&quot;,sans-serif">5. Landscaping with trees and plants </span></span>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt">Response:</span></strong>
+                                </span>
+                                </span>
+                            </p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt">Since inception, the institution has maintained as a green environment. This eco-friendly campus had put the effort to prepare plantations, lawns and gardens and have made sure well maintained. The landscaping provides the most scenic beauty for mind refreshment for the students and also captures the mind of visitors. The campus is also maintained as a plastic free campus.</span></span>
+                            </p>
+                            <h6>1. Restricted Entry of Automobiles:</h6>
+                                <p>At present the pollution is the major problem in the world. The major pollution is generated by automobiles. To minimize the pollution inside the campus Sri Shanmugha College of Engineering and Technology is having a policy. The automobiles are restricted inside the campus from entrance of the college to class room around 500 meter distance and from entrance to hostel is around 800 meter.</p>
+
+                            <h6>2. Use of Bicycles/ Battery powered vehicles:</h6>
+
+                            <p>
+                                Students are encouraged to use bicycles within the campus. Although the in-campus   distances are small the travel to and from the hostel can utilize the benefits of bicycles. For local commutation from one location to another location Battery powered vehicle is used.
+                            </p>
+                            <ul>
+                                <li>Electric motor power: 250 W</li>
+                                <li>Battery recharge time: 6 to 8 hours</li>
+                                <li>Mileage: 70kms for each charge</li>
+                            </ul>
+                            <br>
+                            <h6>3. Pedestrian Friendly pathways:</h6>
+
+                            <p>The road inside the campus is pedestrian friendly with all the vehicles orderly parked in the parking area. The pedestrian platforms are laid on the sides of the main approach road towards all buildings in the campus. Well planned drainage systems across the roads are running throughout the campus to avoid stagnation of rain water.</p>
+
+                            <h6>4. Ban on use of Plastic:</h6>
+
+                            <p>Efforts are taken by the institute to maintain a plastic free campus. Students and staffs are counseled against the use of plastic in the campus. Students can make use of the water cooler to refill their water bottles and are advised not to use plastic bottles. </p>   
+
+                            <p>Banners and slogans are displayed at the prominent locations to create awareness on ill effects of plastics.</p>
+
+                            <h6>5. Landscaping with trees and plants:</h6>
+
+                            <p>Trees are natural recourses of Oxygen and are greatly responsible in the reduction of greenhouse gases i.e., CO2. Hence care is taken to increase the green cover in the campus and conserve the environment.
+                            </p>
+
+                            <ul>
+                                <li>The trees give more fresh air.</li>
+                                <li>The green lush of lawn enhances the beauty of the campus.</li>
+                                <li>The green walk way relaxes mind.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- SECTION - 8 -->
+                    <div id="BFE" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Barrier Free Environment</div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" target="_blank" href="pdf/facilities/Barrier-free-environment.pdf">Report Barrier Free Enviroment</a></li>
+                            </ul>
+                            <table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; width:638px">
+                                <tbody>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:82px; width:87px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">S.No</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Barrier Free Environment</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Links</span></span>
+                                                </strong>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol>
+                                                <li style="text-align:center">&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ramp facilities in Main Block </span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=3" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="2">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Lift facilities in Main Block</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=5" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="3">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Lift purchase bills</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=7" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="4">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Wheel Chair</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=8" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Disabled Friendly Washrooms</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=10" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Signage Including Display Boards</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=12" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Tactile Pathways</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=14" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Assistive technology and facilities for persons with disabilities (Divyangjan) accessible websites,Screen – Reading Software, Mechanized equipment</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=16" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:82px; width:87px">
+                                            <ol start="5">
+                                                <li>&nbsp;</li>
+                                            </ol>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:411px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Provision for enquiry and information Human assistance, Reader, Scribe, Soft copy of Reading Materials, Screen Reading</span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                        <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:82px; width:141px">
+                                            <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:18.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a href="pdf/facilities/Barrier-free-environment.pdf#page=18" target ="_blank">Click here</a></span></span>
+                                                </span>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+    $(document).ready(function() {
+        shanmugaJs.pageInit();
+    })
+    </script>
+</body>
+
+</html>

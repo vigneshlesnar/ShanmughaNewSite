@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Sri Shanmugha College of Engineering and Technology</title>
+      <meta charset="utf-8">
+      <link rel="icon" href="images/shanmugalogo.png">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+      <meta name="description" content="Shanmugha College" />
+      <!--#include file="commonInclude/js-css-include.html" -->
+   </head>
+   <body>
+      <!--#include file="commonInclude/header.html" -->
+      <!--#include file="commonInclude/navbar.html" -->
+      <section class="mid-section">
+         <div class="container-fluid">
+            <div class="row admission">
+               <div class="col-sm-12">
+                  <div class="right-heading">Under Graduate (UG) Courses</div>
+               </div>
+               <div class="clr20"></div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="">
+                        <img class="card-img-top" src="images/academics/courses/AI-DS.png" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.Tech Artificial Intelligence and Data Science</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="">
+                        <img class="card-img-top" src="images/academics/courses/bio-med.png" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Biomedical Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="">
+                        <img class="card-img-top" src="images/academics/courses/IT.png" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.Tech Information Technology</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="agricultural-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-1.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Agriculture Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="be-civil-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-2.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Civil Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="be-computer-science-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-3.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Computer Science Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="be-electronics-communication-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-4.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Electronics & Communication Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="be-mechanical-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-5.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">B.E Mechanical Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="science-humanities.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-6.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">Science and Humanities</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+            </div>
+            <div class="clr"></div>
+            <div class="row">
+               <div class="col-sm-12">
+                  <div class="right-heading">Post Graduate (PG) Courses</div>
+               </div>
+               <div class="clr20"></div>
+               <div class="col-sm-12 col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="me-computer-science-engineering.shtml">
+                        <img class="card-img-top" src="images/academics/courses/course-7.jpg" alt="Course">
+                        <div class="card-body">
+                           <h5 class="card-title">M.E Computer Science and Engineering</h5>
+                        </div>
+                     </a>
+                  </div>
+               </div>
+            </div>
+            <!-- ---------------------------------- -->
+            <ul class="nav nav-pills">
+               <li><a class="active" data-toggle="pill" href="#chairman">ASSESS THE LEARNING LEVELS</a></li>
+               <li><a data-toggle="pill" href="#vice-chairman">Learning Methodologies</a></li>
+               <li><a data-toggle="pill" href="#principal">Programme Outcomes (POs) - Course Outcomes (COs) and Communication Methotologies</a></li>
+               <li><a data-toggle="pill" href="#council">POs - COs - Attainment</a></li>
+               <!-- <li><a data-toggle="pill" href="#LOCOM">List of commitee</a></li> -->
+               <!-- <li><a data-toggle="pill" href="#ORGCHART">Organizatation Chart</a></li> -->
+               <!-- <li><a href="pdf/administration/organization-chart.pdf" target="_blank">Organizatation Chart</a></li> -->
+            </ul>
+            <div class="clr"></div>
+            <div class="tab-content">
+               <div id="chairman" class="tab-pane in active">
+                  <div class="right-heading">ASSESS THE LEARNING LEVELS (Special Programs for Advanced Learners & Slow Learners)</div>
+                  <!-- <div class="row">
+                     <div class="col-sm-12">
+                       <img src="images/aboutus/chairman.jpg" />
+                     </div>
+                     </div> -->
+                  <p>At the outset of academic year, the students’ learning level is assessed through dual measures viz., on the basis of marks scored in +2 examination and in entry level test and in pursuance they are identified as slow and advanced learners. This system helps to formulate a strategy for improving slow learners through special coaching/tutorial sessions to bridge the gap between them and advance learners.</p>
+                  <P>After analyzing the learning level from their performance in daily tests and first Internal Assessment Examination, the students are again categorized which encourages them to learn more and prove their involvement in the class room observation. In order to motivate the students continuous trainings are given on communication skills, personality development, time management, seminars and guest lectures are arranged for their benefit. Various workshops with hands-on session both internal and external are arranged for promoting their programming knowledge and skills. The advanced learners are termed as “coordinators” and they actively sharing their knowledge with the slow learners.</P>
+                  <P><b>Strategy for Slow Learners:</b></P>
+                  <li>The class advisors assess the students’ caliber, analyze the nature of issues faced by them in their academia and motivate them diplomatically to achieve their academic goals.</li>
+                  <li>Special/Tutorial classes are arranged for intensified teaching on the difficult units/chapters and clarifying doubts and thereby to improve their performance.</li>
+                  <li>The class advisor/mentor critically analyses slow learners’ issues regarding their academy and personal and give suitable counseling.</li>
+                  <li>Departments conduct remedial classes and provide course materials to slow learners and other students, who are likely to drop-out due to arrears.</li>
+                  <li>Writing assignments on the frequently asked questions in University Examinations are given as the regular task for slow learners and thereby make them to be through with the subjects and the right way of answering the questions in the examination.</li>
+                  <li>The advanced learners termed as “coordinators” actively sharing their knowledge with slow learners through peer learning and group study system.</li>
+                  </P>
+                  <P><b>Strategy for Advanced Learners:</b></P>
+                  <li>Encouraging the advanced learners to be the members of various professional bodies and to organize technical events and club activities through which the leadership qualities in them are spurred up.</li>
+                  <li>Encouraging the advance learners to participate in group discussions, technical quizzes and thereby promoting their analytical and problem-solving abilities along with their communication skills.</li>
+                  <li>Encouraging the advance learners to accomplish in the research oriented projects to develop a thirst for research orientation and practical knowledge.</li>
+                  <li>Encouraging the advance learners to augment their caliber and skills through Programme Specific Training, Value added Courses and interaction with industry experts etc. and thereby to compete the industries scenario requirements.</li>
+                  <li>Encouraging the advanced learners to pursue their higher studies in premier institutions by appearing the GATE and IELTS etc.</li>
+                  <li>Encouraging the advance learners identified as the Special Interest Group (SIG) found with individual and special talents to actively participate in various competitions and extracurricular activities.</li>
+                  <li>Encouraging advanced learners to enroll in MOOC Courses viz., NPTEL, Swayam, edx, Coursera and so on and to actively participate in them.</li>
+                  </P>
+               </div>
+               <div id="vice-chairman" class="tab-pane fade">
+                  <div class="right-heading">Learning Methodologies</div>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Our Institution adopts the innovative robust teaching learning process so as to provide quality education and good learning experience for students to make them to analyze the real-time applications and to supply the needs, as per industrial scenario.&nbsp; </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Experiential Learning - </span></strong><span style="font-size:13.0pt">termed as &ldquo;Hands-on learning&rdquo; is imparted to our students in real time applications through Seminars and Workshops. Faculties demonstrate the complicated systems and its concepts through working models and video clippings which enable students to understand the working concepts of a project through experience rather than by learning. Our Institution encourages the students to do the projects by forwarding them to various industries to pursue their internships, industrial trainings viz., ICT</span> <span style="font-size:13.0pt">and project-based learning which enable them to do industry oriented projects. Institution also motivates the final year students to take up projects from industries and thereby to understand the prevailing industrial scenario requirements. Students are motivated to participate in National Level Project Competitions and they also won prizes. E-learning resources viz., Amrita Virtual Lab, Swayam prabha, NPTEL, NME&ndash;ICT and LMS etc., are the other novel platforms used by our students which excel them in their experiential learning. &nbsp;</span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Participative Learning: O</span></strong><span style="font-size:13.0pt">ur Institution has been knitted with six Incubation Centres viz., Greefi Technology, K Teq Solution, Hatlet Technology, E-2 Info System, Effitrac and Skyline Web System etc., which support the students to undergo Industry-Oriented Training, Internship and Live-Projects etc., which is the ample proof of achieving their participative learning. Our Institution encourages frequent Group Discussion among students, as it is the prime modes of participative learning which helps students to become well acquainted with their subjects and fluency in the presentation. Students also practice the events such as&nbsp;&nbsp; Role-Play/3-Minutes talk/Quiz, other powerful modes of participative learning, so as to become thorough with subjective concepts and effective implementation. Equal importance is paid in encouraging students to participate in Workshops, Seminars, Club and Symposium activities, Design and Coding Contests, Ideathon and Hackathon events and presentation of innovative ideas in the Conferences and publication of articles in leading journals which are the other instances to prove their participative learning. </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Our Institution adopts the innovative robust teaching learning process so as to provide quality education and good learning experience for students to make them to analyze the real-time applications and to supply the needs, as per industrial scenario.&nbsp; </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Problem solving methodology </span></strong><span style="font-size:13.0pt">is a student-centered pedagogy in which students learn through experiencing the salvation of open ended problems. This methodology helps students to develop their wit and talents, desirable skills and also attributes other aspects such as acquiring knowledge, enhancing group collaboration, team spirit and improvement of individual communication skill. Lab-oriented teaching, You-Tube video classes, Tutorial and Remedial Sessions for analytical courses are being conducted regularly to enhance the students&rsquo; problem-solving skills. Special lectures by the eminent personalities from premier institutions and industrial experts are invited and offered by our Institution often and thereby the students&rsquo; spirit in analyzing the methods to solve the problems is spurred up. </span></span></span></p>
+               </div>
+               <div id="principal" class="tab-pane fade">
+                  <div class="right-heading">Programme Outcomes (POs) - Course Outcomes (COs) and Communication Methotologies</div>
+                  <!-- <div class="row">
+                     <div class="col-sm-12">
+                       <img src="images/aboutus/principal.jpg" />
+                     </div>
+                     </div> -->
+                  <div class="clr10"></div>
+                  <ul>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">The Institute has a distinct Course Outcomes (COs), Programme Outcomes (POs), Programme Specific Outcomes (PSOs) and Programme Educational Objectives (PEOs) for all programme.&nbsp; It has devised a well-defined Vision and Mission statements based on which POs and COs are framed correlating syllabus content by HoDs, Course Instructor along with subject experts and placed before the Department Advisory Committee (DAC) for discussion and approved by the Governing Council. </span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">COs, POs, PSOs, PEOs and Vision and Mission statements are disseminated to the stakeholders by displaying on the college website, HoDs&rsquo; cabin, Faculties room, classrooms, laboratories, lab manuals, course delivery plan and at other conspicuous places of the Institution for the public view of students, staffs and others. &nbsp;&nbsp;</span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Soft copy of Curriculum and Learning Outcomes of Programme and Courses are uploaded on the Institution website and Hard Copy of syllabi and Learning Outcomes are available in the Departments for ready reference. Lesson plan of every course covers the COs is approved by the HoDs. At the outset of each semester, the printed COs along with lesson plan is issued to the students. Though Anna University furnishes the COs along with syllabus, the COs are modified by the Course Committee, whenever required. </span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Course Outcomes (COs</span></strong><span style="font-size:13.0pt">) &ndash; defines the cognitive processes that a course provides resulting in the knowledge and skills that the students acquire at the end of each course </span><span style="font-size:13.0pt"><span style="color:#222222">designed to mete out about 5&ndash;6 Course Outcomes set by the Institution after discussion with various stakeholders. </span></span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Program Outcomes (POs) - </span></strong><span style="font-size:13.0pt">represents knowledge, skills and attitudes that the students should possess at the end of the engineering program. </span><span style="font-size:13.0pt"><span style="color:#222222">It deals with the general aspects of graduation for a particular program, the competencies and proficiencies viz., </span></span><span style="font-size:13.0pt">1. Engineering knowledge, 2. Problem analysis, 3. Design/ development of solutions, 4. Conduct investigations of complex problems, 5. Modern tool usage, 6. The engineer and society, 7. Environment and sustainability, 8. Professional Ethics, 9. Individual and team work, 10. Communication, 11. Project management and finance and 12. Life-long learning etc., </span><span style="font-size:13.0pt"><span style="color:#222222">required by an engineering graduate on completion of programme.</span></span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Program Specific Outcomes (PSOs) - </span></strong><span style="font-size:13.0pt">defines the outcomes of a program which make the students to realize the knowledge and techniques learnt in the course has direct implications for societal betterment and its sustainability and e</span><span style="font-size:13.0pt"><span style="color:#222222">ach program shall specify 2&ndash;4 Program Specific Outcomes. </span></span></span></span></li>
+                     <li style="text-align:justify"><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt"><span style="color:#222222">Program Educational Objectives (PEOs) - </span></span></strong><span style="font-size:13.0pt"><span style="color:#222222">describes the career and professional accomplishments which prepare the graduates to achieve and it is set to assess and ascertain the effectiveness of program in moulding the students to deal with real world for applying their knowledge and skill that they have acquired. </span></span></span></span></span></li>
+                  </ul>
+               </div>
+               <div id="council" class="tab-pane fade">
+                  <div class="right-heading">POs - COs - Attainment</div>
+                  <div class="clr10"></div>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Evaluation of Programme Outcomes and Course Outcomes attainment</b> - is evaluated on direct and indirect attainment achieved by students. Direct attainment is assessed through three internal tests each meant for 100 marks with the assessment weightage for 20% and End Semester examination meant for 100 marks is assessed for 80% weightage. Both are taken together with the conversion of weightage for 80% and the remaining 20% meant for indirect attainment achieved through course end survey based on which final results published.&nbsp; </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Similar strategy is followed for assessing attainment in practical examinations through Lab records, Observation, Model Practical Examination whose weightage is converted for 20% and End Semester practical examination is converted for 80% weightage and course end survey with 20 % weightage is added for publishing final results.</span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Indirect Attainment is assessed through </span><span style="font-size:13.0pt">Student Exit Survey held at the end of program, Alumni Survey and Parent&rsquo;s Feedback being obtained every year.<strong> </strong>Survey questionnaire are mapped to relevant POs/PSOs. </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">At the outset of each semester the subject experts correlate the POs and PSOs with COs based on which the Course Outcome Target is set. Achieving total attainment of CO is used for assessing POs and PSOs attainment level. If the value compared is either equal or nearer to correlated value, it is construed that attainment is achieved successfully. </span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Grade Level</b> - Based on the grade level fixed by Anna University as 91-100-&ldquo;S&rdquo; Grade, 81-90-&ldquo;A&rdquo;, 71-80-&ldquo;B&rdquo;, 61-70&ndash;&ldquo;C&rdquo;, 57-60&ndash;&ldquo;D&rdquo; and 50- 56&ndash;&ldquo;E&rdquo; Grade, our Institute has stipulated the attainment level<strong> </strong>that if 5<span style="color:black">0% of students score 50 marks and above, it is graded as &ldquo;Level-1&rdquo;, </span>6<span style="color:black">0 % of students score 50% and above, it is termed &ldquo;Level-2&rdquo; and 70 % of &nbsp;students score 50% marks and above, then it is graded as &ldquo;Level-3&rdquo;.&nbsp; </span></span></span></span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">In the Outcome Based Education, the course coordinator is assessing through Internal Assessment &amp; University Examination, Internal Lab Assessment and University Practical Examination, Internal Project Assessment, Viva-Voce and Course End Survey etc. </span></span></span><br />
+                     <strong style="font-family:Calibri,sans-serif; font-size:11pt"><span style="font-size:13.0pt">Attainment process of POs and PSOs</span></strong>
+                  </p>
+                  <div class="row">
+                    <div class="col-sm-12">
+                       <img src="images/academics/courses/pos-cos-attainment.jpg" height="170px" />
+                    </div>
+                  </div>
+                  <p style="text-align:justify">&nbsp;</p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt"><span style="color:black">Direct Assessment Method For Calculating Attainment:&nbsp;&nbsp; </span></span></strong></span></span></p>
+                  <table cellspacing="0" class="Table" style="border-collapse:collapse; border:none; width:679px">
+                     <tbody>
+                        <tr>
+                           <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:66px; width:211px">
+                              <p style="margin-left:6px; margin-right:11px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">Attainment Level calculation&nbsp; through Direct Assessment</span></span></strong></span></span></p>
+                           </td>
+                           <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:66px; width:18px">
+                              <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">=</span></span></strong></span></span></p>
+                           </td>
+                           <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:66px; width:490px">
+                              <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">&nbsp;0.8 (0.2 x Attainment level based on Internal Assessment marks </span></span></strong></span></span><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">+&nbsp;&nbsp;</span></span></strong></span></span></p>
+                              <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.8 x Attainment level based on University Examination marks)&nbsp;</span></span></strong></span></span></p>
+                              <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">+</span></span></strong></span></span></p>
+                              <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">0.2 (0.2 x Course end survey)&nbsp; </span></span></strong></span></span></p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p style="text-align:justify"><span style="font-family:Calibri,sans-serif; font-size:13pt">Project Works is intended to assess the students&rsquo; intellectual and innovative talents by applying knowledge and analytical skills which is reviewed at 4-levels viz., (i) Students finalizing</span><span style="font-family:Calibri,sans-serif; font-size:13pt"> project themes/titles with guide&rsquo;s assistance, (ii) students&rsquo; proposed task design and their knowledge and their presentation before review panel, (iii) the extent of task completed, hardships faced and their efforts to get over and individual student&rsquo;s involvement and (iv) evaluation of the project based on the task completed, its perfection by the review panel etc., and clarifications of queries by the project team during the demo session.&nbsp;</span></p>
+                  <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">As a part of assessing students&rsquo; knowledge in engineering, viva&ndash;voce is conducted by internal and external examiners appointed by University at the end of last semester. </span></span></span></p>
+                  <p style="text-align:justify">&nbsp;</p>
+               </div>
+            </div>
+            <!-- ---------------------------- -->
+            <!-- <div class="col-sm-12">
+               <h5>Learning Methodologies</h5>
+                                   <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Our Institution adopts the innovative robust teaching learning process so as to provide quality education and good learning experience for students to make them to analyze the real-time applications and to supply the needs, as per industrial scenario.&nbsp; </span></span></span></p>
+               
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Experiential Learning - </span></strong><span style="font-size:13.0pt">termed as &ldquo;Hands-on learning&rdquo; is imparted to our students in real time applications through Seminars and Workshops. Faculties demonstrate the complicated systems and its concepts through working models and video clippings which enable students to understand the working concepts of a project through experience rather than by learning. Our Institution encourages the students to do the projects by forwarding them to various industries to pursue their internships, industrial trainings viz., ICT</span> <span style="font-size:13.0pt">and project-based learning which enable them to do industry oriented projects. Institution also motivates the final year students to take up projects from industries and thereby to understand the prevailing industrial scenario requirements. Students are motivated to participate in National Level Project Competitions and they also won prizes. E-learning resources viz., Amrita Virtual Lab, Swayam prabha, NPTEL, NME&ndash;ICT and LMS etc., are the other novel platforms used by our students which excel them in their experiential learning. &nbsp;</span></span></span></p>
+               
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Participative Learning: O</span></strong><span style="font-size:13.0pt">ur Institution has been knitted with six Incubation Centres viz., Greefi Technology, K Teq Solution, Hatlet Technology, E-2 Info System, Effitrac and Skyline Web System etc., which support the students to undergo Industry-Oriented Training, Internship and Live-Projects etc., which is the ample proof of achieving their participative learning. Our Institution encourages frequent Group Discussion among students, as it is the prime modes of participative learning which helps students to become well acquainted with their subjects and fluency in the presentation. Students also practice the events such as&nbsp;&nbsp; Role-Play/3-Minutes talk/Quiz, other powerful modes of participative learning, so as to become thorough with subjective concepts and effective implementation. Equal importance is paid in encouraging students to participate in Workshops, Seminars, Club and Symposium activities, Design and Coding Contests, Ideathon and Hackathon events and presentation of innovative ideas in the Conferences and publication of articles in leading journals which are the other instances to prove their participative learning. </span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Our Institution adopts the innovative robust teaching learning process so as to provide quality education and good learning experience for students to make them to analyze the real-time applications and to supply the needs, as per industrial scenario.&nbsp; </span></span></span></p>
+               
+               
+               
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Problem solving methodology </span></strong><span style="font-size:13.0pt">is a student-centered pedagogy in which students learn through experiencing the salvation of open ended problems. This methodology helps students to develop their wit and talents, desirable skills and also attributes other aspects such as acquiring knowledge, enhancing group collaboration, team spirit and improvement of individual communication skill. Lab-oriented teaching, You-Tube video classes, Tutorial and Remedial Sessions for analytical courses are being conducted regularly to enhance the students&rsquo; problem-solving skills. Special lectures by the eminent personalities from premier institutions and industrial experts are invited and offered by our Institution often and thereby the students&rsquo; spirit in analyzing the methods to solve the problems is spurred up. </span></span></span></p>
+               
+               
+                                   
+                               </div>
+               
+               
+                               <div class="col-sm-12">
+                                   
+                                   <h5>Programme Outcomes (POs) - Course Outcomes (COs) and Communication  Methotologies</h5>
+               
+                                   <ul>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">The Institute has a distinct Course Outcomes (COs), Programme Outcomes (POs), Programme Specific Outcomes (PSOs) and Programme Educational Objectives (PEOs) for all programme.&nbsp; It has devised a well-defined Vision and Mission statements based on which POs and COs are framed correlating syllabus content by HoDs, Course Instructor along with subject experts and placed before the Department Advisory Committee (DAC) for discussion and approved by the Governing Council. </span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">COs, POs, PSOs, PEOs and Vision and Mission statements are disseminated to the stakeholders by displaying on the college website, HoDs&rsquo; cabin, Faculties room, classrooms, laboratories, lab manuals, course delivery plan and at other conspicuous places of the Institution for the public view of students, staffs and others. &nbsp;&nbsp;</span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Soft copy of Curriculum and Learning Outcomes of Programme and Courses are uploaded on the Institution website and Hard Copy of syllabi and Learning Outcomes are available in the Departments for ready reference. Lesson plan of every course covers the COs is approved by the HoDs. At the outset of each semester, the printed COs along with lesson plan is issued to the students. Though Anna University furnishes the COs along with syllabus, the COs are modified by the Course Committee, whenever required. </span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Course Outcomes (COs</span></strong><span style="font-size:13.0pt">) &ndash; defines the cognitive processes that a course provides resulting in the knowledge and skills that the students acquire at the end of each course </span><span style="font-size:13.0pt"><span style="color:#222222">designed to mete out about 5&ndash;6 Course Outcomes set by the Institution after discussion with various stakeholders. </span></span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Program Outcomes (POs) - </span></strong><span style="font-size:13.0pt">represents knowledge, skills and attitudes that the students should possess at the end of the engineering program. </span><span style="font-size:13.0pt"><span style="color:#222222">It deals with the general aspects of graduation for a particular program, the competencies and proficiencies viz., </span></span><span style="font-size:13.0pt">1. Engineering knowledge, 2. Problem analysis, 3. Design/ development of solutions, 4. Conduct investigations of complex problems, 5. Modern tool usage, 6. The engineer and society, 7. Environment and sustainability, 8. Professional Ethics, 9. Individual and team work, 10. Communication, 11. Project management and finance and 12. Life-long learning etc., </span><span style="font-size:13.0pt"><span style="color:#222222">required by an engineering graduate on completion of programme.</span></span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Program Specific Outcomes (PSOs) - </span></strong><span style="font-size:13.0pt">defines the outcomes of a program which make the students to realize the knowledge and techniques learnt in the course has direct implications for societal betterment and its sustainability and e</span><span style="font-size:13.0pt"><span style="color:#222222">ach program shall specify 2&ndash;4 Program Specific Outcomes. </span></span></span></span></li>
+                   <li style="text-align:justify"><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt"><span style="color:#222222">Program Educational Objectives (PEOs) - </span></span></strong><span style="font-size:13.0pt"><span style="color:#222222">describes the career and professional accomplishments which prepare the graduates to achieve and it is set to assess and ascertain the effectiveness of program in moulding the students to deal with real world for applying their knowledge and skill that they have acquired. </span></span></span></span></span></li>
+               </ul>
+               
+                               </div>
+               
+               
+               
+               
+               
+               <div class="col-sm-12">
+                   
+                   
+                   <h5>POs - COs - Attainment</h5>
+               
+               
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Evaluation of Programme Outcomes and Course Outcomes attainment</b> - is evaluated on direct and indirect attainment achieved by students. Direct attainment is assessed through three internal tests each meant for 100 marks with the assessment weightage for 20% and End Semester examination meant for 100 marks is assessed for 80% weightage. Both are taken together with the conversion of weightage for 80% and the remaining 20% meant for indirect attainment achieved through course end survey based on which final results published.&nbsp; </span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Similar strategy is followed for assessing attainment in practical examinations through Lab records, Observation, Model Practical Examination whose weightage is converted for 20% and End Semester practical examination is converted for 80% weightage and course end survey with 20 % weightage is added for publishing final results.</span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Indirect Attainment is assessed through </span><span style="font-size:13.0pt">Student Exit Survey held at the end of program, Alumni Survey and Parent&rsquo;s Feedback being obtained every year.<strong> </strong>Survey questionnaire are mapped to relevant POs/PSOs. </span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">At the outset of each semester the subject experts correlate the POs and PSOs with COs based on which the Course Outcome Target is set. Achieving total attainment of CO is used for assessing POs and PSOs attainment level. If the value compared is either equal or nearer to correlated value, it is construed that attainment is achieved successfully. </span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Grade Level</b> - Based on the grade level fixed by Anna University as 91-100-&ldquo;S&rdquo; Grade, 81-90-&ldquo;A&rdquo;, 71-80-&ldquo;B&rdquo;, 61-70&ndash;&ldquo;C&rdquo;, 57-60&ndash;&ldquo;D&rdquo; and 50- 56&ndash;&ldquo;E&rdquo; Grade, our Institute has stipulated the attainment level<strong> </strong>that if 5<span style="color:black">0% of students score 50 marks and above, it is graded as &ldquo;Level-1&rdquo;, </span>6<span style="color:black">0 % of students score 50% and above, it is termed &ldquo;Level-2&rdquo; and 70 % of &nbsp;students score 50% marks and above, then it is graded as &ldquo;Level-3&rdquo;.&nbsp; </span></span></span></span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">In the Outcome Based Education, the course coordinator is assessing through Internal Assessment &amp; University Examination, Internal Lab Assessment and University Practical Examination, Internal Project Assessment, Viva-Voce and Course End Survey etc. </span></span></span><br />
+               <strong style="font-family:Calibri,sans-serif; font-size:11pt"><span style="font-size:13.0pt">Attainment process of POs and PSOs</span></strong></p>
+               
+               <p style="text-align:justify">&nbsp;</p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt"><span style="color:black">Direct Assessment Method For Calculating Attainment:&nbsp;&nbsp; </span></span></strong></span></span></p>
+               
+               <table cellspacing="0" class="Table" style="border-collapse:collapse; border:none; width:679px">
+                   <tbody>
+                       <tr>
+                           <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:66px; width:211px">
+                           <p style="margin-left:6px; margin-right:11px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">Attainment Level calculation&nbsp; through Direct Assessment</span></span></strong></span></span></p>
+                           </td>
+                           <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:66px; width:18px">
+                           <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">=</span></span></strong></span></span></p>
+                           </td>
+                           <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:66px; width:490px">
+                           <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">&nbsp;0.8 (0.2 x Attainment level based on Internal Assessment marks </span></span></strong></span></span><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">+&nbsp;&nbsp;</span></span></strong></span></span></p>
+               
+                           <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.8 x Attainment level based on University Examination marks)&nbsp;</span></span></strong></span></span></p>
+               
+                           <p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">+</span></span></strong></span></span></p>
+               
+                           <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="color:black">0.2 (0.2 x Course end survey)&nbsp; </span></span></strong></span></span></p>
+                           </td>
+                       </tr>
+                   </tbody>
+               </table>
+               
+               
+               <p style="text-align:justify"><span style="font-family:Calibri,sans-serif; font-size:13pt">Project Works is intended to assess the students&rsquo; intellectual and innovative talents by applying knowledge and analytical skills which is reviewed at 4-levels viz., (i) Students finalizing</span><span style="font-family:Calibri,sans-serif; font-size:13pt"> project themes/titles with guide&rsquo;s assistance, (ii) students&rsquo; proposed task design and their knowledge and their presentation before review panel, (iii) the extent of task completed, hardships faced and their efforts to get over and individual student&rsquo;s involvement and (iv) evaluation of the project based on the task completed, its perfection by the review panel etc., and clarifications of queries by the project team during the demo session.&nbsp;</span></p>
+               
+               <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">As a part of assessing students&rsquo; knowledge in engineering, viva&ndash;voce is conducted by internal and external examiners appointed by University at the end of last semester. </span></span></span></p>
+               
+               <p style="text-align:justify">&nbsp;</p> -->
+         </div>
+         </div>
+         </div>
+      </section>
+      <!--#include file="commonInclude/footer.html" -->
+      <script>
+         $(document).ready(function () {
+             shanmugaJs.pageInit();
+         })
+      </script>
+   </body>
+</html>

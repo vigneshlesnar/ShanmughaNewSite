@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sri Shanmugha College of Engineering and Technology</title>
+        <meta charset="utf-8">
+        <link rel="icon" href="images/shanmugalogo.png">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+        <meta name="description" content="Shanmugha College Sports" />
+        <!--#include file="commonInclude/js-css-include.html" -->
+    </head>
+    <body>
+        <!--#include file="commonInclude/header.html" -->
+        <!--#include file="commonInclude/navbar.html" -->
+        <section class="mid-section">
+            <div class="container-fluid">
+                <div class="row admission">
+                    <div class="col-sm-12">
+                        <div class="right-heading">Sports</div>
+                    </div>
+                    <div class="clr20"></div>
+                    <ul class="nav nav-pills">
+                        <li><a class="active" target="_blank" href="pdf/sports/Report-event.pdf">Report Event</a></li>
+                    </ul>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                                        <p>Sri Shanmugha College of Engineering and Technology is evincing keen interest in developing the sports activities of the students inside the campus. Students are provided with all facilities to participate actively in sports and games at district, state and national level. Athletic, Volleyball, Shuttle grounds and Basketball are major highlights of facilities.</p>
+
+                                        <p>Sports and games in an engineering college is not only a recreational activity to refresh the mind but when channeled in the right manner, it can also be used to improve the inner qualities of an individual himself/herself in sports and thus it helps to instill in him/her an attitude of team spirit and when he/she enters the work force, this will help to enhance his/her team efforts. In today&rsquo;s world one may face lot of setbacks. An engineer involved in sports will be able to face any situation with confidence and &lsquo;positive win attitude&rsquo; and at the same time if any setback is experienced, he/she will not get disheartened easily. Finally as the saying goes &ldquo;A healthy mind resides in a healthy body&rdquo;, sports will improve the overall fitness, making the person active.</p>
+
+                                        <p>Yogic values are being taught by qualified and eminent teachers.</p>
+
+                                        <p>The college provides ample opportunity for the students to take part in all indoor and outdoor sports activities. Sports complex is located adjacent to the college and has facilities for playing and practicing Tennis, Volleyball, Basketball, Badminton Football and Cricket. Our Basketball court is laid to international standards.</p>
+
+                                        <p>A well-equipped gymnasium including a multi gym is being planned to be kept open throughout the day. Inter college tournaments, inter class matches and annual athletic meet are regular features in the sports section. Many of the students represent the university and the state in various sports.</p>
+
+                                        <p>Given the need to balance sports &amp; academics, we focus on selected games and sports. Students who have represented the National and International level tournaments for the following games and sports are eligible to apply for the sports quota admissions. Every year we are giving Engineering seats for the sports quota in Athletics, Basketball, Badminton, Cricket, Chess, Table Tennis, Tennis and Squash Racket.</p>
+
+                                        <h6>ANNUAL SPORTS ACTIVITIES</h6>
+
+                                        <ul>
+                                            <li>Participation in Anna University zonal and inter zonal tournaments.</li>
+                                            <li>Participation in South Zone and All India inter university tournaments.</li>
+                                            <li>Participation in invitational inter &ndash; collegiate tournaments.</li>
+                                            <li>Participation in Tamil Nadu Inter Engineering Sports (TIES) meet.</li>
+                                            <li>Conducting the College Annual Sports day.</li>
+                                        </ul>
+
+                                        <h6>SPORTS STAR OF SSCET (2012-2013)</h6>
+
+                                        <p><strong>Ms. S. Mythili, First B.E.,</strong>&nbsp;Computer Science and Engineering, secured First Place in 200 meters, Discuss Throw, and Shot-put. She has also secured second place in 400 meters and third place in 100 meters.</p>
+
+                                        <p style="text-align:justify">&nbsp;</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!--#include file="commonInclude/footer.html" -->
+        <script>
+            $(document).ready(function () {
+                shanmugaJs.pageInit();
+            })
+        </script>
+    </body>
+</html>

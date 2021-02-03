@@ -1,0 +1,374 @@
+@media(max-width: 1080px) {
+  nav {
+    .nav-item {
+      a {
+        min-width: 110px;
+      }
+    }
+  }
+
+  .carousel-inner .banner-img img {
+    width: 100%;
+  }
+
+  .modal-medium {
+    max-width: 70%;
+  }
+}
+
+@media(max-width: 991px) {
+  .btn.applybtn {
+    margin-bottom: 0px;
+    width        : auto;
+    padding      : 7px 20px;
+    min-width    : 130px;
+    height       : auto;
+  }
+
+  .home-banner {
+    padding   : 15px;
+    display   : block;
+    text-align: center;
+
+    .home-medium-banner {
+      span {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .close-icon {
+    display: block;
+
+    span {
+      color    : #fff;
+      font-size: 30px;
+      float    : right;
+      position : relative;
+      cursor   : pointer;
+      right    : 20px;
+    }
+  }
+
+  .navbar-collapse {
+    background: $primary-color;
+    position  : fixed;
+    top       : 0px;
+    left      : 0;
+    height    : 100vh;
+    width     : 30%;
+    transition: all .3s linear;
+    overflow  : auto;
+  }
+
+  .nav-item {
+    justify-content: end;
+    padding-left   : 30px;
+
+    .nav-link {
+      justify-content: end;
+    }
+  }
+
+  .menu-expand {
+    left   : 0px !important;
+    z-index: 99;
+  }
+
+  .navbar-toggler {
+    padding: 10px 0px;
+  }
+
+  .accreditation-lists {
+    flex-wrap      : wrap;
+    justify-content: center;
+
+    li {
+      flex         : 0 0 33%;
+      margin-bottom: 20px;
+    }
+  }
+
+  footer {
+    flex-direction: column;
+
+    .image-sets {
+      order: 3;
+      padding: 0px;
+    }
+
+    .links-sets {
+      max-width    : 100%;
+      flex         : 0 0 100%;
+      margin-bottom: 4rem;
+    }
+  }
+}
+
+@media(max-width: 768px) {
+  .logo-block {
+    .counselling-code {
+      height : auto;
+      width  : auto;
+      padding: 10px 20px;
+
+      span,
+      label {
+        font-size: 15px;
+      }
+    }
+
+    .logo-img {
+      width: 300px;
+    }
+  }
+
+  .modal-medium {
+    max-width: 90%;
+  }
+
+  .btn {
+    width        : 100%;
+    margin-bottom: 15px;
+  }
+
+  .landing-carousel {
+    h3 {
+      display        : flex;
+      flex-wrap      : wrap;
+      justify-content: center;
+    }
+
+    span {
+      margin-left: 0px;
+    }
+  }
+
+  .banner-caption {
+    padding: 35px;
+
+    h1 {
+      font-size    : 34px;
+      line-height  : 42px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size    : 14px;
+      line-height  : 30px;
+      margin-bottom: 20px;
+    }
+  }
+
+  .navbar-collapse {
+    width: 70%;
+  }
+
+  .close-icon span {
+    font-size  : 30px;
+    right      : 25px;
+    line-height: 30px;
+    margin-top : 20px;
+  }
+
+  .carousel-inner {
+    .carousel-item {
+      img {
+        height    : 210px;
+        min-height: auto;
+      }
+    }
+  }
+
+  .events-ul.quicklinks {
+    margin-bottom: 0;
+    height       : auto;
+  }
+
+  .center-height-card {
+    height    : auto;
+    text-align: center;
+  }
+
+  .banner-img {
+    display: none;
+  }
+
+  .left-nav-menu {
+    ul {
+      background: transparent;
+      padding   : 0px;
+
+      li {
+        width     : auto;
+        display   : flex;
+        background: #f7f7f7;
+        padding   : 11px 20px;
+        margin    : 0px 20px 20px 0px !important;
+      }
+    }
+  }
+
+  .menu-title {
+    display: none;
+  }
+
+  .carousel-caption {
+    bottom: -30px;
+
+    h3 {
+      font-size     : 22px;
+      display       : flex;
+      flex-direction: column;
+    }
+  }
+
+  #landing-modal {
+    .modal-dialog {
+      margin-top: 30px;
+
+      .modal-header {
+        .close {
+          padding  : 0px;
+          font-size: 40px;
+        }
+      }
+
+      .modal-footer,
+      .modal-body,
+      .modal-header {
+        padding: 0px;
+      }
+    }
+  }
+
+  .accreditation-lists {
+    li {
+      flex         : 0 0 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+  footer {
+    flex-direction: column;
+    padding       : 50px 30px;
+    .links-sets {
+      .link-ul {
+        display: flex;
+        flex-direction: column;
+      }
+      &.quickset{
+        .link-ul {
+          flex-direction: row;
+        } 
+      }
+    }
+  }
+}
+
+
+@media(max-width: 600px) {
+
+  .carousel-control-next,
+  .carousel-control-prev {
+    width: 40px;
+  }
+
+  .navbar-collapse {
+    width: 100%;
+  }
+
+  .logo-block {
+    flex-wrap      : wrap;
+    justify-content: center;
+    padding        : 20px 0px;
+    padding-top    : 90px;
+  }
+
+  .modal-medium {
+    max-width: 100%;
+  }
+
+  .logo-block {
+    .logo-img {
+      width        : 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+  .flex-block .flex-image {
+    flex: 1 0 45%;
+
+    img {
+      max-width: 90%;
+    }
+  }
+
+  .center-title {
+    margin-bottom: 20px;
+  }
+
+  .normal-card {
+    margin-bottom: 40px;
+    margin-top   : 20px;
+
+    .accre-img {
+      height       : auto;
+      margin-bottom: 20px;
+    }
+
+    &.accre-4-card {
+      margin-bottom: 20px;
+
+      .accre-img {
+        height: 110px;
+      }
+    }
+  }
+
+  #placement-images .spotlight.image {
+    height: 25vw;
+  }
+
+  #press-images .spotlight.image {
+    height: 50vw;
+  }
+
+  .events-ul {
+    &.rank-ul {
+      flex-direction: row;
+
+      li {
+        width: 96%;
+      }
+    }
+  }
+
+  .events-section {
+    .event-flex {
+      flex-direction: column;
+      align-items   : initial;
+
+      .event-date {
+        margin       : 0px;
+        margin-bottom: 1.5rem;
+        flex         : 0 0 auto;
+        height       : auto;
+      }
+
+      p {
+        border-right: 0px;
+        margin-right: 0rem;
+
+        &,
+        b {
+          font-size: 18px;
+        }
+      }
+    }
+
+    .registerbtn {
+      margin-top: 1rem;
+    }
+  }
+}

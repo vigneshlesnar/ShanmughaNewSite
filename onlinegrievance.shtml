@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Sri Shanmugha College of Engineering and Technology</title>
+      <meta charset="utf-8">
+      <link rel="icon" href="images/shanmugalogo.png">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+      <meta name="description" content="Shanmugha College" />
+      <!--#include file="commonInclude/js-css-include.html" -->
+   </head>
+   <body>
+      <!--#include file="commonInclude/header.html" -->
+      <!--#include file="commonInclude/navbar.html" -->
+      <section class="mid-section">
+         <div class="container-fluid">
+            <div class="row admission">
+               <div class="col-sm-12">
+                  <iframe src = "https://forms.gle/SMGyPAfTwCJsaQSf9" width = "555" height = "800"></iframe>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!--#include file="commonInclude/footer.html" -->
+      <script>
+         $(document).ready(function () {
+             shanmugaJs.pageInit();
+         })
+      </script>
+   </body>
+</html> 

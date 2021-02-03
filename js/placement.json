@@ -1,0 +1,14 @@
+{
+    "placement1": {
+        "year":2018,
+        "name":["ivtl.jpg", "hcl.png", "Agnitio-Systems.png", "Zetek-Casting.jpg", "Avalon-Technologies.png", "Bhaggyam-Constructions.png", "augusta1.png", "VEE-Technology.jpg", "E2-Info-Systems.jpg", "MILEKAL.jpg", "PRABHA-AUTO.jpg", "SUPER-AUTO-FORGE.png", "PRESTIGE-GROUP.png", "RPP-constructions.png", "Sakthi-Infotech.jpg", "Sri-Gujan-builders.png", "TDS.png"]
+    },
+    "placement2": {
+        "year":2017,
+        "name":["softsquare.png", "excelacom.png", "technosoft.png", "SoftDrizzlesSolutions.png", "woosu.png", "tds.jpg", "bhaggyam.png", "amazon.jpg", "arul.png", "axis.png", "bosch.png", "colorhom.png", "super.png", "shriram.png", "perfect.png", "interarch.png", "inno.png", "indoshell.png", "DAS.png"]
+    },
+    "placement3": {
+        "year":2016,
+        "name":["jbm.jpg", "scope1.png", "techmahendra.png", "001.png", "mold.jpg", "birlasoft1.png", "indus-teqsite.png", "broad-soft.png", "hyosung.png", "avasoft.png", "accenture.png", "aveonlogo.png", "cadd.png", "prem.png", "css.png", "fiem.png", "sodecia.png", "gemini1.png"]
+    }
+}

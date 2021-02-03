@@ -1,0 +1,118 @@
+<div class="right-heading">VIP TESTIMONIALS</div>
+
+<ul class="manage-lists">
+    <li>
+        <div class="manager">
+            <img src="images/vip/karthik.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Karthick<br>
+                RiDh Engg Services, Chennai</label>
+            <p>Excellent hospitality & good Co-ordinator, training for students are good & need to be improved further…
+            </p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/Kumar-Pushparaj.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.KUMAR PUSHPARAJ,<br>
+                HR. Broad soft, Chennai.</label>
+            <p>Good infrastructure, state of the Art facility. All together good experience with management team.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/mani.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Mani S<br>
+                AGM (HRM), Salem</label>
+            <p>Mechnical lab for students having all machines, In that having teaching space inside lab and Good
+                Infrastructure.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/satesh.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Sathesh T<br>
+                HCL, Chennai.</label>
+            <p>Good Infrastructure, all the best for coming years.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/SIVAKUMAR.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Sivakumar V<br>
+                Asst.General Manager Toastmasters, Chennai.</label>
+            <p>Very Clean & Beautiful Campus and a Very Commited Management team. Toastmasters team is very happy come
+                and deliver youth leadership program to this students.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/VENKATAKRISHNAN.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Vasanthakrishnan<br>
+                Founder, Avon Global.</label>
+            <p>Excellent facilities, Event co-ordination and dedication of students and staffs are amazing.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/natarajan.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr Natarajan R<br>
+                Dirctor, Coz Research & Green Tech Center, vellor</label>
+            <p>Had good intraction with the students of the institutions, professor. I am very impressed by the
+                chairman and director and principal.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/IMG_0005.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Ms.Reethu Ranjith<br>
+                HCL, Chennai.</label>
+            <p>Good Admosphere, dedicated environment good staff, good wishes.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/raja.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Rajasekaran A<br>
+                ISS Support Services Pvt Ltd, Chennai.</label>
+            <p>Good infrastructure, Hospitality & Amblance is Execllent.</p>
+        </div>
+    </li>
+
+    <li>
+        <div class="manager">
+            <img src="images/vip/baskar.jpg">
+        </div>
+        <div class="manager-details">
+            <label>Mr.Bhaskar Ganguly<br>
+                Traitsys Technologies Pvt Ltd, Bangalore.</label>
+            <p>Good infrastructure, Hospitality & Amblance is Execllent.</p>
+        </div>
+    </li>
+
+</ul>

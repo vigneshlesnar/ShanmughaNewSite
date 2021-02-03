@@ -1,0 +1,2942 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-sm-12">
+                    <div class="back-page">
+                        <a href="academics.shtml">
+                            <img src="images/icons/arrow-blue.svg" />
+                            <span>Back</span>
+                        </a>
+                        <div class="menu-title">SCIENCE AND HUMANITIES</div>
+                    </div>
+                </div>
+
+                
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#profile">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty">Faculty</a>
+                        </li>
+                        <li class="nav-item hide-li-alone">
+                            <a class="nav-link" data-toggle="tab" href="#laboratories">Laboratories</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty-achievements">Faculty Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#student-achievements">Student Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#activities">Activities</a>
+                        </li>
+                        <li class="nav-item hide-li-alone">
+                            <a class="nav-link" data-toggle="tab" href="#innovative-teaching-methods">Innovative
+                                Teaching Methods</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+
+                    <!-- SECTION - 1 -->
+                    <div id="profile" class="right-nav-divs tab-pane active">
+                        <div class="right-card">
+                            <div class="right-heading">Vision</div>
+                            <p>
+                                To be an institute of repute in the field of engineering and technology by implementing
+                                the best educational practices akin to global standards for fostering domain knowledge
+                                and developing research attitude among students to make them globally competent.
+                            </p>
+
+                            <div class="right-heading">Mission</div>
+                            <ul class="mou-ul">
+                                <li>Achieving excellence in Teaching Learning process using state-of-the-art resources
+                                </li>
+                                <li>Extending opportunity to upgrade faculty knowledge and skills</li>
+                                <li>Implementing the best student training practices for requirements of industrial
+                                    scenario of the state</li>
+                                <li>Motivating faculty and students in research activity for real time application</li>
+                            </ul>
+
+                            <div class="right-heading">About the Department</div>
+                            <ul class="mou-ul">
+                                <li>Engineering Mathematics</li>
+                                <li>Engineering Physics</li>
+                                <li>Engineering Chemistry</li>
+                                <li>Technical English and Communication Skills</li>
+                            </ul>
+
+                            <p>
+                                Science and Humanities Department is essentially application-oriented. Since Mathematics
+                                is regarded as the Queen of Sciences pervading all the branches of Engineering and
+                                Technology, a thorough knowledge of Engineering Mathematics is imparted to the students
+                                by the highly qualified and experienced faculty. The aim is to focus on the
+                                applicability of mathematical concepts to the engineering subjects for achieving greater
+                                insights and clarity. The other subjects such as Physics and Chemistry are projected to
+                                secure a clear understanding of the intricacies of Engineering and Technology.
+                                Engineering Physics and Engineering Chemistry serve to provide a strong foundation in
+                                applied physics and applied chemistry with the help of a well equipped laboratories.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="faculty" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">FACULTY OF MATHEMATICS</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the Faculty</th>
+                                            <th>Qualification</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Dr.T.Aasaithambi</td>
+                                            <td>M.Sc.,M.Phil., Ph.D.,</td>
+                                            <td>Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Ms.K.Meenambika</td>
+                                            <td>Mphil., PGDCA, MHRM., (Ph.D)</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Ms.S.Manimala</td>
+                                            <td>M.Sc.,M.Phil.,</td>
+                                            <td>Associate Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Mr.S.SenthilKumar</td>
+                                            <td>M.Sc., M.Phil.,</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Mrs.M.Dhanalakshmi</td>
+                                            <td>M.Sc.,M.Phil.,</td>
+                                            <td>Assistant Professor </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">FACULTY OF CHEMISTRY</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the Faculty</th>
+                                            <th>Qualification</th>
+                                            <th>Designation</th>
+                                            <th>View</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Dr.K.B.Nagashanmugam</td>
+                                            <td>M.Sc.,PhD.,</td>
+                                            <td>Professor</td>
+                                            <td><a href="pdf/course/science/Faculty-detail-updated-2017-18.pdf"
+                                                    target="_blank" rel="noopener noreferrer">View</a></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Mrs.K.Nirosha</td>
+                                            <td>M.Sc., M.Phil.,B.Ed</td>
+                                            <td>Assistant Professor</td>
+                                            <td>-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Dr.M.Sethupathy</td>
+                                            <td>M.Sc.,PhD.,</td>
+                                            <td>Professor</td>
+                                            <td>-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Dr.P.Sivakumar</td>
+                                            <td>M.Sc.,M.Phil., PhD.,</td>
+                                            <td>Associate Professor</td>
+                                            <td>-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Dr.K.Ganesh</td>
+                                            <td>M.Sc.,PhD,.</td>
+                                            <td>Assistant Professor</td>
+                                            <td>-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Mr.S.Chandrasekar</td>
+                                            <td>M.Sc.,PhD,.</td>
+                                            <td>Associate Professor</td>
+                                            <td>-</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">FACULTY OF ENGLISH</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the Faculty</th>
+                                            <th>Qualification</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mrs.P .Geethamani</td>
+                                            <td>M.A,M.Phil.,B.Ed.,</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Mr.D.Johnson</td>
+                                            <td>M.A,M.Phil.,</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Mr.M.Balaji</td>
+                                            <td>M.A,M.Phil.,</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">FACULTY OF PHYSICS</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the Faculty</th>
+                                            <th>Qualification</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Dr.K.Kumar</td>
+                                            <td>M.Sc.,Ph.D.,</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Dr.K.Boobalan</td>
+                                            <td>M.Sc., Ph. D</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Mrs S.Priyatharshni</td>
+                                            <td>M.Phil.,(Ph.D.)</td>
+                                            <td>Assistant Professor</td>
+                                        </tr>
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">NON- TEACHING STAFF</div>
+                            <div class="common-tbl">
+                                <div class="table-layout">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>S.No</th>
+                                                <th>Name of the Faculty</th>
+                                                <th>Designation</th>
+                                                <th>Department</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>1</td>
+                                                <td>Mr.M.Marimuthu</td>
+                                                <td>Lab Technician</td>
+                                                <td>Physics</td>
+                                            </tr>
+                                            <tr>
+                                                <td>2</td>
+                                                <td>Ms.R.Priya</td>
+                                                <td>Lab Technician</td>
+                                                <td>Chemistry</td>
+                                            </tr>
+                                            <tr>
+                                                <td>3</td>
+                                                <td>Ms.S.Manimegalai</td>
+                                                <td>Lab Technician</td>
+                                                <td>Chemistry</td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <!-- SECTION - 3 -->
+                    <div id="laboratories" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">PHYSICS LAB</div>
+                            <p>
+                                The main objective of conducting laboratory in Physics is to make the student to analyze
+                                the Physical Principle involved in the device and also to allow the student to relate
+                                the Principle to new applications. Physics, the fundamental building block of all
+                                disciplines of Engineering has a pivotal role in the development of engineering
+                                solutions to contemporary problems in the physical sciences by applying fundamental
+                                principles. It iS.Not confined to a particular discipline of Engineering but a thread
+                                weaved through the whole technological domain. Engineering Physics provide a thorough
+                                grounding in the realm of Modern Optics, Quantum Physics, Superconductivity, Acoustics,
+                                Crystallography, Semiconductor physics and Nanotechnology. There are around title
+                                experiments in which areas of optics, mechanics to electronics are covered, by which the
+                                student gets nurtured to all the branches of engineering. The performance of these
+                                experiments makes the student to think in an innovative manner and also improve these
+                                creative skills which are very essential in Engineering.
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <img src="images/course-colleges/science/Physics1.jpg" />
+                                </div>
+                            </div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No</th>
+                                            <th width="92%">Major Equipments</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Ultrasonic Interferometer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Spectrometer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Band gap apparatus</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Torsional Pendulum apparatus</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Diode laser</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Optical Fiber</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Lee’s Disc apparatus</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>Band gap apparatus</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>B-H curve apparatus</td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>Travelling Microscope</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+                            <div class="right-heading">CHEMISTRY LAB</div>
+                            <p>
+                                Chemistry is one subject which gives adequate knowledge about the applications involved
+                                in the aerospace, mechanical, environmental and other engineering fields. Knowledge of
+                                chemistry plays a vital role in engineering profession enabling the potential engineers
+                                to understand and to perform successfully while working on multidisciplinary tasks. It
+                                serves to provide strong foundation in Applied Chemistry which in turn serves as a
+                                baseline for all Engineering streams. The main objective of the department is to develop
+                                the necessary theoretical and practical aspects required for understanding intricacies
+                                of the subject and also give adequate exposure to the applied chemistry aspects in
+                                different disciplines of engineering. Our faculty educates the engineering students with
+                                all necessary concepts related to chemistry and develops a scientific attitude by means
+                                of distinguishing, analyzing and solving various engineering problems. We are training
+                                the students to develop their experimental skills and important practical knowledge in
+                                engineering by providing sophisticated chemistry laboratory. The department has highly
+                                qualified and dedicated faculty members with Two Doctorates in various specialized areas
+                                of Chemistry. The department has a well established laboratory to accommodate sixty
+                                students at a time for Engineering Chemistry Lab Class. All the instruments used by
+                                First year students are the state of art and a good number of sophisticated instruments.
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <img src="images/course-colleges/science/chemistry.jpg" />
+                                </div>
+                            </div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No</th>
+                                            <th width="92%">Major Equipments</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Electronic Top loading Balance</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Digital Visible Spectrophotometer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Digital Flame Photometer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Hot-Air Oven</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Demineraliser</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Digital Conductivity Bridge with conductivity cell</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Digital pH meter with combined electrode</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>Electronic Digital potentiometer with Platinum electrode</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>Hot Plate</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+
+                            <div class="right-heading">COMMUNICATION SKILL</div>
+                            <p>
+                                The English Department strengthens the liberal education of students by developing a
+                                deepened understanding of language, the value of critical reading and effective writing,
+                                and the significance of communication. The language teaching will lead the students to
+                                participate in society as informed, responsible citizens. The Department also aspires to
+                                offer to students the best preparation possible to ensure their success in future career
+                                in English. The Department ensures the students to gain confidence to communicate their
+                                ideas clearly and boldly. The main aim of the Department is to increase sophistication
+                                with reading, writing problem solving and in speaking. The department imparts knowledge
+                                and skills to rural youth in order to meet their intellectual and social aspirations and
+                                cultural and technical needs of the society.
+                                <br><br>
+                                The Department of English extends a colossal support to the development of Effective
+                                Communication Skills of the students and to get them placed in the premier corporate
+                                houses around the world.
+                                <br><br>
+                                The Department has well-equipped Language Lab to enhance the communicative skills of the
+                                students. English Literary Club helps to nurture the latent skills of the students. The
+                                Department arranges Guest Lectures, Workshops and Seminars regularly to facilitate the
+                                students to update their communication skills.
+                            </p>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No.</th>
+                                            <th width="92%">Software List</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Clarity SNET English Teacher Module</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Face2Face (Elementary)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Face2Face (Pre-Intermediate)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Face2Face (Intermediate)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Face2Face (Upper-Intermediate)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Face Creative Writing CAMBRIDGE</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>EuroTalk.Listen1</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>EuroTalk.Listen2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>PRONUNCIATION POWER 1</td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>PRONUNCIATION POWER 2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>11</td>
+                                            <td>Oxford Picture Dictionary Interactive</td>
+                                        </tr>
+                                        <tr>
+                                            <td>12</td>
+                                            <td>Oxford Pronunciation</td>
+                                        </tr>
+                                        <tr>
+                                            <td>13</td>
+                                            <td>Group Discussion</td>
+                                        </tr>
+                                        <tr>
+                                            <td>14</td>
+                                            <td>Longman Interactive American Dictionary (1CD)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>15</td>
+                                            <td>Picture Dictionary</td>
+                                        </tr>
+                                        <tr>
+                                            <td>16</td>
+                                            <td>BBC DVD English – World’s Most Popular English Course</td>
+                                        </tr>
+                                        <tr>
+                                            <td>17</td>
+                                            <td>Basic Communicationtd&gt;</td>
+                                        </tr>
+                                        <tr>
+                                            <td>18</td>
+                                            <td>Group Discussion</td>
+                                        </tr>
+                                        <tr>
+                                            <td>19</td>
+                                            <td>Study Listening cd1</td>
+                                        </tr>
+                                        <tr>
+                                            <td>20</td>
+                                            <td>Study Listening cd2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>21</td>
+                                            <td>A Course in Communication Skill</td>
+                                        </tr>
+                                        <tr>
+                                            <td>22</td>
+                                            <td>Business Vocabulary in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>23</td>
+                                            <td>Cambridge - English Grammar in Use (Essential) (2nd Ed) [Audio CD]
+                                                (1997)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>24</td>
+                                            <td>Cambridge - English Pronunciation in Use (Advanced) [with Audio CD]
+                                                (2007)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>25</td>
+                                            <td>Cambridge - English Pronunciation in Use (Elementary) [with Audio CD]
+                                                (2007)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>26</td>
+                                            <td>Cambridge - English Pronunciation in Use (Intermediate) [with Audio CD]
+                                                (2003)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>27</td>
+                                            <td>English Collocations in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>28</td>
+                                            <td>English Grammar in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>29</td>
+                                            <td>English Idioms in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>30</td>
+                                            <td>English Phrasal Verbs in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>31</td>
+                                            <td>English Vocabulary In Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>32</td>
+                                            <td>Professional English in Use</td>
+                                        </tr>
+                                        <tr>
+                                            <td>33</td>
+                                            <td>Touchstone</td>
+                                        </tr>
+                                        <tr>
+                                            <td>34</td>
+                                            <td>English Grammar in Use (Essential) (3rd Ed) (2007)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>35</td>
+                                            <td>English Grammar in Use (Intermediate) (2005)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>36</td>
+                                            <td>English Grammar in Use (Advanced) (2005)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>37</td>
+                                            <td>English Vocabulary in Use Elementary 2nd Edition (Cambridge)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>38</td>
+                                            <td>English Vocabulary in Use Pre-intermediate &amp; Intermediate [2nd Ed]
+                                                (2006)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>39</td>
+                                            <td>English Vocabulary in Use Upper-intermediate [2nd Ed] (2006)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>40</td>
+                                            <td>English Vocabulary in Use Advanced [2nd Ed] (2006)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>41</td>
+                                            <td>Learn to Speak English</td>
+                                        </tr>
+                                        <tr>
+                                            <td>42</td>
+                                            <td>Talk Business</td>
+                                        </tr>
+                                        <tr>
+                                            <td>43</td>
+                                            <td>Talk Now</td>
+                                        </tr>
+                                        <tr>
+                                            <td>44</td>
+                                            <td>World Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>45</td>
+                                            <td>Movie Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>46</td>
+                                            <td>Talk More</td>
+                                        </tr>
+                                        <tr>
+                                            <td>47</td>
+                                            <td>Talk The Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>48</td>
+                                            <td>English in Mind 3cds</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 4 -->
+                    <div id="faculty-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Faculty Achievements</div>
+                            <ul class="accordionlinks">
+                                <li>
+                                    <a href="pdf/course/science/Faculty-Participation-2019-20.pdf" target="_blank">View
+                                        Academic year 2019</a>
+                                </li>
+                            </ul>
+                            <div class="clr20"></div>
+
+                            <div class="right-heading">Faculty Achievements 2018-2019</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Faculty Name</th>
+                                            <th>Event</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mr.T.Aasaithambi</td>
+                                            <td>Attended CSIR sponsored one day national workshop on Applications of
+                                                Graph Labeling in Communication Networks</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Dr.K.Janagi</td>
+                                            <td>Attended CSIR sponsored one day national workshop on Applications of
+                                                Graph Labeling in Communication Networks</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2">3</td>
+                                            <td rowspan="2">Mrs.K.Meenambika</td>
+                                            <td>Attended CSIR sponsored one day national workshop on Applications of
+                                                Graph Labeling in Communication Networks</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Successfully completed NPTEL online course in “Numerical methods”</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">4</td>
+                                            <td rowspan="3">Dr.K.Boobalan</td>
+                                            <td>Participated AICTE sponsored FDP for students induction programme</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Presented a Paper in International Conference on Advanced Nanomatrials
+                                                for Energy, Enviroment and Healthcare Applications at KSR College of
+                                                Arts and Science</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Secured Elite in NPTEL online course “Advanced Materials and Processes”
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Mrs.P.Geethamani</td>
+                                            <td>Participated in Communication Skills ICT Academy</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Mrs.K.Nirosha</td>
+                                            <td>Participated in AICTE sponsored FDP for students induction programme at
+                                                PSG College of Technology</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Faculty Achievements 2017-2018</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name of the Authors</th>
+                                            <th>Title of Paper</th>
+                                            <th>Name of the Journal</th>
+                                            <th>ISSN NO</th>
+                                            <th>Volume &amp; Page No</th>
+                                            <th>Year of publication</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Dr.K.Kumar</td>
+                                            <td>The structural,electrical and magnetic properties of 〖co〗^(2+) content
+                                                dependent Mg-Sr nanoferrite for electromagnetic induction</td>
+                                            <td>Elsevier</td>
+                                            <td>0921-5107</td>
+                                            <td>B224(2017) &amp; 48-55</td>
+                                            <td>2017</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Dr.K.Kumar
+                                                Dr.P.Sivakumar</td>
+                                            <td>Chitosan capped nanoscale Fe-MIL-88B-NH2 metal-organic framework as drug
+                                                carrier material for the pH responsive delivery of doxorubicin</td>
+                                            <td>IOP (Materials Research Express)</td>
+                                            <td>2053-1591</td>
+                                            <td>4 &amp; 085023</td>
+                                            <td>2017</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Dr.C.B .Resmi</td>
+                                            <td>Comprehension And Decoding:Using ‘Independent Enquirer’ Strand In
+                                                Children With Reading Difficulties-DYSLEXIA</td>
+                                            <td>International Conference</td>
+                                            <td>978-93- 86435-12-5</td>
+                                            <td>-</td>
+                                            <td>2017</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Ms.K.Janagi</td>
+                                            <td>Free Convection Of Water Near Its Density Maximum In A Heat Generating
+                                                Porous Cavity With Sinusoidal Heating</td>
+                                            <td>International Conference</td>
+                                            <td>1757-899X</td>
+                                            <td>-</td>
+                                            <td>2018</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Faculty Achievements 2016-2017</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name of the Authors</th>
+                                            <th>Title of Paper</th>
+                                            <th>Name of the Journal</th>
+                                            <th>ISSN NO</th>
+                                            <th>Volume &amp; Page No</th>
+                                            <th>Year of publication</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>M. Leelamaheswari</td>
+                                            <td>Naylor’s Treatment Of Motherhood In Her Novels</td>
+                                            <td>IJELR</td>
+                                            <td>2395-2628</td>
+                                            <td>13&amp; 386</td>
+                                            <td>2016</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Top Results</div>
+                            <ul class="mou-ul">
+                                <li>In Nov-Dec 2016 University exam Mr.T.Aasaithambi achieved 100% result in Engineering
+                                    Mathematics-I</li>
+                                <li>In Nov-Dec 2016 University exam Mr.A.Ramesh achieved 100% result in Technical
+                                    English-I</li>
+                                <li>In Nov-Dec 2016 University exam Mrs.M.Priyadarshini achieved 100% result in
+                                    Engineering Mathematics-I</li>
+                                <li>In Nov-Dec 2016 University exam Mrs. M.Leelamaheswari achieved 100% result in
+                                    Technical English-I</li>
+                            </ul>
+
+                            <div class="right-heading">Faculty Achievements 2015-2016</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>FACULTY NAME</th>
+                                            <th>TITLE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="44">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="207">
+                                                <p>Dr. T. Elakkiya</p>
+                                            </td>
+                                            <td width="438">
+                                                <ul>
+                                                    <li>Attended New Faculty Induction Programme held at Hotel Chimney,
+                                                        Erode organized by Confederation of Indian Industry (CII), Erode
+                                                        Zone, Erode</li>
+                                                </ul>
+                                                <ul>
+                                                    <li>Attended Trainning Programme on “The state of the art-analytical
+                                                        instruments”, held at Anna University, Chennai, India</li>
+                                                    <li>Attended National Seminar on “Recent Advancements in Wastewater
+                                                        Treatment for sustainable Development” held at Kongu Engineering
+                                                        College, Perundurai, Erode</li>
+                                                    <li>Conducted Guest Lecture on “Fiber reinforced composites” for
+                                                        Mechanical and Civil Final year students. Chief Guest
+                                                        –&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        Dr. S. Anandakumar, Senior grade Assistant Professor, Anna
+                                                        University, Chennai.</li>
+                                                    <li>Conducted Guest Lecture on “Recent Trends in Nanotechnology” for
+                                                        Final year B.E. Students. Chief Guest –&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        Dr. R. Jayavel, Director, Centre for Research, Anna University,
+                                                        Chennai.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="207">
+                                                <p>Miss. K. Kiruthika</p>
+                                            </td>
+                                            <td width="438">
+                                                <ul>
+                                                    <li>Attended the IIT Bombay X Technical Symposium STTP held at SSCET
+                                                        (Face to face – online)</li>
+                                                    <li>Attended FDP on Technical Communication for Scientist and
+                                                        Engineers conducted by IIT- Bombay.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="207">
+                                                <p>Mrs.Leelamaheswari AP/ ENG</p>
+                                            </td>
+                                            <td width="438">
+                                                <ul>
+                                                    <li>Attended FDP on Technical Communication for Scientist and
+                                                        Engineers conducted by IIT- Bombay.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Journal published</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>FACULTY NAME</th>
+                                            <th>TITLE</th>
+                                            <th>JOURNAL</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="44">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>Leelamaheswari. M</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Impact of Western Culture on The Characters of Wole&nbsp; Soyinka</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>Research Inspiration, 2016.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>K.Kiruthika</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Zagreb indices and Zagreb coindices of some graph operations</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>International Journal of Advanced Research in Engineering and
+                                                    Technology (IJARET), 7 &amp; 25-51, 2016</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Journal Communicated</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>FACULTY NAME</th>
+                                            <th>TITLE</th>
+                                            <th>JOURNAL</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="44">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>&nbsp;Dr. T. Elakkiya</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>5-Fluorouracil Nano fibrous scaffold for cancer treatment</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>Fibers and Polymers, 2016.</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">TOP Results</div>
+                            <ul class="mou-ul">
+                                <li>In Apr-May 2016 University exam Mrs. M.Leelamaheswari
+                                    achieved 100% result in Technical English-II</li>
+                                <li>In Apr-May 2016 University exam Mr.T.Aasaithambi
+                                    achieved 100% result in Numerical method</li>
+                                <li>In Apr-May 2015 University exam Mr.C.Rajendran achieved
+                                    100% result in Technical English - II</li>
+                                <li>In Apr-May 2015 University exam Mrs..M.Leelamaheswari
+                                    achieved 100% result in Technical English - II</li>
+                                <li>In Apr-May 2015 University exam Mrs.J.Diana achieved
+                                    100% result in Technical English - II</li>
+                                <li>In Apr-May 2015 University exam Ms.S.Manimala achieved
+                                    100% result in two subjects Namely Mathematics – II and Numerical methods</li>
+                                <li>In Apr-May 2015 University exam Mrs.S.Deepa achieved
+                                    100% result in Engineering Physics - II</li>
+                                <li>In Nov-Dec 2015 University exam Mrs.M.Priyadarshini
+                                    achieved 100% result in Mathematics - I</li>
+                                <li>In Nov-Dec 2015 University exam Mrs.S.Deepa achieved
+                                    100% result in Engineering Physics - II</li>
+                                <li>In Nov-Dec 2015 University exam Mrs.J.Diana achieved
+                                    100% result in Technical English - I</li>
+                                <li>In Nov-Dec 2015 University exam Mr.S.Senthilkumar
+                                    achieved 100% result in Transforms and Partial differential equations.</li>
+                            </ul>
+
+                            <div class="right-heading">Faculty Achievements 2014-2015</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>FACULTY NAME</th>
+                                            <th>TITLE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="44">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="207">
+                                                <p>Dr. M. Mohan</p>
+                                            </td>
+                                            <td width="438">
+                                                <ul>
+                                                    <li>Conducted “TWO WEEK ISTE STTP on Environmental studies"held on
+                                                        02-12 June 2015</li>
+                                                    <li>Attended One week ISTE Short Term Training Programme (STTP) for
+                                                        Coordinators on Environmental Studies from 23<sup>rd</sup> to
+                                                        27<sup>th</sup> March 2015 at IIT Bombay, Mumbai</li>
+                                                    <li>Attended Two-Week ISTE Workshop on Engineering Thermodynamics
+                                                        from 11<sup>th</sup> to 21<sup>st</sup> December 2012</li>
+                                                    <li>Attended Training of Evaluators/Resource Persons on Outcome
+                                                        Based Accreditation organized by National Board of Accreditation
+                                                        Phase I on 05.03.2014 and Phase II from Mar.14-16, 2014 at
+                                                        Bannari Amman Institute of Technology - NBA Nodal Centre,
+                                                        Sathyamangalam-638401</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Journal published</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>FACULTY NAME</th>
+                                            <th>TITLE</th>
+                                            <th>JOURNAL</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="44">
+                                                <p>&nbsp;</p>
+                                                <p>1</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>S.Satheeskumar</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Antifungal activity of pure and aluminium doped zinc oxide
+                                                    nanoparticles against aspergillus nigar and aspergillus flavus</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>International Journal of Pharm Tech Research CODEN (USA): IJPRIF,
+                                                    ISSN: 0974-4304 Vol.7, No.2, p.no. 287-290, 2014-2015.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>S.Satheeskumar</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Examination of antibacterial properties of pure and aluminum doped
+                                                    zinc oxide nanoparticles</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>International Journal of Chem Tech Research, CODEN (USA): IJCRGG,
+                                                    ISSN: 0974-4290, Vol.7, No.4, p.no. 1708-1712, 2014-2015.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>S.Satheeskumar</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Synthesis and characterization of chitosan and poly vinyl pyrrolidone
+                                                    (PVP) capped ZnO nanoparticles and their antibacterial activity
+                                                    against Escherichia coli and Staphylococcus aurens</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>International Journal of Chem Tech Research, CODEN (USA): IJCRGG,
+                                                    ISSN: 0974-4290, Vol.7, No.5, p.no. 2478-2482, 2014-2015.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="44">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="155">
+                                                <p>S.Satheeskumar</p>
+                                            </td>
+                                            <td width="268">
+                                                <p>Exploration Of Synthesis, Structural, Morphology And Antibacterial
+                                                    Activity Of Zn1-X-Y Mgx Aly O Nano Particles</p>
+                                            </td>
+                                            <td width="226">
+                                                <p>Digest Journal of Nanomaterials and Biostructures, Vol. 9, No. 4,
+                                                    p.no.1323 – 1330, 2014-2015.</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Top Results</div>
+                            <div class="common-tbl">
+                                <ul class="mou-ul">
+                                    <li>In Nov-Dec 2014 University exam Dr.M.Mohan achieved 100% result in Engineering
+                                        Chemistry - I</li>
+                                    <li>In Nov-Dec 2014 University exam Mrs..M.Leelamaheswari achieved 100% result in
+                                        Technical English - I</li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 5 -->
+                    <div id="student-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Student Achievements</div>
+                            <ul class="accordionlinks">
+                                <li>
+                                    <a href="pdf/course/science/Students-Participation-2018-19.pdf" target="_blank">View
+                                        Achievement 2018-2019</a>
+                                </li>
+                            </ul>
+                            <div class="clr20"></div>
+
+                            <div class="right-heading">Student Achievements 2018-2019</div>
+                            <div class="common-tbl">
+                                <table style="width:100%" class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No.</th>
+                                            <th width="28%">STUDENT'S NAME</th>
+                                            <th width="20%">TITLE &amp; EVENT</th>
+                                            <th width="30%">CONDUCTED AT</th>
+                                            <th width="20%">PLACE ATTAINED</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>1. K.Suryaprakash I AGRI
+                                                2. P.Shankar I AGRI
+                                            </td>
+                                            <td>
+                                                <p>e ~ graphie</p>
+                                            </td>
+                                            <td>
+                                                <p>Jansons Institute of Technology</p>
+                                            </td>
+                                            <td>
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Student Achievements 2017-2018</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>STUDENT'S NAME</th>
+                                            <th>TITLE &amp; EVENT</th>
+                                            <th>CONDUCTED AT</th>
+                                            <th>PLACE ATTAINED</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="48">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>A.Shivani I ECE</li>
+                                                    <li>G.Hamsavardhini </li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Wireless USB</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>KSR College of Engineering Paper presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Priyanka I ECE</li>
+                                                    <li>M.Ishwarya</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Nano robotics</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>KSR College of Engineering Paper presentation </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>&nbsp;</p>
+                                                <p>Second Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>B.Vanitha Veni I CSE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role of mathematics in Engineering and Technology</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering,Namakkal </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>B.Vanitha Veni I CSE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role of mathematics in Engineering and Technology</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>5</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>B.Vanitha Veni I CSE</li>
+                                                    <li>R.Indhu</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role of mathematics in Engineering and Technology</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>J.K.K. Munirajah College of Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Prize</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>6</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S.Kalaiselvam I Civil</li>
+                                                    <li>A.Bharanidhar I Mech</li>
+                                                    <li>S.Prabakaran I Mech</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Lada Fest 2018- Dumb –c</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Institute of Road and Transport technology Literary Debate and
+                                                    Association</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Second Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>7</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S.T.Mohana priyan I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Science Quiz</li>
+                                                    <li>Short Film</li>
+                                                </ol>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                                <p>Second place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>8</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Thenpandiyan I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Quiz</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Second place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>9</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Udaya N I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Science Quiz</li>
+                                                    <li>Short Film</li>
+                                                </ol>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <ol>
+                                                    <li>Participated</li>
+                                                    <li>Second place</li>
+                                                </ol>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>10</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>V.Keerthivasan ,I Mech</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Lada Fest 2018- Dumb –c</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Institute of Road and Transport technology Literary Debate and
+                                                    Association</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>11</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>P.Manoj I Mech</li>
+                                                    <li>N.Gunasekaran</li>
+                                                    <li>M.Ranjith</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Lada Fest 2018- Dumb –c</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Institute of Road and Transport technology Literary Debate and
+                                                    Association</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>12</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Praveen Kumar</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Science Quiz</li>
+                                                    <li>Short Film</li>
+                                                </ol>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <ol>
+                                                    <li>Third Place </li>
+                                                    <li>Third Place </li>
+                                                </ol>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>13</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Monika V I Agri</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>English for employability</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>14</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S.T.Mohana priyan I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Global Warming </li>
+                                                    <li>Short Film</li>
+                                                </ol>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology Paper presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <ol>
+                                                    <li>Third Place</li>
+                                                    <li>First Place</li>
+                                                </ol>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>15</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>G.Chinnakarupasamy I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Global Warming </li>
+                                                    <li>Short Film</li>
+
+                                                </ol>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology Paper presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <ol>
+                                                    <li>Third Place</li>
+                                                    <li>First Place</li>
+                                                </ol>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>16</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.PraveenKumar I ECE</li>
+                                                    <li>Udaya N I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Short Film</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>17</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Priyadharshini P</li>
+                                                    <li>R.Subalakhsmi I Agri</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role Of Physics In Day to Day Life </p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>18</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Monika V I Agri</li>
+                                                    <li>Shifaya Taj</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Eco Friendly Fuel</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>19</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Subalakhsmi I Agri</li>
+                                                    <li>Madhumitha R</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>New Trends In Green Chemistry</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>20</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>K.Palanisamy I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>E-Waste</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Third place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>21</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Monisha E I Agri</li>
+                                                    <li>B.Anusiya</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Importance of English in Ones career</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>22</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Monisha E I Agri</li>
+                                                    <li>B.Anusiya</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Use of Mobile in Learning English language</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>23</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Varsha K I Agri</li>
+                                                    <li>V.Amirtha</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Solid waste management</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>24</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>V,Keerthivasan I Mech</li>
+                                                    <li>B.Tamilselvan</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Global Warming</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology Poster presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>25</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Surya Prakash R I Mech</li>
+                                                    <li>Sugana Raja S</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Application of Differentiation and Integration</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology Paper presentation </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Second Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>26</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S.Saroon I Mech</li>
+                                                    <li>P.Dhinesh Kumar</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Global Warming</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology Paper presentation </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Second Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>27</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Ranjith Kumar R A I Civil</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Physics</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>SCIENTIFIES KSR Institute of Engineering and Technology Paper
+                                                    presentation </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Third Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>28</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Kani Priya R I Agri</li>
+                                                    <li>E.Vasunthra</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Recent Trends in Nano technology</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>29</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Madhumitha I Agri</li>
+                                                    <li>D.Devadharshini</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role of Mathematics in Engineering</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Knowledge Institute of Technology Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Third Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>30</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>P.Priyadharshini I Agri</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Role of Mathematics in Engineering</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering Paper Presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>31</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S..Saroon I Mech</li>
+                                                    <li>S.Prabhakaran</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>English through Literature</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Sri Shanmugha College Of Engineering and Technology Paper
+                                                    presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>First Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>32</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>A.Sundhar I ECE</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Language role in one’s career</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Sri Shanmugha College Of Engineering and Technology , Paper
+                                                    presentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Second Place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>33</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Amirtha V I Agri</li>
+                                                    <li>Varsha K</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Future Materials</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Sri Shanmugha College Of Engineering and Technology , paper
+                                                    paresentation</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Third Place</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Student Achievements 2016-2017</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>STUDENT'S NAME</th>
+                                            <th>TITLE &amp; EVENT</th>
+                                            <th>CONDUCTED AT</th>
+                                            <th>PLACE ATTAINED</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="48">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>M.N.Bhardhwaj </li>
+                                                    <li>J Chanakya </li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Fluorescent Modulation of Au and AgNPS,Paper Presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering,Namakkal</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>P.Saranya </li>
+                                                    <li>P.Sharmila </li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Smart packages through biochemical glass window to prevent food
+                                                    poisoning and food waste,Paper Presentation </p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering,Namakkal</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>&nbsp;</p>
+                                                <p>II prize </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>S.Thamu</li>
+                                                    <li>S.Naveen</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Nanocomposite fertilizers for Agrochemical Applications , Paper
+                                                    presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering,Namakkal </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>K.Sowmiya </li>
+                                                    <li>V.Banupriya </li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Polymer Based multifunctional hybrid nanoparticles for cancer
+                                                    Theranostics ,Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Muthayammal College of Engineering,Namakkal</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>Participated</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>5</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>M.N.Bharadhwaj</li>
+                                                    <li>L.Paveenkhan</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Short Film </p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology,Namakkal</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>II prize</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>6</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R.Kannan </li>
+                                                    <li>S.Nagaraju </li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Emerging Trends in English language </p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology,Namakkal </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>II prize</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>7</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R. Manjuladevi</li>
+                                                    <li>S. Manju</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Emerging Trends in English language </p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Gnanmani College of Technology,Namakkal </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>II prize</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Student Achievements 2015-2016</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>STUDENT'S NAME</th>
+                                            <th>EVENT</th>
+                                            <th>CONDUCTED AT</th>
+                                            <th>PLACE ATTAINED</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="48">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Brabasuthan</li>
+                                                    <li>Akashkumar</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>“National level students technical symposium (Ignita’16)”–Chemistry
+                                                    Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Nehru Institute of Engineering and Technology, Coimbatore</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>I prize with cash and shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>2</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Haridharan</li>
+                                                    <li>Aravind</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>“National level students technical symposium (Ignita’16)” –
+                                                    Mathematics &nbsp;Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Nehru Institute of Engineering and Technology, Coimbatore</p>
+                                            </td>
+                                            <td width="125">
+                                                <p>&nbsp;</p>
+                                                <p>II prize with cash and shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Brabasuthan</li>
+                                                    <li>Kavinkumar</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Hunt’16 – Chemistry Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Shree Venkateshwara Hitech Engineering College, Gobichettipalayam.
+                                                </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>I prize with shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Deepana&nbsp;</li>
+                                                    <li>S. Mekala</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Hunt’16 – Chemistry Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Shree Venkateshwara Hitech Engineering College, Gobichettipalayam.
+                                                </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>II prize with shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>5</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Haridharan</li>
+                                                    <li>Vignesh</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Hunt’16 – Mathematics Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Shree Venkateshwara Hitech Engineering College, Gobichettipalayam.
+                                                </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>I prize with shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>6</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>Haridharan</li>
+                                                    <li>Vignesh</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Hunt’16 – Connection Competition</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Shree Venkateshwara Hitech Engineering College, Gobichettipalayam.
+                                                </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>I prize with shield.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="48">
+                                                <p>7</p>
+                                            </td>
+                                            <td width="150">
+                                                <ol>
+                                                    <li>R. Manjuladevi</li>
+                                                    <li>S. Manju</li>
+                                                </ol>
+                                            </td>
+                                            <td width="150">
+                                                <p>Science Hunt’16 – English Paper presentation</p>
+                                            </td>
+                                            <td width="228">
+                                                <p>Shree Venkateshwara Hitech Engineering College, Gobichettipalayam.
+                                                </p>
+                                            </td>
+                                            <td width="125">
+                                                <p>I prize with shield.</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Student Achievements 2014-2015</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>STUDENT'S NAME</th>
+                                            <th>EVENT</th>
+                                            <th>TITLE</th>
+                                            <th>PLACE ATTAINED</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="30">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>R.SANTHOSH</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p><strong>IRISH 2K15 </strong></p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Nano technology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>&nbsp;2</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>R.SANTHOSH</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>SCIENTIFIES</p>
+                                                <p>KSR Institute of Engineering and Technology</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Nano technology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper and won third place</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>3</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>N.Parameswaran</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>REPOWIS 15</p>
+                                                <p>Kongu Engineering college</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Nano technology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Participated in paper presentation</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="120">
+                                                <ol>
+                                                    <li>Naveen</li>
+                                                </ol>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>REPOWIS 15</p>
+                                                <p>Kongu Engineering college</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>English Language Theory to practical&nbsp;&nbsp;&nbsp;</p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Participated in paper presentation</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>5</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>K.Venkatesh</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>IRISH 2K15</p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>English Language Theory to practical&nbsp;&nbsp;&nbsp;</p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>6</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>G.Sivaramakrishnan</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>IRISH 2K15</p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Physics in day to day life</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>7</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>A.Naveenkumar</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>IRISH 2K15</p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Physics in day to day life</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>8</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>C.Sakthivel</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>IRISH 2K15</p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Latest trends in mathematics</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>9</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>G.D.Noorulbashar</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>IRISH 2K15</p>
+                                                <p>National level Technical Symposium</p>
+                                                <p>P.A College of Engineering and Technology</p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Latest trends in mathematics</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>10</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>S.Manikandan</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>National Festive of Science Day Celebration-2015</p>
+                                                <p>Muthayammal college of Engineering&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Application of Nanotechnology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>11</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>A.Naveenkumar</p>
+                                                <p> Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>National Festive of Science Day Celebration-2015</p>
+                                                <p>Muthayammal college of Engineering&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Mathematics and its Application in Engineering and Technology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>12</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>M.Boopalan</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>National Festive of Science Day Celebration-2015</p>
+                                                <p>Muthayammal college of Engineering&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Exciting Careers in Mathematics</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="30">
+                                                <p>13</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>A.Naveenkumar</p>
+                                                <p>Mechanical</p>
+                                            </td>
+                                            <td width="270">
+                                                <p>SCIENTIUM 15</p>
+                                                <p>State level student Symposium</p>
+                                                <p>Kongu Engineering college</p>
+                                                <p>&nbsp;</p>
+                                            </td>
+                                            <td width="144">
+                                                <p>Mathematics and its Application in Engineering and Technology</p>
+                                            </td>
+                                            <td width="120">
+                                                <p>Presented a paper</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 6 -->
+                    <div id="activities" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">ACADEMIC YEAR 2012-13</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>
+                                                Name of the event
+                                            </th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>MAPHYTECH – state level students symposium</td>
+                                            <td>20.04.2013</td>
+                                            <td>Paper presentation</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2013-14</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>
+                                                Name of the event
+                                            </th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>MUGHAM – Inter Collegiate Techno Cultural Fest</td>
+                                            <td>21.04.2014</td>
+                                            <td>Short film Flickers- Photography Octaves –Instrumental Fusion
+                                                Ragha-singing Unplugged –Painting Adzap-Radio jockey (Tamil) Adzap-Radio
+                                                jockey (English)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Motivational program</td>
+                                            <td>16.10.2013 to 19.10.2013</td>
+                                            <td>Life skill and motivational program</td>
+                                        </tr>
+                                        <tr>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+                            <div class="right-heading">ACADEMIC YEAR 2014-15</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the event</th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Guest lecture</td>
+                                            <td>14.11.2014</td>
+                                            <td>Engineering Chemistry -I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Motivational program</td>
+                                            <td>15.10.2014 to 18.10.2014</td>
+                                            <td>Life skill and motivational program</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2015-16</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the event</th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Guest lecture</td>
+                                            <td>26.04.2016</td>
+                                            <td>Engineering Chemistry -II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Motivational program</td>
+                                            <td>26.02.2016 to 27.02.2016</td>
+                                            <td>Life skill and motivational program</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Guest lecture</td>
+                                            <td>17.04.2015</td>
+                                            <td>Engineering Physics -II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Entrepreneur Development Program</td>
+                                            <td>23.04.2015</td>
+                                            <td>Special lecturer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Youth Engineers Program</td>
+                                            <td>21.02.2015</td>
+                                            <td>An activity based learning program</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2016-17</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the event</th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Guest lecture</td>
+                                            <td>11.11.2016</td>
+                                            <td>Engineering Chemistry -I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Motivational program</td>
+                                            <td>24.10.2016 to 27.10.2016</td>
+                                            <td>Life skill and motivational program</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Dream to achieve </td>
+                                            <td>02.09.2016</td>
+                                            <td>Training program</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>First year inauguration</td>
+                                            <td>18.07.2016</td>
+                                            <td>Special lecturer</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Workshop</td>
+                                            <td>25.07.2016 to 27.07.2016</td>
+                                            <td>Transactional analysis </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2017-18</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the event</th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>A National level Technical Symposium</td>
+                                            <td>11.04.2018</td>
+                                            <td>Paper presentation and poster presentation </td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Guest Lecture for PPCP </td>
+                                            <td>17.03.2018 </td>
+                                            <td>Principles and practices of crop production </td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Guest Lecture for PPCP </td>
+                                            <td>05.02.2018 </td>
+                                            <td>Principles and practices of crop production </td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Guest Lecture for PSPP </td>
+                                            <td>24.12.2017 to 25.12.2017</td>
+                                            <td>Problem solving and python programming and C programming</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Guest Lecture for Physics</td>
+                                            <td>24.12.2017 to 25.12.2017</td>
+                                            <td>Engineering Physics and Material Science </td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Guest Lecture for chemistry</td>
+                                            <td>17.12.2017 to 18.12.2017</td>
+                                            <td>Water and its Treatment method –An Environmental Approach and Absorption
+                                                and Catalysis</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Motivational program</td>
+                                            <td>23.11.2017 to 27.11.2017</td>
+                                            <td>Motivational program on life skill</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>First year Inauguration</td>
+                                            <td>15.08.2017</td>
+                                            <td>Motivate the Students</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2018-19</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name of the event</th>
+                                            <th>Date</th>
+                                            <th>Events conducted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>First year inauguration</td>
+                                            <td>23.08.2018</td>
+                                            <td>Motivate the Students</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Motivational programme</td>
+                                            <td>11.09.2018</td>
+                                            <td>By Mr.R.S.Prabhu</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Motivational Programme</td>
+                                            <td>21.09.2018 to 22.09.2018</td>
+                                            <td>By Mr.T.Ragunath</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Benefits of Yoga</td>
+                                            <td>29.09.2018</td>
+                                            <td>Motivate the Students</td>
+                                        </tr>
+                                    </tbody>
+
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 7 -->
+                    <div id="innovative-teaching-methods" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">INNOVATIVE TEACHING METHOD</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Innovative Teaching Methods</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>Power Point Presentation (PPT)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>National Programme on Technology Enhanced Learning (NPTEL)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3</p>
+                                            </td>
+                                            <td>
+                                                <p>Audio and Video Lecturing (Animation)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4</p>
+                                            </td>
+                                            <td>
+                                                <p>Quiz and Role Play</p>
+                                            </td>
+
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>5</p>
+                                            </td>
+                                            <td>
+                                                <p>Learning Management Systems (LMS)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>6</p>
+                                            </td>
+                                            <td>
+                                                <p>3 Minutes Talk</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>7</p>
+                                            </td>
+                                            <td>
+                                                <p>Massive open online course (MOOC)</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+            shanmugaJs.academicsMenuActive();
+        })
+    </script>
+</body>
+
+</html>

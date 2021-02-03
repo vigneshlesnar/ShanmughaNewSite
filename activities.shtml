@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="back-page">
+                        <a href="index.shtml">
+                            <img src="images/icons/arrow-blue.svg" />
+                            <span>Home</span>
+                        </a>
+                        <div class="menu-title">ACTIVITIES</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#wec">Women Empowerment Cell</a>
+                        </li> 
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#COMMDAYS">Commemorative Days</a>
+                            <!-- <a href="pdf/activities/Commemorative-Days.pdf" class="nav-link" target="_blank">Commemorative Days</a> -->
+                        </li> 
+                        <li class="nav-item">
+                            <a href="#humanvalues" class="nav-link" data-toggle="tab">Human Values & Professional Ethics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#inclusion" class="nav-link" data-toggle="tab">Inclusion & Situatedness</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#edc">Entrepreneurship Development Cell</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#CBSE">Capacity Building and Skills Enhancement</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#nswa">Nest Social Welfare
+                                Association</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#nss">NSS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#clubs">Clubs & Activities</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#yrc">YRC</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#csdc">Communication Skill development cell</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#hec">Higher Education Cell</a>
+                        </li>                        
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#all">Assess the learning levels</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+
+                      <!-- SECTION - 1 -->
+                    <div id="CBSE" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Capacity Building and Skills Enhancement</div>
+                           
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">SOFT SKILLS</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Soft skills are interpersonal skills that a person has to possess which determines a person&#39;s ability to enable in a work structure. Improving the soft skills for the &nbsp;Students acquire and help them succeed in their future endeavours. Soft skills are a combination of skills such as communication, social, personality traits,etc.,.It is the desirable qualities for certain form of employment.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Objective:</span></span></strong></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To give each student a realistic perspective of work</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To formulate and solve aptitude problems</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To improve problem solving skills</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To improve confidence and enhance self-motivation</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">To improve the ability of social skills</span></span></span></span></li>
+                            </ul>
+
+                            <p><span style="font-size:20px"><span style="font-family:Calibri,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Activities</span></strong></span></span></p>
+
+                            <p><strong><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Positivity</span></span></span></span></strong></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">Positivity</span></span></span></strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;means thinking in an optimistic way, looking for solutions, expecting good results and success, and focusing and making life happier. It is a happy and worry-free state of mind, which looks at the bright side of life.&nbsp;<strong>Positivity</strong>&nbsp;means a positive frame of mind.</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">Active listening</span></span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">Active listening</span></span></span></strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;refers to a pattern of&nbsp;<strong>listening</strong>&nbsp;that keeps you engaged with your conversation partner in a positive way. It is the process of&nbsp;<strong>listening</strong>&nbsp;attentively while someone else speaks, paraphrasing and reflecting back what is said, and withholding judgment and advice.</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">Good Communication</span></span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In the workplace, one of the most important skills to possess is good communication. Employers value employees who can communicate effectively; it means they are able to listen to others, as well as successfully relay their own ideas and opinions. While listening and speaking are important in effective communication, there are other skills that are vital to good communication in the workplace</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Team work</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In the workplace, one of the most important skills to possess is good communication. Employers value employees who can communicate effectively; it means they are able to listen to others, as well as successfully relay their own ideas and opinions. While listening and speaking are important in effective communication, there are other skills that are vital to good communication in the workplace</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Creativity</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><em><strong><span style="font-size:12.0pt"><span style="background-color:white">Creativity</span></span></strong></em><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;is the act of turning new and imaginative ideas into reality.&nbsp;</span></span></span><em><strong><span style="font-size:12.0pt"><span style="background-color:white">Creativity</span></span></strong></em><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;is characterised by the ability to perceive the world in new ways, to find hidden patterns, to make connections between seemingly unrelated phenomena, and to generate solutions.</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">ENGLISH LANGUAGE LAB</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Communication skills play a vital role in students career.&nbsp; Learning process of communication skills training is provided according to individual student&#39;s ability and concentrating their pronunciation, proper grammar usage in sentence making. Main focus is given to fluency and accuracy of individuals.&nbsp;Group discussion will help the students to know about their ability to speak in public without hesitation.&nbsp;&nbsp;</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif">To develop students communication skills,&nbsp;various training programs are given to the students.&nbsp; We use Clarity Software in communication lab for build strong grammar ability to make a sentence without error.&nbsp;&nbsp;</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In clarity software, all the grammar portions is included. Step by step exercises will make them strong in grammar.&nbsp;&nbsp;</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">It helps in huge level of speaking in English with fluently and accurately..&nbsp;&nbsp;</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Main objective:&nbsp;</span></span></strong></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">* To ensure that all the students have confident to communicate in English.&nbsp;</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">* Concentrate on fluency and accuracy</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">* Build strong vocabulary&nbsp;skill both in professional and technical side.&nbsp;</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Activities</span></span></strong><strong> </strong></span></span></p>
+
+                            <p style="margin-right:15px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp; &bull;&nbsp; Individual Activity &mdash; In individual activity students give self introduction and will talk about an event in front of others which will help them to get rid of stage fear and also helps them to develop communication skills.</span></span></span></span></p>
+
+                            <p style="margin-right:24px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp; &bull; Pair Activity &mdash; in this activity students will be paired among themselves and they will exchange dialogue, roleplay and converse which enables them to develop communication .</span></span></span></span></p>
+
+                            <p style="margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; &bull;&nbsp; Group Activity &mdash;A group of students participate&nbsp; in debate , group discussion paper presentation in symposium and conferences etc.</span></span></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Audio listening sessions are conducted.</span></span></span></span></li>
+                            </ul>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Motivational speech</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Stories</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Articles reading</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * News listening</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Phonetics oriented session</span></span></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Group Discussion conducted </span></span></span></span></li>
+                            </ul>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Peer group activities</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Debate</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Topics given individually to talk</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Discussing the current events</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; * Education and motivational oriented speech.</span></span></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Newspaper circulated</span></span></span></span></li>
+                            </ul>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; * Stared from reading newspaper</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; * Collecting vocabulary</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; * Word game conducted</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; * Magazines reading</span></span></span></span></p>
+
+                            <p style="margin-left:48px; margin-right:50px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp; * Journals reading</span></span></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Competitions are conducted</span></span></span></span></li>
+                            </ul>
+
+                            <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Individual topics are given to write</span></span></span></span></p>
+
+                            <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * A topic is given to all</span></span></span></span></p>
+
+                            <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Creative writing</span></span></span></span></p>
+
+                            <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Misspelled words given to write correctly</span></span></span></span></p>
+
+                            <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Listening audio and write the words.</span></span></span></span></p>
+
+
+
+
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!-- <img src="images/activities/capacity-building/VLSI1-lab.jpg" height="150px"> -->
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">LIFE SKILLS-YOGA AND MEDITATION</span></span></strong></span></span></p>
+
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Daily Life is a system of practice of eight levels of development in the areas of physical, mental, social and spiritual health. When the body is physically healthy, the mind is clear, focused and stress is under control. This gives the space to connect with loved ones and maintain socially healthy relationships. When you are healthy you are in touch with your inner self, with others and your surroundings on a much deeper level, which adds to your spiritual health.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;Yoga increases the flexibility of the spine, improve body&rsquo;s physical condition and heightened awareness to the importance of relaxation. It has been emphasized that each exercise be practiced slowly, coordinating movement with the breath, pausing motionless in each position and always with full concentration.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The main goals of &ldquo;Yoga in Daily life&rdquo; are:</span></span></strong></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Physical Health</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mental Health</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Social Health</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Spiritual Health</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Self-Realization or realization of the Divine within us</span></span></span></span></li>
+                            </ul>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The goals are attained by</span></span></strong></span></span></p>
+
+                            <ul>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Love and health for all living beings</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Respect for life protection of nature and the environment</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A peaceful state of mind </span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Full vegetarian diet</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Pure thoughts and positive life style </span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Physical, mental, and spiritual practices</span></span></span></span></li>
+                                <li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Tolerance for all nations, cultures and religious </span></span></span></span></li>
+                            </ul>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Physical Health</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The health of the body is of fundamental importance in life. As the Swiss-born physician, Paracelsus, very correctly said, &ldquo;Health isn&rsquo;t everything, but without health everything is nothing&rdquo;. To preserve and restore health there are physical exercise (Asanas), breath exercises (Pranayama) and relaxation techniques.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mental health</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In general, we are led through life by the mind and senses, rather than having these under our control. However, to gain control of the mind, we must first place it under inner analysis and purify it. Negative thoughts and fears create an imbalance in our nervous system and through this our physical function. This is the cause of many illnesses and sorrows. Clarity of thought, inner Freedom, contentment and a healthy self-confidence are the basis of mental wellbeing.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Social Health</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Social health is the ability to be happy within oneself and to be able to make others happy. It means to nurture genuine contact and communication with other people, to assume responsibility within society and to work for the community. Social health is also the ability to relax and experience life in all its beauty.</span></span></span></span></p>
+
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/capacity-building/yoga.jpg" height="150px">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/capacity-building/yoga1.jpg" height="150px">
+                                </div>
+                            </div>
+
+
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">ICT &amp; Computing facility</span></span></strong></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Sri Shanmugha College of Engineering and Technology follows the norms laid down by AICTE and Anna University for creating and enhancing the infrastructure facilities for effective teaching and learning methodologies. All the infrastructure facilities are provided with a vision to help students to develop their academic and carrier progression skills. The college has exclusive language laboratory attached with audio and video facilities for enhancing student to gain knowledge in communication.</span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Our institution has 7 computer laboratories with high speed Internet connection of 55 MBPS . LCD projectors are available in each classroom to improve the students listening skills. We also have High sound Quality Speakers used in Communication Laboratories. In our college the AUTOCAD Laboratory is available which is used by Civil and Mechanical department students. Our college use advanced operating systems likes Windows-10 ,Windows-XP, Windows-7 and also have Linux, UNIX .The computers have various languages like C, C++, Java, .net, Rational Rose and Visual Basic. For the Internet connection we use optical fiber cables. </span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The Institution has IIT Remote Centre which is used for video conferencing. Our institution also possess Company incubation which is used for industry project. R&amp;D labs are available for each department.</span></span></span></span></span></p>
+
+                            <p><span style="font-size:11pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The college ICT facility includes projectors, wireless microphones, sound systems marker boards, PA system, desktop recorder with internet facility to conduct lectures, seminars, webinars, conferences guest lectures and workshop.</span></span></span></span></span></p>
+
+                          <div class="row">
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/Communication-lab.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/mechatronics-lab.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/Network-lab.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                   <img src="images/activities/capacity-building/Network-lab1.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/r&d.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/Robotic-and-project-lab.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/VLSI-lab.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/classroom1.jpg" height="150px">
+                                </div>
+                                <div class="col-md-2">
+                                    <img src="images/activities/capacity-building/classroom2.jpg" height="150px">
+                                </div>
+
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+                    <!-- SECTION - 1 -->
+                    <div id="nswa" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">NEST SOCIAL WELFARE ASSOCIATION</div>
+                            <p>
+                                The visionaries of Sri Shanmugha College Of Engineering and Technology (SSCET) wanted to
+                                make the Institution versatile and unique capable of participating in the process of
+                                social transformation and hence they have been focusing on higher education,
+                                particularly technical education for all.
+                            </p>
+
+                            <p>
+                                The education system conceived by SSCET by training students and instilling in them a
+                                quest for excellence and innovation with a resolute approach to productivity, global
+                                awareness and professional competence have made its indelible mark in the field of
+                                higher education.
+                            </p>
+
+                            <p>
+                                Special education, higher education and technical education are thrust areas of the
+                                SSCET, which is committed to promote and propagate quality education on par with
+                                international standards. It is our earnest ambition to groom talents and turn them into
+                                best quality professionals with high intellectual capabilities and strong moral values.
+                            </p>
+
+                            <p>
+                                The main motto of SSCET is to address to the cries of the deprived, who are in financial
+                                crisis. The association functions to remove poverty in the society. We immensely toil to
+                                eliminate the people’s financial crucial stages and mainly focus on empowering the
+                                illiterate society. So, we strive to make India a worthy place for all people in spite
+                                of caste, creed, race and religion to live with peace and harmony. We care for the need
+                                and express the fulfillment of life. Ultimately, we hope that this scheme will continue
+                                for the time in immemorial.
+                            </p>
+
+                            <p>Donate liberally, help the deprived!</p>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="nss" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">NSS</div>
+
+                             <ul class="nav nav-pills">
+                                <li><a class="active" href="pdf/activities/nss/CERTIVICATES.pdf">CERTIFICATES</a></li>
+                                <li><a class="active" href="pdf/activities/nss/1.NSS&YRC-ACTIVITY-(2019-2020).pdf">2019-2020</a></li>
+                                <li><a class="active" href="pdf/activities/nss/2.NSS&YRC-ACTIVITY(2018-19).pdf">2018-2019</a></li>
+                                <li><a class="active" href="pdf/activities/nss/3.NSS&YRC-ACTIVITY-(2017-18).pdf">2017-2018</a></li>
+                                <li><a class="active" href="pdf/activities/nss/4.NSS&YRC-ACTIVITY-(2016-17).pdf">2016-2017</a></li>
+                                <li><a class="active" href="pdf/activities/nss/5.NSS&YRC-ACTIVITY(2015-16).pdf">2015-2016</a></li>
+                                <li><a class="active" href="pdf/activities/nss/6.NSS&YRC-ACTIVITY(2014-15).pdf">2014-2015</a></li>
+                            </ul>
+
+
+                            <p>
+                                The Motto of NSS “Not Me But You”, reflects the essence of democratic living and upholds
+                                the need for self-less service. NSS helps the students to develop appreciation to other
+                                person’s point of view and also show consideration to ‘other living beings. The
+                                philosophy of the NSS is well reflected in this motto, which underlines on the belief
+                                that the welfare of an individual is ultimately dependent on the welfare of the society
+                                therefore, the NSS volunteers shall strive for the well-being of the society.
+                            </p>
+
+                            <div class="right-heading">Activities</div>
+                            <ul class="mou-ul">
+                                <li>Road reconstruction</li>
+                                <li>Yoga class</li>
+                                <li>Class on self- confidence</li>
+                                <li>Cultural fest</li>
+                                <li>Class on internal marks</li>
+                                <li>Class on personality development</li>
+                                <li>Debate</li>
+                                <li>Blood group identification camp</li>
+                                <li>Class for school students</li>
+                                <li>Trekking</li>
+                                <li>Class on energy conservation</li>
+                                <li>Camp fire</li>
+                                <li>Training on paper carry bag preparation</li>
+                                <li>Visit to orphanage</li>
+                                <li>Indoor games</li>
+                            </ul>
+
+                            <div class="right-heading">NSS SYMBOL</div>
+                            <p>
+                                The symbol of the National Service Scheme, as appearing on the cover page of this Manual
+                                is based on the ' Rath ' wheel of the Konark Sun Temple situated in Orissa. These giant
+                                wheels of the Sun Temple portray the cycle of creation, preservation and release, and
+                                signify the movement in life across time and space.
+                            </p>
+
+                            <p>
+                                The design of the symbol, a simplified form of the Sun-chariot wheel primarily depicts
+                                movement. The wheel signifies the progressive cycle of life. It stands for continuity as
+                                well as change and implies the continuous striving of NSS for social transformation and
+                                upliftment.
+                            </p>
+
+                            <div class="right-heading">NSS DAY</div>
+                            <p>
+                                NSS was formally launched on 24th September, 1969, the birth centenary year of the
+                                Father of the Nation. Therefore, 24th September is celebrated every year as NSS Day with
+                                appropriate programmes and activities.
+                            </p>
+
+                            <div class="right-heading">OBJECTIVE OF NSS</div>
+                            <ul class="mou-ul">
+                                <li>To enable the students to understand the society in which they work.</li>
+                                <li>To identify the needs and problems of the society and provide solution of which they
+                                    can be involved.</li>
+                                <li>To apply their education in finding practical solution to individual.</li>
+                                <li>To develop competence required for group living and sharing responsibilities.</li>
+                                <li>Gain skills in mobilizing community participation.</li>
+                                <li>To acquire leadership qualities and democratic attitude.</li>
+                                <li>To develop capacity to meet emergencies and national disasters.</li>
+                                <li>To practice national integration.</li>
+                            </ul>
+
+                            <div class="right-heading">Staff In-charge</div>
+                            <p>Mr S Senthil Kumar AP/Maths</p>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 3 -->
+                    <div id="clubs" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">HOSTEL</div>
+                            <div class="clr20"></div>
+
+                            <ul class="nav nav-pills">
+                                <li><a class="active" data-toggle="pill" href="#sports">Sports</a></li>
+                                <li><a data-toggle="pill" href="#science">Science</a></li>
+                                <li><a data-toggle="pill" href="#innovators">Innovators</a></li>
+                                <li><a data-toggle="pill" href="#communication">Communication</a></li>
+                                <li><a data-toggle="pill" href="#fitness">Fitness</a></li>
+                                <li><a data-toggle="pill" href="#maths">Mathematics</a></li>
+                                <li><a data-toggle="pill" href="#orators">Orators</a></li>
+                                <li><a data-toggle="pill" href="#photography">Photography</a></li>
+                                <li><a data-toggle="pill" href="#music">Music</a></li>
+                                <li><a data-toggle="pill" href="#reading">Reading</a></li>
+                                <li><a data-toggle="pill" href="#ylp">YLP</a></li>
+                            </ul>
+
+                            <div class="tab-content">
+                                <div id="sports" class="tab-pane in active">
+                                    <div class="right-heading">SPORTS CLUB</div>
+                                    <p>
+                                        Every dream needs to be driven by passion to make it come true. Sports Club is
+                                        one such dream, formed by keeping sheer passion for the sports. It was conceived
+                                        by a group of people headed by Mr. D. Sathyakumar. The philosophy of the Sports
+                                        Club Program is to support the best elements of competition, instruction and
+                                        recreation by providing the opportunity for all the students to participate and
+                                        excel in team setting. The members of the club are exposed to various activities
+                                        which are competitive in nature, with an emphasis on participation, skill
+                                        development and student leadership.
+                                        <br><br>
+                                        Our SSCET sports club, an effort has been made to provide world class facilities
+                                        and infrastructure for the promotion of sports and health. Ten acres of open
+                                        ground is allotted for promoting outdoor sports like cricket, football,
+                                        volleyball, basketball, lawn tennis etc. and it has facilities for indoor games
+                                        like badminton, table tennis, chess, caroms, etc.
+                                        <br><br>
+                                        Ultimately, Sport Club enhances the collegiate and educational experiences of
+                                        their members. The competitive aspect of the Club allows their members to
+                                        compete against other intercollegiate sports teams, while the instructional
+                                        aspect of Club offers the members a chance to enhance their skills in a sports
+                                        activities.
+                                    </p>
+                                </div>
+                                <div id="science" class="tab-pane fade">
+                                    <div class="right-heading">SCIENCE CLUB</div>
+                                    <p>
+                                        The purpose of the Science Club is to promote interest, understanding and
+                                        knowledge of the scientific world. The area of emphasis shall include chemistry,
+                                        engineering, geology, mathematics, physics and much more.
+                                        <br><br>
+                                        The Science Club is started with the aim to invite many eminent scientists who
+                                        would share their experience with the students and motivate them to gain
+                                        scientific knowledge. Activities are designed primarily to introduce
+                                        interesting/exciting science ideas, like motors, circuits, rockets, goofy putty,
+                                        and squid. A secondary goal is to relate these ideas of science concepts in the
+                                        classroom.
+                                        <br><br>
+                                        Science club creates an eagerness among students and gives practice to
+                                        participate in the inter-collegiate science quiz contests, conferences and
+                                        various science related competitions in order to bring out their hidden talents.
+                                        <br><br>
+                                        It also organizes events like science quiz, science related skits, paper
+                                        presentation and lectures by experts on current and advanced topics on science.
+                                    </p>
+                                </div>
+                                <div id="innovators" class="tab-pane fade">
+                                    <div class="right-heading">INNOVATORS CLUB</div>
+                                    <p>
+                                        This club is driven on the basis of – “Neither the technology nor the tools,
+                                        it’s only an innovative idea that rules”.
+                                        <br><br>
+                                        The club enables the students to aware of their inner potential, cultivate
+                                        creativity and initiative by proactive academic activities and research. It
+                                        promotes enthusiasm among the students by participation of an information and
+                                        scientific-based knowledge community. Preparing students to adapt the challenges
+                                        of an ever changing world of tomorrow.
+                                        <br><br>
+                                        The central meaning of innovation relates to renewal or improvement, with
+                                        novelty being a consequence of this improvement. It is quite necessary for
+                                        people to change the way they make decisions or make choices outside their
+                                        norms. On a lower level, innovation can be seen as a change in the thought
+                                        process for doing something or useful application of inventions or discoveries.
+                                        It may refer to incremental, emergent or radical and revolutionary changes in
+                                        thinking, products, processes or organizations.
+                                        <br><br>
+                                        We provide all sorts of technical assistance and support service to students for
+                                        developing new concepts, products and thereby ensure that innovation is a part
+                                        of quality education.
+                                        <br><br>
+                                        Engineering education lacks practical orientation knowledge because of the
+                                        absence of opportunities to develop new products during the course. If this can
+                                        be solved in the campus, the transformation of a student into a professional
+                                        will be explosive.
+                                    </p>
+                                </div>
+                                <div id="communication" class="tab-pane fade">
+                                    <div class="right-heading">SKILL DEVELOPMENT CLUB</div>
+                                    <p>
+                                        Developing communication skills within the team can be done easily by
+                                        inculcating some basic manners, professional etiquette and keeping an open mind.
+                                        <br><br>
+                                        It is expected that every member of a team understands and shares relevant
+                                        information related to a project. It is also important that they have a clear
+                                        picture of their roles and responsibilities with respect to the project and
+                                        deliver accordingly. All this is possible only when a team develops and
+                                        practices effective communication skills.
+                                        <br><br>
+                                        Realizing the importance of the above club, SSCET has taken an honest step to
+                                        form a CSDC with the involvement of the student and staff.
+                                    </p>
+                                </div>
+                                <div id="fitness" class="tab-pane fade">
+                                    <div class="right-heading">FITNESS CLUB</div>
+                                    <p>
+                                        A Fitness club( commonly referred to as a gym)is a place which houses exercise
+                                        equipment for the purpose of Physical Exercise.
+                                        <br><br>
+                                        Main workout area
+                                        <br><br>
+                                        Most health clubs have a main workout area, which primarily consists of free
+                                        weights including dumbbells, barbells and exercise machines. This area often
+                                        includes mirrors so that exercisers can monitor and maintain correct postures
+                                        during their workout.
+                                    </p>
+                                </div>
+                                <div id="maths" class="tab-pane fade">
+                                    <div class="right-heading">MATHEMATICS CLUB</div>
+                                    <p>
+                                        The objective of the club is to promote Mathematical Knowledge which is
+                                        applicable to Engineering and Technology among students. The Maths club members
+                                        celebrated the year 2000 as the world Mathematics year.
+                                        <br><br>
+                                        Maths club is formed to enrich the quantitative aptitude of the students.
+                                        Eminent professors are invited to deliver guest lectures at regular intervals.
+                                        <br><br>
+                                        It is an integral part of the study of engineering regardless of which branch of
+                                        engineering is chosen.
+                                        <br><br>
+                                        The objective of the club is to impart quality education to students and
+                                        motivate them to apply the various mathematical techniques in their respective
+                                        fields.
+                                        <br><br>
+                                        From its very inception, the club has encouraged a view of learning in which
+                                        students are given an opportunity to participate actively in discussions.
+                                    </p>
+                                </div>
+                                <div id="orators" class="tab-pane fade">
+                                    <div class="right-heading">ORATORS CLUB</div>
+                                    <p>
+                                        <i>Orators club helps youth to build up self-confidence</i>
+                                        <br><br>
+                                        The orators program is important because it is critical for young people to
+                                        learn to express themselves clearly and precisely. This program increases
+                                        self-confidence and keeps from fading into the background. The youngsters are
+                                        learning life skills as well as how to present themselves in business
+                                        situations. Winning first place not only celebrates a level of accomplished
+                                        excellence, Orators club is to develop public speaking skills, confidence and
+                                        the unique talents of the participating youths. There will be a competition
+                                        involving orators speaking for not less than five minutes and not more than 10
+                                        minutes. The participants were judged on eye contact, voice projection, diction,
+                                        knowledge of the piece and expression. Rather than sitting back and letting
+                                        others lead, we can lead and take charge.
+                                        <br><br>
+
+                                        <b>FACULTY IN-CHARGE</b>
+                                        <br><br>
+                                        Mr.Rajendran Ap/English
+                                    </p>
+                                </div>
+                                <div id="photography" class="tab-pane fade">
+                                    <div class="right-heading">PHOTOGRAPHY CLUB</div>
+                                    <p>
+                                        The Photography Club enables to inculcate photographic talent among the
+                                        interested individuals. The mission of the club is to serve the members to
+                                        develop the photographic skills through education, exhibitions of photographic
+                                        accomplishments, competitions, friendship with others who share a love of
+                                        photography and to share the talents with individuals and organizations in our
+                                        community.
+                                        An air conditioned dark room, two Cameras Yashica FX3 super 2000 & Nikon FM2
+                                        with normal zoom lenses and wide angle lens, close up lens set, filters., KODAK
+                                        DLR Camera, METZ flash, camera stand, etc., are available.
+                                        The club gives training for the students in handling cameras, developing,
+                                        printing and enlarging of B/W films.
+                                        The club library provides various books on Photography for the students.
+                                        The club conducts Exhibition, Photo Contests, Video classes and Quiz
+                                        competitions on Photography for students.
+                                        Photographs and Video Coverage of College functions are taken by the club.
+                                        Color Transparencies for teaching, paper presentation, projects and publication
+                                        purposes are also prepared by the club.
+                                        The club takes up the job of providing Identity Cards for students and faculty.
+
+                                        <b>FACULTY IN-CHARGE</b>
+                                        <br><br>
+                                        Mr.K.Sathiyanathan
+                                    </p>
+                                </div>
+                                <div id="music" class="tab-pane fade">
+                                    <div class="right-heading">MUSIC CLUB</div>
+                                    <p>
+                                        Life at SSCET campus is filled with all sorts of self-enriching activities that
+                                        fulfill the expectations of its students in all spheres of life, including Arts
+                                        & Culture, Sports & Fitness, Social Service, Technology, Networking, etc. A
+                                        number of clubs, societies and other organizations provide a wide range of
+                                        activities outside the curriculum to satisfy the needs of intellectual pleasure.
+                                        <br><br>
+                                        The Music club is a vibrant and elite society of musically gifted students who
+                                        come together and create fascinating melodies. The purpose of the club is to
+                                        showcase the musical talent of maximum number of students and it has upheld this
+                                        tradition over the years.
+                                        <br><br>
+                                        The club encourages young musicians to interact with each other and give them an
+                                        appropriate jam pad. It enables students to utilize the free time productively
+                                        and do something what the music enthusiasts are passionate about.
+                                        The club recognizes exceptional talent and promotes it in the right direction.
+                                        The students in the executive body arrange practice sessions for intra as well
+                                        as inter collegiate events. Workshops and semester long classes are held for
+                                        those who are interested in learning music. Thus, if a student wants to excel in
+                                        the field of music, the club does its best to help achieve the goal.
+                                        <br><br>
+                                        Symphony of the Soul is the only recluse for mankind. And it is in the achieving
+                                        of this salvation that the Music Club of Sri Shanmugha College of Engineering
+                                        and Technology was formed. The Music Club has no dearth of instruments and
+                                        constantly nurturing new talents. Membership is restricted to the students only.
+                                    </p>
+                                </div>
+                                <div id="reading" class="tab-pane fade">
+                                    <div class="right-heading">READING CLUB</div>
+                                    <p>
+                                        Reading Club was initiated on 30/8/16 exclusively for first year Tamil, Kannada,
+                                        Telugu and Hindi Medium Students in the library. Reading Club is a network of
+                                        Students’ readers run in the college library to encourage reading for pleasure.
+                                        The prime motive of this reading club initiation was to promote the importance
+                                        of English among the students in the college. The students were grouped into
+                                        teams and asked to select books on their own interest. They were asked to create
+                                        a wall dictionary in their classrooms with the unfamiliar words they come
+                                        across. They were asked to notate the important points and indulge in a short
+                                        discussion for every week when they meet in the library. When they complete
+                                        reading their chosen books they were asked to meet and share their pleasure of
+                                        reading.
+                                    </p>
+
+                                    <div class="right-heading">READING CLUB ACTIVITIES</div>
+                                    <ul class="mou-li">
+                                        <li>Creation of Wall Dictionary in the classrooms</li>
+                                        <li>Adoption of a word from the wall dictionary every hour for a presentation in
+                                            the classroom</li>
+                                        <li>A fifteen minute discussion among the team in the library hour on their
+                                            chosen books.</li>
+                                        <li>Sharing the pleasure of reading among the club members’ once in a month.
+                                        </li>
+                                        <li>Adaption of the book’s content in drama and mime shows</li>
+                                        <li>Poster presentation on the content of the books</li>
+                                        <li>PPT presentation on the familiar selective topic</li>
+                                        <li>Elocution</li>
+                                        <li>Debate</li>
+                                        <li>Tableau by team</li>
+                                    </ul>
+                                    <p>
+                                        <b>FACULTY IN-CHARGE</b>
+                                        <br><br>
+                                        Mr.A Ramesh
+                                    </p>
+                                </div>
+                                <div id="ylp" class="tab-pane fade">
+                                    <div class="right-heading">Toastmasters International “The Youth Leadership Program”
+                                    </div>
+                                    <p>
+                                        Toastmasters International is a non-profit educational organization that teaches
+                                        public speaking and leadership skills through a worldwide network of meeting
+                                        locations. Headquartered in Rancho Santa Margarita, California. Toastmasters
+                                        International has helped people of all backgrounds become more confident in
+                                        front of an audience. There are no fees to be paid by the participants. The
+                                        programme is to cater the developing needs of the young speakers
+                                        <br><br>
+                                        Every young person has the potential to become a good communicators and leader,
+                                        but this potential needs to be developed. The programme’s unique eight-session,
+                                        workshop-style design enables participants to develop this potential through
+                                        practical experience.
+                                        <br><br>
+                                        The Youth Leadership Program is a workshop consisting of eight one- to two-hour
+                                        sessions that enable participants to develop communication and leadership skills
+                                        through practical experience. The program is presented during or after school,
+                                        or on weekends. Participants learn to:
+                                    </p>
+                                    <ul class="mou-ul">
+                                        <li>Evaluate present speaking ability</li>
+                                        <li>Organize and give speeches</li>
+                                        <li>Give impromptu talks</li>
+                                        <li>Control voice, vocabulary and gestures</li>
+                                        <li>Give constructive feedback and more</li>
+                                    </ul>
+
+                                    <p>
+                                        Each Youth Leadership Program group is limited to 25 people. Participants are
+                                        selected by the sponsoring Toastmasters club or by a cooperating organization.
+                                        <br><br>
+                                        A local Toastmasters club serves as sponsor and provides a coordinator to
+                                        present the program. The individual coordinator attends each meeting, where he
+                                        or she will lead most of the presentations and counsel participants. The
+                                        coordinator assigns an assistant who can fill in for the coordinator should he
+                                        or she be unable to attend a meeting. Meetings generally follow a format similar
+                                        to that of a Toastmasters club meeting, including an announced agenda, practice
+                                        in parliamentary procedure, and the selection of presiding officers.
+                                    </p>
+
+
+                                    <div class="right-heading">Student Activities</div>
+                                    <div class="row">
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/id6IqTQ36WQ"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/FkRXhoRhiSU"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/4ZZjKTasW-o"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/Nq6uinXIr5Q"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/gIuuJD9q0vk"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                        <div class="col-sm-4 mb20">
+                                            <iframe height="315" src="https://www.youtube.com/embed/sI0JvQdENoE"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                        </div>
+                                    </div>
+
+                                    <p>
+
+                                        <b>FACULTY IN-CHARGE</b>
+                                        <br><br>
+                                        Mr.P.Anandakumar 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 4 -->
+                    <div id="yrc" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">YRC</div>
+                             <ul class="nav nav-pills">
+                                <li><a class="active" href="pdf/activities/nss/CERTIVICATES.pdf">CERTIFICATES</a></li>
+                                <li><a class="active" href="pdf/activities/nss/1.NSS&YRC-ACTIVITY-(2019-2020).pdf">2019-2020</a></li>
+                                <li><a class="active" href="pdf/activities/nss/2.NSS&YRC-ACTIVITY(2018-19).pdf">2018-2019</a></li>
+                                <li><a class="active" href="pdf/activities/nss/3.NSS&YRC-ACTIVITY-(2017-18).pdf">2017-2018</a></li>
+                                <li><a class="active" href="pdf/activities/nss/4.NSS&YRC-ACTIVITY-(2016-17).pdf">2016-2017</a></li>
+                                <li><a class="active" href="pdf/activities/nss/5.NSS&YRC-ACTIVITY(2015-16).pdf">2015-2016</a></li>
+                                <li><a class="active" href="pdf/activities/nss/6.NSS&YRC-ACTIVITY(2014-15).pdf">2014-2015</a></li>
+                            </ul>
+                            <p>
+                                The Red Cross, established in 1863 in Geneva, by Jean Henry Dunant, is an International
+                                Organisation meant for humanitarian services. Its headquarers is in Geneva, Switzerland
+                                with many affiliated National Red Cross and Red Crescent Societies. It is a
+                                non-religious, non-political and non sectarian International body. Regardless of either
+                                frontiers or race, the Red Cross remains a voluntary organisation and also an
+                                independent one having considerable welfare activities to its credit.
+                                <br><br>
+                                The seven fundamental principles of the International Red Cross and Red Crescent
+                                Movement are
+                            </p>
+
+                            <ul class="mou-ul">
+                                <li>Humanity</li>
+                                <li>Impartiality</li>
+                                <li>Neutrality</li>
+                                <li>Independence</li>
+                                <li>Voluntary Service</li>
+                                <li>Unity</li>
+                                <li>Universality</li>
+                            </ul>
+
+                            <p>
+                                Red Cross Society functions with the prominant aim of serving people who are in distress
+                                without any consideration of caste, religion, language and nationality. The Indian Red
+                                Cross Society serves as an ancillary to the State authorities engaged in social welfare
+                                activities accepting the rules and regulations of the State but at the same time
+                                maintaining its autonomy so that it can act always in accordance with the fundamental
+                                principles. YRC in Anna University was established in the academic year 2002-03 as per
+                                the orders of the Government of Tamil Nadu. It is one of the avenues among NCC, NSS and
+                                NSO available for the students to be pursued under Personality and Character Development
+                                Programme. The YRC is the most important constituent of its mother organisation, Indian
+                                Red Cross. It is a student movement organised for students in Colleges and Technical
+                                Institutions. The objectives of the YRC is to impart a sense of discipline and formation
+                                of character to the students. In this University, the students are moulded not only to
+                                be innovators, explorers, scientists etc., but also to be the best engineers with social
+                                consciousness . This has been possible, because of the training imparted to them in the
+                                first year of their discipline, character building, personality development etc. along
+                                with academic input. Activities like Blood Donation Camp, Road Safety Campaign, Visit to
+                                Ashrams & Government Institute for Mentally Retarded, Tree Plantation, Campus Cleaning,
+                                AIDS Awareness Programme & Rally, participation in the Cancer Rally and Tobacco Control
+                                Measures were some of the important activities of work carried out by the Students of
+                                the University Departments. Mr. Jeevanantham AP/Chemistry coordinates the activities of
+                                the Youth Red Cross. Membership is open to both undergraduates and post graduates. About
+                                a hundred undergraduates serve as volunteers. The YRC of the College functions under the
+                                Coordinator for YRC.
+                            </p>
+                            <p>Faculty Incharge Mr.S.Senthil Kumar</p>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 5 -->
+                    <div id="csdc" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">COMMUNICATION SKILL DEVELOPMENT CELL</div>
+                            <p>
+                                To enhance our student’s Communication skills to meet the corporate needs.
+                            </p>
+                            <ul class="mou-ul">
+                                <li>Regular communication skill classes&nbsp; will be conducted for all students from
+                                    the commencement of the college</li>
+                                <li>Regular training is given for&nbsp; GD, Personality Development Programmes and
+                                    Interview Skills.</li>
+                                <li>Spoken English Training that includes various activities is provided.</li>
+                            </ul>
+
+                            <p>
+                                The cell has qualified faculty members to train students on personality development and
+                                soft skills. These training sessions emphasize a personalized approach where every
+                                student is counseled and groomed individually. Work ethic, attitude, communication
+                                skills, emotional intelligence and a whole host of other personal attributes are crucial
+                                for successful career and life. These are what our learning and development cell seeks
+                                to foster in our students.
+                                <br><br>
+                                Students are encouraged to develop personal accountability, a collaborative and
+                                inclusive approach, interpersonal skills, adaptability and flexibility, clarity of
+                                communication and creative thinking through an intensive training and mentoring program.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 6 -->
+                    <div id="hec" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">HIGHER EDUCATION CELL</div>
+                            <p>
+                                To make the student to realize the prominence of higher studies and train them in their
+                                area of interest.
+                                In Higher Education cell, students’ interest and potential will be identified by HEC
+                                Team which is formed by field specialists with the help of counselors.
+                                <br><br>
+                                Accordingly he/she will be guided with their goals for their Higher Education.
+                                <br><br>
+                                Guide them the views and benefits on CAT, MAT, GATE, GMAT, and SAT.
+                                <br><br>
+                                Career Planning and Decision Making are the most crucial aspects of an individual’s
+                                life. It is an important factor that will have a lasting effect on both individual and
+                                the community. Human being’s desire is not only getting a job, but also to progress in
+                                his/her career.
+                                <br><br>
+                                Thus we help each student in realizing his/her ultimate dream by making career decision
+                                in a rational manner and in becoming self-sufficient and self-reliant responsible
+                                citizens.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 7 -->
+                    <div id="edc" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">ENTREPRENEURSHIP DEVELOPMENT CELL</div>
+
+                            <p>
+                                The Educational institutions play a significant role in the economic development of a
+                                country and they produce the right type of human resources needed by different sectors
+                                of the economy. The technical and non- technical higher learning institutions presume
+                                greater importance in this context which produces the technical manpower needed for the
+                                industry. It is necessary to establish the appropriate links between the institution and
+                                the industry in order to make maximum use of facilities, expertise and innovation for
+                                the benefit of the economy development. Today ED Cell is one of the platforms to
+                                interact and link the Industries and educational institutions, with a view to train the
+                                people within college to produce entrepreneurs.
+                                <br><br>
+                                The main objectives of our ED Cell are:
+                            </p>
+                            <ul class="mou-ul">
+                                <li>To create an environment for Self-employment, Promote Innovation Incubation and
+                                    Entrepreneurship development through formal and non-formal programs</li>
+                                <li>To provide a platform to take-up 'Entrepreneurship' as an alternative career</li>
+                                <li>To Identify and provide solution for the problems of small business management &amp;
+                                    entrepreneurs</li>
+                                <li>To provide training &amp; retraining of entrepreneurs through variety of programmes
+                                </li>
+                                <li>To develop technical personnel at appropriate levels for the non-corporate and
+                                    unorganized sectors like education, rural development, small-scale industry etc.
+                                </li>
+                            </ul>
+
+                            <p>Through our ED Cell, it is proposed to provide a three dimensional activities for our
+                                students like programs, assistance and competitions:</p>
+
+                            <div class="right-heading">Programs</div>
+                            <ul class="mou-ul">
+                                <li>Entrepreneurship Awareness Camps (EAC)</li>
+                                <li>Entrepreneurship Development Programs (EDP)</li>
+                                <li>Faculty Development programs (FDP)</li>
+                                <li>Skill development programs (SDP)</li>
+                                <li>Speaker Series- Lectures and talks on Entrepreneurship</li>
+                                <li>Idea Generation workshop</li>
+                                <li>Business Modeling Workshop</li>
+                                <li>Startup to Idea Workshop</li>
+                                <li>Panel Discussion on Early Stage Investments</li>
+                                <li>Startup Showcase</li>
+                            </ul>
+
+                            <div class="right-heading">To assist the students in starting industries of their own right
+                                from</div>
+                            <ul class="mou-ul">
+                                <li>Product Identification (PI)</li>
+                                <li>Market Survey, tools for market research</li>
+                                <li>Preparation of Project Reports</li>
+                                <li>Preparation of technical feasibility Reports</li>
+                            </ul>
+
+                            <div class="right-heading">Competitions</div>
+                            <ul class="mou-ul">
+                                <li>B-Roadies</li>
+                                <li>Good Idea/Bad Idea</li>
+                                <li>B-Plan Competition</li>
+                                <li>Case Study Competition</li>
+                                <li>Business Quiz</li>
+                                <li>Business game and many more allied activities for our college students as well as
+                                    students from neighboring institutions and any graduate student in Tamil Nadu and
+                                    also to liaison with various external agencies like MSME, CED, NABARD, SIPCOT,
+                                    SIDCO, SISI, DIC and leading Financial Institutions &amp; Banks like IDBI, SIDBI,
+                                    TIIC, Indian Bank and others.</li>
+                            </ul>
+
+                            <div class="right-heading">Advisory Board</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mr.K.Shanmugham</td>
+                                            <td>Chairman, SSCET</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Mr. S. Prabahar</td>
+                                            <td>Vice Chairman, SSCET</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Mr.K.K.BalajiVasenth</td>
+                                            <td>Secretary, SSCET</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Dr. M. Sudha</td>
+                                            <td>Principal, SSCET</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Advisory Board (Internal) Members</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Prof P. Ramalingam</td>
+                                            <td>HoD/Civil</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Dr.S.Markkandeyan</td>
+                                            <td>HoD/CSE</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Dr.M.Kannan</td>
+                                            <td>HoD/ECE</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Prof. R.Boopathi</td>
+                                            <td>HoD/Mech</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Prof. T.Aasaithambi</td>
+                                            <td>HoD/S&amp;H</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Nodal Officer</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No</th>
+                                            <th>Name</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mr.P.Anandhakumar </td>
+                                            <td>EDC/In-charge</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 8 -->
+                    <div id="wec" class="right-nav-divs tab-pane active">
+                        <div class="right-card">
+                            <div class="right-heading">WOMEN EMPOWERMENT CELL</div>
+                               <ul class="nav nav-pills">
+                                    <!-- <li><a href="#aimsandobjectives" class="active">Events Photos</a></li> -->
+                                    <li><a href="pdf/activities/Facilities-for-women.pdf" target="_blank">Facilities for women</a></li>
+                                    <li><a href="pdf/activities/Annual-report-Gender-Equity.pdf" target="_blank">Sensitization Action Plan</a></li>
+                                    <li><a href="#eventphotos" data-toggle="pill" >Events Photos</a></li>
+                                
+                              </ul>
+                            <p>Sri Shanmugha College of Engineering of Technology established a Women Empowerment Cell in 2013 to empower women and help them in all walks of life. With a view to taking up women’s issues and problems, the cell aims at creating awareness of their rights and duties. It also provides a platform for women to share their experiences and views regarding their status in the society and to suggest ways to improve and empower themselves. Aiming at intellectual and social upliftment of the female students, the cell stands for facilitating women’s empowerment through guest lectures, seminars, awareness programmes and other welfare activities.</p>
+
+                   
+ 
+                            <div class="right-heading">AIM</div>
+                            <p>
+                                To create awareness of the Women’s Right and to empower Women
+                            </p>
+
+                            <div class="right-heading">OBJECTIVES</div>
+
+                            <ul class="mou-ul">
+                                <li>To promote a culture of respect and equality for female gender.</li>
+                                <li>To inculcate entrepreneurial attitude among young girls, scientists at the earliest so that they can be ‘job givers’ rather than ‘job takers’.</li>
+                                <li>To build self-confidence by enhancing their knowledge on the political, educational, economical and cultural aspects.</li>
+                                <li>To analyse underlying causes through research to women discrimination and to generate awareness.</li>
+                                <li>To encourage women as individuals in their own right.</li>
+                            </ul>
+
+                            <div class="right-heading">Staff In-charge</div>
+                            <p>
+                                Mrs.K.Meenambika,AP/Mathematics<br>
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/women-cell/AHA2.png" />
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/women-cell/AHH.png" />
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/women-cell/Wd.png" />
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/women-cell/wmp2.png" />
+                                </div>
+                            </div>
+                            <div class="tab-content">
+                                <div id="eventphotos" class="tab-pane in fade">
+                                  
+                                  <div class="row">
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/AHA.png" />
+                                    </div>
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/AHA2.png" />
+                                    </div>
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/Health Hygine.png" />
+                                    </div>
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/Health Hygine2.png" />
+                                    </div>
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/Wecon.png" />
+                                    </div>
+                                    <div class="col-sm-6">
+                                      <img src="images/activities/women-cell/WMT.png" />
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 8 COMMDAYS -->
+                    <div id="COMMDAYS" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Commemorative Days</div>
+                             <!-- <a href="pdf/activities/Commemorative-Days.pdf" class="nav-link" target="_blank">Commemorative Days</a> -->
+                             <p><strong><b>Republic Day -</b> </strong>is celebrated on 26th January of every year commemorating the adoption of Our Constitution by hoisting the national flag followed by cultural activities through which our Institute plays its role in proving patriotism and carrying over the same to younger generation.</p>
+                             <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/republic -2.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/repulic day.png">
+                                </div>
+                            </div>
+                             <p><strong><b>Independence Day - </b></strong>is celebrated on 15th August of every year in a grand manner marked with national flag hosting followed by the students’ march-past. Cultural activities related to independence movement are programmed.</p>
+                             <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/independance.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/inde -2.png">
+                                </div>
+                            </div>
+                             <p><strong><b>Teachers’ Day - </b>5</strong>th September, the birth day of our former President of India Dr. Radhakrishnan as Teacher’s Day with great fervor. The students organize programme to celebrate the dignity of their teachers and offer sweets to their teachers as a token of respect.</p>
+                              <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/Teacher's day -3.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/teachers day -4.png">
+                                </div>
+                            </div>
+                             <p><strog><b>Gandhi Jayanti -</b></strog>is praised in our Institute on 2nd October of every year to stamp the birth day celebration of Gandhiji, father of our nation, by garlanding his photograph. The righteous paths of truth and nonviolence followed by Mahatma is recalled and plugged in students’ mind. </p>
+                             <p>
+                             <p><strong><b>Rashtriya Ekta Divas -</b></strong> 31st October, birth day of Sardar Vallabhabhai Patel, India’s Bismark, is celebrated as National Unity Day. On this day the valuable speech delivered by our Hon’ble Prime Minister through Dhoor Dharshan is displayed to all students in the college auditorium every year. </p>
+                             <p><strong><b>Engineers’ day -</b></strong> 15th September, birth day of our country’s renowned Engineer Bharat Ratna Mokshagundam Visvesvaraya is celebrated every year as an exceptional tribute in memory of the immaculate services rendered by him in the engineering field for our country.</p>
+                             <p><strong><b>International Day of Yoga -</b> </strong>21st June of every year is being celebrated as “The International Day of Yoga”.International Day of Yoga is celebrated in our Institution by performing yoga practice by students and faculties with great enthusiasm.</p>
+                             <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/yoga2.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/yoga3.png">
+                                </div>
+                            </div>
+                             <p><strong><b>World Environment Day -</b> </strong>Our Institution is known for its serene environment with lush greenery, warmth sunlight and fresh air. 5th June of every year our Institution celebrates World Environment Day with great pomp by prompting our students to plant saplings in the campus as well as in nearby villages and thereby the efforts of carbon neutrality is achieved. </p>
+                             <p><strong><b>Women’s Day - </b></strong>8th March of every year is celebrated in our Institution with the objective of empowering womenfolk in all walks of life. Women Empowerment Cell functioning effectively in our campus is the notable landmark for the same which aims at intellectual and social progress of girl students</p>
+                             <p><strong><b>World Water Day - </b></strong>Sri Shanmugha has very well understood the significant value of water and hence we celebrate World Water Day on 22nd March of every year and the check dam built in our campus with 12.5 lakh litres capacity for rain water harvesting is the standing proof for our sentimental attachment towards</p>
+                             <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/water's day 1.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/waters day2.png">
+                                </div>
+                            </div>
+                             <p><strong><b>Voters Day - </b></strong>The objective of the program is to create awareness among the public regarding their electoral participation. On 25th January of every year our students extend their active participation in the rally conducted by the government authorities and prove their enthusiasm in this regard. </p>
+                             <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/voter's day 1.png">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/commemorate/voter's day 2.png">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- 9 -->
+                    <div id="all" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">ASSESS THE LEARNING LEVELS</div>
+                             <p>At the outset of academic year, the students’ learning level is assessed through dual measures viz., on the basis of marks scored in +2 examination and in entry level test and in pursuance they are identified as slow and advanced learners. This system helps to formulate a strategy for improving slow learners through special coaching/tutorial sessions to bridge the gap between them and advance learners.</p>
+                             <P>After analyzing the learning level from their performance in daily tests and first Internal Assessment Examination, the students are again categorized which encourages them to learn more and prove their involvement in the class room observation. In order to motivate the students continuous trainings are given on communication skills, personality development, time management, seminars and guest lectures are arranged for their benefit. Various workshops with hands-on session both internal and external are arranged for promoting their programming knowledge and skills. The advanced learners are termed as “coordinators” and they actively sharing their knowledge with the slow learners.</P>
+                             <P><b>Strategy for Slow Learners:</b></P>
+
+                            <li>The class advisors assess the students’ caliber, analyze the nature of issues faced by them in their academia and motivate them diplomatically to achieve their academic goals.</li>
+                            <li>Special/Tutorial classes are arranged for intensified teaching on the difficult units/chapters and clarifying doubts and thereby to improve their performance.</li>
+                            <li>The class advisor/mentor critically analyses slow learners’ issues regarding their academy and personal and give suitable counseling.</li>
+                            <li>Departments conduct remedial classes and provide course materials to slow learners and other students, who are likely to drop-out due to arrears.</li> 
+                            <li>Writing assignments on the frequently asked questions in University Examinations are given as the regular task for slow learners and thereby make them to be through with the subjects and the right way of answering the questions in the examination.</li> 
+                            <li>The advanced learners termed as “coordinators” actively sharing their knowledge with slow learners through peer learning and group study system.</li>
+                            <P><b>Strategy for Advanced Learners:</b></P>
+                                <li>Encouraging the advanced learners to be the members of various professional bodies and to organize technical events and club activities through which the leadership qualities in them are spurred up.</li> 
+                                <li>Encouraging the advance learners to participate in group discussions, technical quizzes and thereby promoting their analytical and problem-solving abilities along with their communication skills.</li>  
+                                <li>Encouraging the advance learners to accomplish in the research oriented projects to develop a thirst for research orientation and practical knowledge.</li>
+                                <li>Encouraging the advance learners to augment their caliber and skills through Programme Specific Training, Value added Courses and interaction with industry experts etc. and thereby to compete the industries scenario requirements.</li> 
+                                <li>Encouraging the advanced learners to pursue their higher studies in premier institutions by appearing the GATE and IELTS etc.</li> 
+                                <li>Encouraging the advance learners identified as the Special Interest Group (SIG) found with individual and special talents to actively participate in various competitions and extracurricular activities.</li>
+                                <li>Encouraging advanced learners to enroll in MOOC Courses viz., NPTEL, Swayam, edx, Coursera and so on and to actively participate in them.</li>
+                        </div>
+                    </div>
+                    
+                     <div id="humanvalues" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Human Values & Professional Ethics</div>
+                            <p>
+                            Sri Shanmugha College of Engineering and Technology organizing various activities to sensitize the students and employees to the constitutional obligations such as Values, Rights, Duties and Responsibilities of the citizens. Apart from achieving the academic excellence in all the spheres of its activities, our Institution is striving to produce the distinct productive engineers imbibed with moral and ethical values. Hence, the students are being nurtured with a sense of responsibility that a responsible citizen should essentially possess by motivating them consistently to involve in various social activities.</p>
+                            <p>Sri Shanmugha commemorates the sacrifice and selfless services rendered by the great leaders for achieving independence and welfare of our nation by regularly celebrating various national festivals such as Independence Day, Republic Day, birth anniversaries of great leaders and thus a sense of patriotism and loyalty towards the sovereignty of our nation is being instilled in the minds of students and thereby they are put on a holy mission of making India in unity beyond diversity.It is obvious that the environmental cleanliness is the crux for a stronger body and mind of a person and it is the duty and responsibility of each and every individual to maintain absolute atmospheric cleanliness. It is ensured in our campus by initiating several green campus drives such as restriction of automobile entry, usage of battery-powered vehicles, pedestrian-friendly pathways and landscaping with trees and plants. As such, owing to the enormous interest evinced by our students and employees in promoting the cleanliness of our campus under SWACHHATA culture had fetched 4th position in SWACHH Campus Ranking-2018 for our Institution.</p>
+                            <p>Our Institution has been recognized as a Swachhata Action Plan Institution by Mahatma Gandhi National Council of Rural Education (MGNCRE) for Sanitation & Hygiene, Waste Management, Water Management, Energy Management and Greenery. As such, NSS students and employees of our Institute continuously practicing the Clean India Campaign not only in our campus but also extended the same in the neighboring villages which clearly proves the extent of accepting the responsibility by our students and employees.</p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="images/activities/human/1.PNG">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/human/2.PNG">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/human/3.PNG">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="images/activities/human/4.PNG">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="inclusion" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Inclusion & Situatedness</div>
+                            <ul class="nav nav-pills">
+                                <li><a class="active" data-toggle="pill" href="#initiatives">Initiatives</a></li>
+                                <li><a data-toggle="pill" href="#culturals">Culturals</a></li>
+                                <li><a data-toggle="pill" href="#pongal">Pongal</a></li>
+                                <li><a data-toggle="pill" href="#independence">Independence</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div id="initiatives" class="tab-pane in active">
+                                    <div class="right-heading">Initiatives</div>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/1.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/2.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/3.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/4.PNG">
+                                            </div>
+                                        </div>
+                                 </div>
+                                <div id="culturals" class="tab-pane in fade">
+                                    <div class="right-heading">Culturals</div>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/5.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/6.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/7.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/8.PNG">
+                                            </div>
+                                        </div>
+                                    </div>
+                                <div id="pongal" class="tab-pane in fade">
+                                    <div class="right-heading">Pongal</div>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/9.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/10.PNG">
+                                            </div>
+                                        </div>
+                                 </div>
+                                <div id="independence" class="tab-pane in fade">
+                                    <div class="right-heading">Independence</div>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/11.PNG">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <img src="images/activities/initiatives/12.png">
+                                            </div>
+                                        </div>
+                                 </div>
+                            </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+        })
+    </script>
+</body>
+
+</html>

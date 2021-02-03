@@ -1,0 +1,26 @@
+{
+    "news1": {
+        "year":2020,
+        "imgcount": 2
+    },
+    "news2": {
+        "year":2019,
+        "imgcount": 5
+    },
+    "news3": {
+        "year":2018,
+        "imgcount": 6
+    },
+    "news4": {
+        "year":2017,
+        "imgcount": 5
+    },
+    "news5": {
+        "year":2016,
+        "imgcount": 15
+    },
+    "news6": {
+        "year":2015,
+        "imgcount": 7
+    }
+}

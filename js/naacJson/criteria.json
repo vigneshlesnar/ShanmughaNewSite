@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "tabValues": [
+      {
+        "sno": "1.1.3",
+        "value": "Teachers in BoS / Exam related activities",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.1.3SSCET.pdf"
+      },
+      {
+        "sno": "1.2.1",
+        "value": "% CBCS",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria1/1.2.1_cbcs/CBCS_MIN.pdf"
+      },
+      {
+        "sno": "1.2.2",
+        "value": "No. of Add on / Certificate Course",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria1/1.2.2_No_of_%20addon/vacbrouchure_finallalldepartment.pdf"
+      },
+      {
+        "sno": "1.2.3",
+        "value": "No. of Students enrolled in Add on / Certificate Course",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.2.3SSCETADL.pdf"
+      },
+      {
+        "sno": "1.3.2",
+        "value": "% of Course for Experimental Learning",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.3.2SSCETADL.pdf"
+      },
+      {
+        "sno": "1.3.3",
+        "value": "% of Students – Internship / Field Projects",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.3.3SSCETADL.pdf"
+      },
+      {
+        "sno": "1.4.1",
+        "value": "Institution obtains Feedback",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.4.1SSCETADL.pdf"
+      },
+      {
+        "sno": "1.4.2",
+        "value": "Action Taken on Feedback",
+        "link": "http://shanmugha.edu.in/naacpdf/C1/1.4.2SSCETADL.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tabValues": [
+      {
+        "sno": "2.1.1",
+        "value": "% of Enrollment",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.1.1.SSCET.pdf"
+      },
+      {
+        "sno": "2.1.2",
+        "value": "% Seats filled against Reservation",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.1.2.SSCET.pdf"
+      },
+      {
+        "sno": "2.2.2",
+        "value": "Student : Staff Ratio",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.2.2.SSCET.pdf"
+      },
+      {
+        "sno": "2.3.3",
+        "value": "Mentor Ratio",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.3.3.SSCET.pdf"
+      },
+      {
+        "sno": "2.4.1",
+        "value": "Full Time Teacher Vs Sanctioned",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.4.1.SSCET.pdf"
+      },
+      {
+        "sno": "2.4.2",
+        "value": "Number of Faculty with Ph.D",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.4.2.SSCET.pdf"
+      },
+      {
+        "sno": "2.4.3",
+        "value": "Experience in the same Institution (Retention %)",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.4.3.SSCET.pdf"
+      },
+      {
+        "sno": "2.6.3",
+        "value": "Pass % - Final Year",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.6.3.SSCET.pdf"
+      },
+      {
+        "sno": "2.7.1",
+        "value": "Students' Survey",
+        "link": "http://shanmugha.edu.in/naacpdf/C2/2.7.1.SSCET.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tabValues": [
+      {
+        "sno": "3.1.1",
+        "value": "Funds Received – Govt. and Non-Govt",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.1.1_SSCET.pdf"
+      },
+      {
+        "sno": "3.1.2",
+        "value": "Number of Research Guides",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.1.2_SSCET.pdf"
+      },
+      {
+        "sno": "3.1.3",
+        "value": "Number of Departments having Projects",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.1.3_SSCET.pdf"
+      },
+      {
+        "sno": "3.2.2",
+        "value": "Number of Workshops / Seminars – IPR and EDC",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.2.2_SSCET.pdf"
+      },
+      {
+        "sno": "3.3.1",
+        "value": "Numbers of Ph.D – Registered and Completed",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria3/3.3.1.pdf"
+      },
+      {
+        "sno": "3.3.2",
+        "value": "No. of Publications – UGC Journals",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.3.2_SSCET.pdf"
+      },
+      {
+        "sno": "3.3.3",
+        "value": "No. of Publications – Conferences / Books / Chapters",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.3.3_SSCET.pdf"
+      },
+      {
+        "sno": "3.4.2",
+        "value": "Number of Awards",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.4.2_SSCET.pdf"
+      },
+      {
+        "sno": "3.4.3",
+        "value": "Number of Extention Activities – NSS / YRC / Swachh",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.4.3_SSCET.pdf"
+      },
+      {
+        "sno": "3.4.4",
+        "value": "No. of Students - participation in Extention Activities",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.4.4_SSCET.pdf"
+      },
+      {
+        "sno": "3.5.1",
+        "value": "Collaborative Activities – Faculty Exchange / Internship",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.5.1_SSCET.pdf"
+      },
+      {
+        "sno": "3.5.2",
+        "value": "Functional MoUs",
+        "link": "http://shanmugha.edu.in/naacpdf/C3/3.5.2_SSCET.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tabValues": [
+      {
+        "sno": "4.1.3",
+        "value": "% of Classromms and Seminar Halls with ICT",
+        "link": "http://shanmugha.edu.in/naacpdf/C4/4.1.3_sscet (1).pdf"
+      },
+      {
+        "sno": "4.1.4",
+        "value": "Expenditure – Infra Augmentation",
+        "link": "shanmugha.edu.in/naacpdf/C4/4.1.4_SSCET.pdf"
+      },
+      {
+        "sno": "4.2.2",
+        "value": "E-Journals, Remote Access",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria4/4.2.2_Ejournalremoteaccess/4.2.2_Ejournalremoteaccess.pdf"
+      },
+      {
+        "sno": "4.2.3",
+        "value": "Expenditure – Library – Books & e - Journals",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria4/4.2.3_Expenditureofbooks/4.2.3_Expenditureofbooks.pdf"
+      },
+      {
+        "sno": "4.2.4",
+        "value": "% of Library Usage",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria4/4.2.4_library_usage/4.2.4_library_usage.pdf"
+      },
+      {
+        "sno": "4.3.2",
+        "value": "Student : Computer Ratio",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria4/4.3.2/4.3.2Studentscomputerratio.pdf"
+      },
+      {
+        "sno": "4.3.3",
+        "value": "Internet Bandwidth",
+        "link": "http://shanmugha.edu.in/naacpdf/C4/4.3.3_sscet.pdf"
+      },
+      {
+        "sno": "4.4.1",
+        "value": "Expenditure – Campus Maintenance",
+        "link": "htttp://shanmugha.edu.in/naacpdf/Criteria4/4.4.1_Expendenture_Campus_maintenance_ITR.pdf"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tabValues": [
+      {
+        "sno": "5.1.1",
+        "value": "Scholarship – Government",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.1.1_SSCET_Gov.pdf"
+      },
+      {
+        "sno": "5.1.2",
+        "value": "Scholarship – Institution",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.1.2_SSCET_Ins.pdf"
+      },
+      {
+        "sno": "5.1.3",
+        "value": "Capacity Building",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.1.3_SSCET_Adl.pdf"
+      },
+      {
+        "sno": "5.1.4",
+        "value": "% of Students Benefited – Competitive Exam & Career",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.1.4_SSCET_Adl.pdf"
+      },
+      {
+        "sno": "5.1.5",
+        "value": "Grievance Redressal–Sexual Harassment & Antiragging",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.1.5_SSCET.pdf"
+      },
+      {
+        "sno": "5.2.1",
+        "value": "% of Placements",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.2.1PlacementSSCET.pdf"
+      },
+      {
+        "sno": "5.2.2",
+        "value": "% of Higher Studies",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.2.2HigherStudiesSSCET.pdf"
+      },
+      {
+        "sno": "5.2.3",
+        "value": "% of Students – Qualifying in Exams – GRE / GATE",
+        "link": "http://shanmugha.edu.in/naacpdf/Criteria5/5.2/5.2.3AverageCompetitiveExams.pdf"
+      },
+      {
+        "sno": "5.3.1",
+        "value": "Awards – Sports and Cultural",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.3.1_SSCET_Achiv.pdf"
+      },
+      {
+        "sno": "5.3.3",
+        "value": "Sports and Cultural Events – Organized by Institution",
+        "link":"http://shanmugha.edu.in/naacpdf/C5/5.3.3_SSCET.pdf"
+      },
+      {
+        "sno": "5.4.2",
+        "value": "Alumni Contribution",
+        "link": "http://shanmugha.edu.in/naacpdf/C5/5.4.2.pdf"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tabValues": [
+      {
+        "sno": "6.2.3",
+        "value": "Implementation of E-Governance",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.2.3 SSCET.pdf"
+      },
+      {
+        "sno": "6.3.2",
+        "value": "Financial Support for Staff to attend Conference/Workshop",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.3.2SSCET.pdf"
+      },
+      {
+        "sno": "6.3.3",
+        "value": "Number of Prof Dev and Admin Training org by Inst",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.3.3SSCET.pdf"
+      },
+      {
+        "sno": "6.3.4",
+        "value": "% of FDP attended – Online also",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.3.4SSCET.pdf"
+      },
+      {
+        "sno": "6.4.2",
+        "value": "Funds from Non-Govt Bodies / Individuals / Philanthropist",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.4.2SSCET.pdf"
+      },
+      {
+        "sno": "6.5.3",
+        "value": "Quality Assurance Initiatives – NIRF / NBA / ISO",
+        "link": "http://shanmugha.edu.in/naacpdf/C6/6.5.3_SSCET.pdf"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tabValues": [
+      {
+        "sno": "7.1.2",
+        "value": "Facilities for Alternate Energy Sources",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.2_index.pdf"
+      },
+      {
+        "sno": "7.1.4",
+        "value": "Water Conservation – Rainwater Harvesting / Recycling",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.4_index.pdf"
+      },
+      {
+        "sno": "7.1.5",
+        "value": "Green Campus Initiatives",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.5_index.pdf"
+      },
+      {
+        "sno": "7.1.6",
+        "value": "Quality Audits on Environment and Energy",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.6_index.pdf"
+      },
+      {
+        "sno": "7.1.7",
+        "value": "Disabled – Friendliness & Barrier Free Environment",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.7_index.pdf"
+      },
+      {
+        "sno": "7.1.10",
+        "value": "Code of Conduct – Students / Teachers / Admin",
+        "link": "http://shanmugha.edu.in/naacpdf/C7/7.1.10_index.pdf"
+      }
+    ]
+  }
+]

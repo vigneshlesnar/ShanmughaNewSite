@@ -1,0 +1,5 @@
+[14-Jun-2018 09:44:45 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanmugh2k16/public_html/lms/lib/dml/mysqli_native_moodle_database.php on line 79
+[14-Jun-2018 09:49:09 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanmugh2k16/public_html/lms/lib/dml/mysqli_native_moodle_database.php on line 79
+[14-Jun-2018 09:49:31 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanmugh2k16/public_html/lms/lib/dml/mysqli_native_moodle_database.php on line 79
+[14-Jun-2018 09:49:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanmugh2k16/public_html/lms/lib/dml/mysqli_native_moodle_database.php on line 79
+[14-Jun-2018 09:58:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'moodleroot'@'localhost' (using password: YES) in /home/shanmugh2k16/public_html/lms/lib/dml/mysqli_native_moodle_database.php on line 79

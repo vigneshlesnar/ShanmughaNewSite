@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+    
+
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-sm-12">
+                    <div class="back-page">
+                        <a href="academics.shtml">
+                            <img src="images/icons/arrow-blue.svg" />
+                            <span>Back</span>
+                        </a>
+                        <div class="menu-title">AGRICULTURAL ENGINEERING</div>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#profile">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty">Faculty</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#curriculum-syllabus">Curriculum & Syllabus</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty-achievements">Faculty Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#student-achievements">Student Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#activities">Activities</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#special-interest-group">Special Interest
+                                Group</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+
+                    <!-- SECTION - 1 -->
+                    <div id="profile" class="right-nav-divs tab-pane active">
+                        <div class="right-card">
+                            <div class="right-heading">Profile</div>
+                            <div class="clr"></div>
+                            <p>
+                                Considering the importance of conserving natural resources, proper land management and
+                                to provide quality education on agriculture to the rural masses, the department of
+                                Agriculture Engineering was established in the year 2016 with a permissible intake of 60
+                                students. The institute vows to promote agriculture by conducting need analysis to
+                                bridge the gap between agriculture and latest technology. Primary motive for offering
+                                this course is to serve the farming community by inculcating the effective utilization
+                                of available resources with the motto: “Resources are limited but creativity is
+                                unlimited’. The institute has planned to provide state-of-the-art agricultural practices
+                                to the farmers and the society at large, ‘for a better and a greener tomorrow’.
+                            </p>
+
+                            <div class="right-heading">Vision</div>
+                            <p>
+                                To produce talented agricultural engineers having a thorough knowledge in state-of-
+                                the-art technologies in the field of agriculture engineering by offering on the job
+                                training to students on the latest machinery at the “Shanmugha Model Farm” available
+                                inside the college premises.
+                            </p>
+
+                            <div class="right-heading">Mission</div>
+                            <p>
+                                Achieving excellence in various techniques of agricultural engineering like maximizing
+                                crop production, importance of conserving soil chemistry, conservation and judicious
+                                utilization of water, irrigation and drainage, post-harvest handling, farming etc.
+                            </p>
+                            <p>
+                                Inculcating the importance of conservation of land, water, energy and other resources in
+                                all agricultural practices. Providing adequate infrastructure to students to carry out
+                                research activities with a view to meeting the needs of the society at large. Creating a
+                                conducive environment to making the students ‘Educated Future Farmers’, Scientists,
+                                Entrepreneurs, Academicians, Technocrats to cater to the ever increasing demands for
+                                agricultural produce.
+                            </p>
+
+                            <div class="right-heading">Existing Infrastructure</div>
+                            <ul class="mou-ul">
+                                <li>Farm land for Field Work</li>
+                                <li>Meteorological lab for the measurement of wind velocity, wind direction and
+                                    Humidity.</li>
+                                <li>Facility for Soil Testing</li>
+                                <li>Pond</li>
+                                <li>Tractors</li>
+                                <li>Rotators</li>
+                                <li>Cultivators</li>
+                                <li>Bio-Gas production facility</li>
+                                <li>Automatic weather station</li>
+                                <li>Bore wells</li>
+                                <li>Drip and sprinkler system</li>
+                                <li>Setting up of a state of the art soil testing laboratory.</li>
+                            </ul>
+
+                            <div class="right-heading">Proposed Future plans</div>
+                            <ul class="mou-ul">
+                                <li>The techniques practiced to make the students “educated future farmers’ are:</li>
+                                <li>Better cultivating practices</li>
+                                <li>Better crop management through environmental modification and adaptation of crops to
+                                    the local environment.</li>
+                                <li>Soil conservation techniques</li>
+                                <li>Implementation of micro irrigation to the fields allotted.</li>
+                                <li>Conventional oil extraction: Extraction of ground nut and coconut oil using Vaagai
+                                    wood (SIRIS TREE) pressed oil, as a substitute for oil procured from the market.
+                                </li>
+                                <li>Organic farming – Cultivation of vegetables, pulses etc. to provide healthy food to
+                                    the students and to preserve soil chemistry.</li>
+                                <li>Growing Herbal plants to cure various ailments such as:
+                                    Solanum Nigrum (Manathakkali)– for ulceration, Solanum Trilobathum (Thuthuvalai)–
+                                    for Sinusitis, Gymnema Sylvertre (Sirukurinjan) – for Diabetes Mellitus, Bramma
+                                    Sanjeevi – for Heart diseases
+                                </li>
+                            </ul>
+                            <div class="clr20"></div>
+
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-1.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-2.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-3.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-4.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-5.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-6.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="card-image">
+                                        <img src="images/course-colleges/agricultural/a-7.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="faculty" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">FACULTY</div>
+                            <div class="clr"></div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.NO</th>
+                                            <th>NAME OF THE STAFF</th>
+                                            <th>QUALIFICATION</th>
+                                            <th>DESIGNATION</th>
+                                            <th>FACULTY INFO</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="row1">
+                                            <td>1</td>
+                                            <td>Mr.A.Murugananth</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor &amp; HoD (i/c)</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-1.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row2">
+                                            <td>2</td>
+                                            <td>Mr.T.S.Kumanan</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-2.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row1">
+                                            <td>3</td>
+                                            <td>Ms.G.Aruthura Devi</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-3.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row2">
+                                            <td>4</td>
+                                            <td>Mr.N.Thiyagarajan</td>
+                                            <td>BSc(Agri).,MSc(Agri)</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-1-4.pdf"
+                                                    target="
+                                    -blank">View</a></td>
+                                        </tr>
+                                        <tr class="row1">
+                                            <td>5</td>
+                                            <td>Mr.E.Selvam</td>
+                                            <td>BSc(Agri).,MSc(Agri)</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-1-5.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row1">
+                                            <td>6</td>
+                                            <td>Mr.R.Manikandan</td>
+                                            <td>M.Tech.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/WEBSITE-DETAILS-CIVIL-1-6.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row2">
+                                            <td>7</td>
+                                            <td>Mr.V.Ganaprakash</td>
+                                            <td>M.Tech.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/Web-site-update-data-Agri-6.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row1">
+                                            <td>8</td>
+                                            <td>Mr.P.S.Jeganathan</td>
+                                            <td>M.Tech.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/P-s-jeganathan-1.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr class="row2">
+                                            <td>9</td>
+                                            <td>Mr.K.Murugesan </td>
+                                            <td>M.Tech.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/agricultural/P-s-jeganathan-2.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 3 -->
+                    <div id="curriculum-syllabus" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">CURRICULUM AND SYLLABUS</div>
+                            <div class="clr"></div>
+
+                            <ul class="accordionlinks">
+                                <li><a target="_blank"
+                                        href="http://cac.annauniv.edu/PhpProject1/aidetails/afug_2017_fu/04.B.E.%20Agri.pdf">View
+                                        Regulation 2017</a></li>
+                                <li><a target="_blank"
+                                        href="http://cac.annauniv.edu/PhpProject1/aidetails/afug_2013_fu/04.Agri%20(R-2013)%20I%20to%20VIII%20C%20&%20S.pdf">View
+                                        Regulation 2013</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 4 -->
+                    <div id="faculty-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">FACULTY ACHIVEMENT</div>
+                            <div class="clr"></div>
+
+                            <ul class="accordionlinks">
+                                <li><a href="pdf/course/agricultural/Web-site-update-data-Agri-1-8.pdf"
+                                        target="blank">View Faculty achivements 2018 - 2019 & 2019 - 2020</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 5 -->
+                    <div id="student-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">STUDENT ACHIVEMENT</div>
+                            <div class="clr"></div>
+
+                            <ul class="accordionlinks">
+                                <li><a href="pdf/course/agricultural/student-achieve.pdf" target="blank">View Academic
+                                        year 2018 -2019 & 2019-2020</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 6 -->
+                    <div id="activities" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">ACTIVITIES</div>
+                            <div class="clr"></div>
+
+                            <ul class="accordionlinks">
+                                <li>INTERNSHIP AND IMPLANT TRAINING - <a
+                                        href="pdf/course/agricultural/agri-activity.pdf" target="blank">Click to View
+                                        Academic year 2018 - 2019 & 2019 - 2020</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 7 -->
+                    <div id="special-interest-group" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">SPECIAL INTEREST GROUP (SIG)</div>
+                            <div class="clr"></div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>TITLE OF SIG</th>
+                                            <th>FACULTY COORDINATOR</th>
+                                            <th style="width:250px;">FACULTY MEMBERS IN SIG</th>
+                                            <th style="width:250px;">STUDENT MEMBERS IN SIG</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Hydroponics &amp;Aquaponics</td>
+                                            <td>Mr.K.Mohan</td>
+                                            <td>Mr. A.Murugananth</td>
+                                            <td>
+                                                <li>Chevvanthy.R</li>
+                                                <li>Ranjani T</li>
+                                                <li>Shivanethri.H</li>
+                                                <li>Karthikeyan S</li>
+                                                <li>Naveen S</li>
+                                                <li>Logeswaran E</li>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Neuro Nutrition</td>
+                                            <td>Ms.G.Aruthradevi</td>
+                                            <td>Mr. A.Murugananth</td>
+                                            <td>
+                                                <li>Devadharshini.D</li>
+                                                <li>Monica V</li>
+                                                <li>Varsha.K</li>
+                                                <li>Priyadharshini B</li>
+                                                <li>Krishnan.J</li>
+                                                <li>Gunasekaran N</li>
+                                                <li>Manoj P</li>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Classification of Farming and its Techniques (Prototype)</td>
+                                            <td>Mr. T.S.Kumanan</td>
+                                            <td>Mr. A.Murugananth</td>
+                                            <td>
+                                                <li>P.Shankar</li>
+                                                <li>S.Suryaprakash</li>
+                                                <li>D.Mathiyarasan</li>
+                                                <li>A.Kousica</li>
+                                                <li>T.Amirthapriya</li>
+                                                <li>D.Kaviyaparani</li>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+            shanmugaJs.academicsMenuActive();
+        })
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+
+    <script src="js/spotlight.bundle.js"></script>
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#sbi">SBI Collect</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#airpay">Airpay</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+
+                    <!-- SECTION - 1 -->
+                    <div id="sbi" class="right-nav-divs tab-pane active">
+                        <div class="right-card">
+                            <div class="right-heading">ONLINE FEES PAYMENT USING STATE BANK COLLECT</div>
+                            <div class="clr"></div>
+
+                            <p>
+                                Steps for Online Fee Payment Through Internet Banking/ATM. Procedure for Payment of Fees
+                                through SBI Collect
+                            </p>
+
+                            <div class="right-heading">Step: 1</div>
+                            <ul class="mou-ul">
+                                <li>Visit ONLINE SBI Collect : <a
+                                        href="https://www.onlinesbi.com/sbicollect/icollecthome.htm?corpID=645493">Pay
+                                        Online SBI Collect</a></li>
+                                <li>Click : Accepted the Terms &amp; Conditions</li>
+                            </ul>
+                            <div class="enlarge-image">
+                                <img src="images/onlinefees/termsanduses.png" />
+                            </div>
+
+
+                            <div class="right-heading">Step: 2</div>
+                            <ul class="mou-ul">
+                                <li>Click : Proceed</li>
+                                <li>State of Corporate/Institution : Select State as <strong>Tamil Nadu</strong></li>
+                                <li>Type of Corporate/Institution : Select Type <strong>Educational Institution</strong>
+                                </li>
+                            </ul>
+                            <div class="enlarge-image">
+                                <img src="images/onlinefees/selectinstitude.png" />
+                            </div>
+
+
+                            <div class="right-heading">Step: 3</div>
+                            <ul class="mou-ul">
+                                <li>Click:Educational Institutions name : Sri Shanmugha College Of Engineering and
+                                    Technology</li>
+                            </ul>
+                            <div class="enlarge-image">
+                                <img src="images/onlinefees/choosecollege-1.png" />
+                            </div>
+
+
+                            <div class="right-heading">Step: 4</div>
+                            <ul class="mou-ul">
+                                <li>Select PAYMENT Category : Select Category as <strong>Bus Fees</strong> ,
+                                    <strong>Exam Fees</strong> , <strong>Hostel Fees</strong></li>
+                            </ul>
+                            <div class="enlarge-image">
+                                <img src="images/onlinefees/category.png" />
+                            </div>
+
+
+                            <div class="right-heading">Step: 5</div>
+                            <p>If you select any category, following details will appear in the screen</p>
+                            <ul class="mou-ul">
+                                <li>ID No/Registration No :</li>
+                                <li>Name of student :</li>
+                                <li>Course :</li>
+                                <li>Mobile No :</li>
+                                <li>year</li>
+                            </ul>
+                            <div class="enlarge-image">
+                                <img src="images/onlinefees/studentdetails.png" />
+                            </div>
+
+                            <ul class="mou-ul">
+                                <li>Please enter other information that is displayed on the screen and submit.</li>
+                                <li>VERIFY details and CONFIRM this transaction</li>
+                                <li>
+                                    You will be taken to the payment options screen, with THREE (3) options:
+                                    <b>Net-Banking, </b>
+                                    <b>Card Payments</b>
+                                    <span> and </span>
+                                    <b>Other Payment Modes</b>
+                                </li>
+
+                                <li>Select any one of the payment options and follow the guided payment instructions /
+                                    steps.</li>
+                                <li>After successful payment is made, e-FEE RECEIPT is generated.</li>
+                                <li>SAVE &amp; PRINT.</li>
+                                <li>You can also print your receipt any time in future also.</li>
+                                <li>Submit Autumn Semester fee receipt at the time of registration or Deputy Registrar
+                                    (Academic).</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="airpay" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">ONLINE FEES PAYMENT USING AIRPAY</div>
+                            <p>
+                                For New and Existing Students. The Fee will only be accepted by online mode.
+                            </p>
+
+                            <ul class="mou-ul">
+                                <li>The student of the respective college has to click on the college name where he/she
+                                    is studying.</li>
+                                <li>Dashboard of the student will open-up.</li>
+                                <li>Enter your Roll number and other details given by the respective HOD after clicking
+                                    on the college name</li>
+                                <li>Enter Total Fee Amount in Fee Head</li>
+                                <li>Next Click on Submit tab.</li>
+                                <li>Payment Gateway asks about the type of transaction/name of the bank</li>
+                                <li>Complete the transaction and print the receipt.</li>
+                                <li>The successful payment will be reflected in your account details.</li>
+                                <li>The following terms and conditions will be applicable for online transaction:</li>
+                            </ul>
+
+                            <p>Details information for the transaction charges.</p>
+
+                            <div class="common-tbl">
+                                <table class="table ">
+                                    <thead>
+                                        <tr>
+                                            <th>Payment Mode</th>
+                                            <th>Online Payment Gateway</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Card Swiping Device Charge</td>
+                                            <td>NIL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Set Up fees</td>
+                                            <td>NIL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Debit Cards Below Rs2000</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Debit Cards Above Rs2000</td>
+                                            <td>0.9%+Tax</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Credit Card</td>
+                                            <td>1%+Tax</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Amex Card</td>
+                                            <td>1.4%+Tax</td>
+                                        </tr>
+                                        <tr>
+                                            <td>International Cards</td>
+                                            <td>2.65 %+Tax</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Net Banking</td>
+                                            <td>Rs14</td>
+                                        </tr>
+                                        <tr>
+                                            <td>UPI(BHIM,Paytm,GooglePay)</td>
+                                            <td>Rs12</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Annual Maintenance Charges</td>
+                                            <td>NIL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="clr20"></div>
+
+                                <a href="https://www.schoolpay.co.in/form_generator/view.php?id=87364" class="btn btn_secondary">Pay here</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+        })
+    </script>
+</body>
+
+</html>

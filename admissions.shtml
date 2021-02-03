@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>Sri Shanmugha College of Engineering and Technology</title>
+        <meta charset="utf-8">
+        <link rel="icon" href="images/shanmugalogo.png">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+        <meta name="description" content="Shanmugha College" />
+
+        <!--#include file="commonInclude/js-css-include.html" -->
+        
+
+    </head>
+
+    <body>
+        <!--#include file="commonInclude/header.html" -->
+        <!--#include file="commonInclude/navbar.html" -->
+        <section class="mid-section">
+            <div class="container-fluid">
+                <div id="accordion">
+                    <div class="panel-group">
+                        <div class="card-header" id="heading1"  data-toggle="collapse" data-target="#collapse1" aria-controls="collapse1">
+                            <div class="right-heading">Admission</div>
+                            <span class="fas caret-awesome"></span>
+                        </div>
+              
+                        <div id="collapse1" class="panel-collapse collapse show" aria-labelledby="heading1" data-parent="#accordion">
+                            <div class="card-body">
+                                <span class="reqtext">*</span> Candidates are advised to apply in the separate prescribed application forms for UG and PG programmes.
+                                <div class="clr20"></div>
+
+                                <div class="right-heading">UNDER-GRADUATE PROGRAMMES</div>
+                                <p>
+                                    Application for admission shall be made in the prescribed form. The form can be obtained from the College Office or download from given link. Separate application shall be made for each course.
+                                </p>
+
+                                <p>
+                                    B.E/B.Tech degree course will be completed over a period of 4 years consisting of 8 semesters.
+                                </p>
+
+                                <div class="right-heading">SUBMISSION OF APPLICATION</div>
+                                <p>Filled in application forms with</p>
+                                <ul class="mou-ul">
+                                    <li>Passport Size Photos (2 Copies)</li>
+                                    <li>Photocopy of the SSLC Mark sheet</li>
+                                    <li>Photocopy of the +2 mark statement</li>
+                                    <li>Photocopy of the TC</li>
+                                    <li>Photocopy of the Community Certificate</li>
+                                    <li>Photocopy of the Conduct Certificate</li>
+                                </ul>
+
+                                <p>shall be submitted to The Principal, Sri Shanmugha College of Engineering and Technology Tiruchengode – Sankari Main Road, Pullipalayam, Morur(Po), Sankari (Tk), Salem (Dt) – 637 304.</p>
+                                <p>Admission will be made in each branch according to the rules of reservation prescribed by the Government of Tamil Nadu.</p>
+                                <p>Direct admission will be done under Management Quota. The candidates can directly approach the Principal from the next day of the publication of +2 results with a printout of marks from internet.</p>
+
+                                <div class="right-heading">UNDER-GRADUATE PROGRAMMES (LATERAL ENTRY)</div>
+                                <p>Candidates who have passed Diploma in Engineering awarded by the State Board of Technical Education or Equivalent after undergoing regular course of three years study in an approved institution are eligible for admission.</p>
+                                <p>B.E/B.Tech degree course will be completed over a period of 3 years consisting of 6 semesters.</p>
+                                <p>Application for admission shall be made in the prescribed form. The form can be obtained from the College Office or download from given link. Separate application shall be made for each course.</p>
+
+                                <div class="right-heading">SUBMISSION OF APPLICATION</div>
+                                <ul class="mou-ul">
+                                    <li>Passport Size Photos (2 Copies)</li>
+                                    <li>Photocopy of the SSLC Mark sheet</li>
+                                    <li>Photocopy of the Polytechnic TC</li>
+                                    <li>Photocopy of the 5th &amp; 6th Semester Mark sheets [Revaluation Mark sheet (if any)]</li>
+                                    <li>Photocopy of the Community Certificate</li>
+                                    <li>First Graduation Certificate (if any)</li>
+                                    <li>Photocopy of the Provisional Certificate</li>
+                                    <li>Photocopy of the Conduct Certificate</li>
+                                </ul>
+                                <p>shall be submitted to The Principal, Sri Shanmugha College of Engineering and Technology Tiruchengode – Sankari Main Road, Pullipalayam, Morur(Po), Sankari (Tk), Salem (Dt) – 637 304.</p>
+                                
+                                <div class="right-heading">POST-GRADUATE PROGRAMMES</div>
+                                <p>Application for admission shall be made in the prescribed form. The form can be obtained from the College Office or download from given link. Separate application shall be made for each course.</p>
+                                <p>M.E/M.Tech degree course will be completed over a period of 2 years consisting of 4 semesters.</p>
+
+                                <div class="right-heading">SUBMISSION OF APPLICATION</div>
+                                <ul class="mou-ul">
+                                    <li>Passport Size Photos (2 Copies)</li>
+                                    <li>Photocopy of the SSLC Mark sheet</li>
+                                    <li>Photocopy of the +2 Mark sheet</li>
+                                    <li>Photocopy of the Semester wise (not consolidated) Mark statements of the Degree Programme</li>
+                                    <li>Photocopy of the Community Certificate</li>
+                                    <li>Photocopy of the Provisional Certificate</li>
+                                    <li>Photocopy of the Conduct Certificate</li>
+                                </ul>
+                                <p>shall be submitted to The Principal, Sri Shanmugha College of Engineering and Technology Tiruchengode – Sankari Main Road, Pullipalayam, Morur(Po), Sankari (Tk), Salem (Dt) – 637 304.</p>
+                                <p>All admissions made are subject to verification of the Mark Statements by the Director of Government Examination and if the Mark Statement is found to be bogus, the admission is liable to be cancelled and criminal action would be taken against the concerned candidate.</p>
+
+                                <div class="right-heading">CERTIFICATES TO BE PRODUCED AT THE TIME OF ADMission</div>
+                                <ul class="mou-ul">
+                                    <li>10th &amp; 12th standard mark statements. (Original and Photo copies)</li>
+                                    <li>Transfer Certificate. (Original and Photo copy)</li>
+                                    <li>Conduct Certificate from the Head of the Institution last studied (Original)</li>
+                                    <li>Community Certificate (Original) if the selection is based on Community Quota (not applicable for Open Competition selection)</li>
+                                    <li>NCC/NSS Certificate in the prescribed form</li>
+                                    <li>2 stamp size photos</li>
+                                    <li>Eligibility certificate from the Recognized University for the Candidates who passed qualifying examination other than +2 examination of Tamil Nadu Higher Secondary / CBSE.</li>
+                                    <li>Degree Marks Statements (Semester wise original)</li>
+                                    <li>Provision certificate from the concerned university incase of PG admission/Lateral Entry</li>
+                                    <li>Diploma 5th &amp; 6th Semester mark statements incase of Lateral Entry (Original and Photo copies)</li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+
+                
+                    <div class="panel-group">
+                        <div class="card-header" id="heading3"  data-toggle="collapse" data-target="#collapse3" aria-controls="collapse2">
+                            <div class="right-heading">Download Admission Forms</div>
+                            <span class="fas caret-awesome"></span>
+                        </div>
+              
+                        <div id="collapse3" class="panel-collapse collapse" aria-labelledby="heading3" data-parent="#accordion">
+                            <div class="card-body">
+                                <ul class="accordionlinks">
+                                    <li><a target="_blank" href="pdf/admission/UG-application-form.pdf">Application for Under Graduate Degrees</a></li>
+                                    <li><a target="_blank" href="pdf/admission/M.E-Application.pdf">Application for Post Graduate Degrees</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="commonInclude/footer.html" -->
+
+        <script>
+            $(document).ready(function(){
+               shanmugaJs.pageInit(); 
+               shanmugaJs.panelCaretActive();
+            })
+        </script>
+    </body>
+</html>

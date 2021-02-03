@@ -1,0 +1,2707 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-sm-12">
+                    <div class="back-page">
+                        <a href="academics.shtml">
+                            <img src="images/icons/arrow-blue.svg" />
+                            <span>Back</span>
+                        </a>
+                        <div class="menu-title">COMPUTER SCIENCE & ENGINEERING</div>
+                    </div>
+                </div>
+
+                
+                <div class="col-sm-12 col-md-3 left-nav-menu">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#profile">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty">Faculty</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#curriculum-syllabus">Curriculum & Syllabus</a>
+                        </li>
+                        <li class="nav-item hide-li-alone">
+                            <a class="nav-link" data-toggle="tab" href="#laboratories">Laboratories</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#faculty-achievements">Faculty Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#student-achievements">Student Achievements</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#activities">Activities</a>
+                        </li>
+                        <li class="nav-item hide-li-alone">
+                            <a class="nav-link" data-toggle="tab" href="#innovative-teaching-methods">Innovative
+                                Teaching Methods</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#mou">MOU</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#patents">Patents</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#professional-society">Professional Society</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#special-interest-group">Special Interest
+                                Group</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="col-sm-12 col-md-9 right-nav-desc tab-content">
+
+                    <!-- SECTION - 1 -->
+                    <div id="profile" class="right-nav-divs tab-pane active">
+                        <div class="right-heading">Profile</div>
+                        <div class="right-card">
+                            <p>
+                                The department of Computer Science and Engineering was established in the year 2011 with
+                                an intake of 60 students. The Department has been maintaining high standards in
+                                imparting quality education in the challenging field of Computer Science. Highly
+                                experienced and dedicated faculty members with minimum M.E / M.Tech qualification impart
+                                quality training to students, with solid emphasis on understanding the fundamentals and
+                                intricacies of the subjects concerned and subsequently apply them to solve problems. The
+                                Department has successfully conducted Technical Symposiums and has arranged a number of
+                                seminars and several invited lectures by eminent persons both from academia and
+                                industry. The Department has well established lab facilities with advanced software
+                                suited to the syllabus prescribed by the University.
+                                <br><br>
+                                The Department is adopting a new innovative teaching methodology to meet PEOs (Programme
+                                Educational Objectives). It is organizing technical activities in tutorial periods for
+                                the enhancement of students skills. It has organized a short-term course for students on
+                                ANDROID which will bridge the gap between Academia and Industry. It is also encouraging
+                                students to develop the in-house project so that they can meet the industrial
+                                requirements, by adopting the standard Project Development Process.
+                                <br><br>
+                                Our department has been recognized by IIT Bombay to act as a nodal center for all its
+                                distance digital learning process. It has also been bestowed with virtual classroom
+                                facilities. We have signed MOU with NPTEL for displaying the lectures by the eminent
+                                professors of Computer Science and Engineering.
+                                <br><br>
+                                The faculties of the department are the members of the Indian Society for Technical
+                                Education (ISTE) and Computer Society of India (CSI).
+                                <br><br>
+                                The Department of Computer Science and Engineering has the primary objective of
+                                providing world-class education in the field of Computer Science. The department is
+                                combining excellence in education and research with reference to the industry. Right
+                                from its inception, the Department has been offering phenomenal infrastructural
+                                facilities with a variety of computing platforms to professional students to meet the
+                                burgeoning demands of the IT industry.
+                            </p>
+
+                            <div class="right-heading">Vision</div>
+                            <p>
+                                To create the holistic environment for the development of academic and intellectual
+                                Engineering Graduates employable at the global level and to mould them through
+                                comprehensive educational programs for developing their competencies and innovation
+                                apart from inculcating the moral values.
+                            </p>
+
+                            <div class="right-heading">Mission</div>
+                            <p>
+                                M1:Ensuring the academic growth by way of establishing centers of excellence and
+                                promoting collaborative learning
+                                <br><br>
+                                M2:Strengtheningthe academic ambience through faculty training programs on contemporary
+                                technical education
+                                <br><br>
+                                M3:Motivating the students to be successful, ethical and suitable for industry ready
+                                <br><br>M4:Promoting research based projects in the emerging areas of technology
+                                convergence for the benefit of students and faculty
+                                <br><br>PEO1. Basic Skills: : Graduates work productively as successful Computer
+                                Professionals with problem solving skills, core computing skills and soft skills with
+                                social awareness.
+                                <br><br>PEO2. Technical Knowledge: Graduates engage in everlasting endeavor to promote
+                                research and development
+                                <br><br>PEO3. Technical Knowledge: : Graduates communicate effectively, recognize and
+                                incorporate the societal needs in their profession by practicing their boundless skills
+                                with high regard to ethical responsibilities
+                            </p>
+
+                            <div class="right-heading">PROGRAMME OUTCOMES</div>
+                            <p>
+                                The UG program in Computer Engineering will prepare students to attain:
+                            </p>
+
+
+                            <ul class="mou-ul">
+                                <li><strong>PO1 Engineering knowledge: </strong> Apply the knowledge of mathematics,
+                                    science, engineering fundamentals and an engineering specialization to the solution
+                                    of complex engineering problems.</li>
+                                <li><strong>PO2 Problem analysis: </strong>Identify, formulate, review research
+                                    literature, and analyze complex engineering problems reaching substantiated
+                                    conclusions using first principles of mathematics, natural sciences and engineering
+                                    sciences. </li>
+                                <li><strong>PO3 Design/development of solutions: </strong>Design solutions for complex
+                                    engineering problems and design system components or processes that meet the
+                                    specified needs with appropriate consideration for the public health, safety,
+                                    cultural, societal and environmental considerations. </li>
+                                <li><strong>PO4 Conduct investigations of complex problems: </strong> Use research-based
+                                    knowledge and research methods including design of experiments, analysis, and
+                                    interpretation of data and synthesis of the information to provide valid
+                                    conclusions. </li>
+                                <li><strong>PO5 Modern tool usage: </strong> Create, select, apply appropriate
+                                    techniques, resources, modern engineering and IT tools including prediction and
+                                    modeling to complex engineering activities with an understanding of the limitations.
+                                </li>
+                                <li><strong>PO6 The engineer and society: </strong>Apply reasoning informed by the
+                                    contextual knowledge to assess societal, health, safety, legal, cultural issues and
+                                    the consequent responsibilities relevant to the professional engineering practice.
+                                </li>
+                                <li><strong>PO7 Environment and sustainability: </strong>Understand the impact of the
+                                    professional engineering solutions in societal, environmental contexts, demonstrate
+                                    the knowledge and need for sustainable development. </li>
+                                <li><strong>PO8 Ethics: </strong>Apply ethical principles, commit to professional
+                                    ethics, responsibilities and norms of the engineering practice. </li>
+                                <li><strong>PO9 Individual and team work: </strong>Function effectively as an
+                                    individual, as a member or leader in diverse teams and in multidisciplinary
+                                    settings. </li>
+                                <li><strong>PO10 Communication: </strong> Communicate effectively on complex engineering
+                                    activities with the engineering community with society at large being able to
+                                    comprehend, write effective reports, design documentation, make effective
+                                    presentations and receive clear instructions. </li>
+                                <li><strong>PO11 Project management and finance: </strong> Demonstrate knowledge,
+                                    understanding of the engineering and management principles and apply these to one’s
+                                    own work, as a member and leader in a team, to manage projects and in
+                                    multidisciplinary environments.</li>
+                                <li>PO12 Life-long learning: Recognize the need, ability to engage in independent and
+                                    life-long learning in the broadest context of technological change.</li>
+                            </ul>
+                            <div class="right-heading">Program Specific Outcomes</div>
+                            <ul class="mou-ul">
+                                <li><b>PSO 1:</b> An ability to analyze the real time problems and to develop solutions
+                                    by applying appropriate mathematical logic, algorithms and data structures</li>
+                                <li>PSO 2: An ability to apply the software design and development concepts,
+                                    methodologies and techniques to work in the industries</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="faculty" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">TEACHING</div>
+                            <div class="clr"></div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.NO</th>
+                                            <th>NAME OF THE STAFF</th>
+                                            <th>QUALIFICATION</th>
+                                            <th>DESIGNATION</th>
+                                            <th>FACULTY INFO</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Dr.S.Markkandeyan</td>
+                                            <td>M.E., Ph.D.</td>
+                                            <td>Professor and HoD</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-1.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Dr.B.Shobhana</td>
+                                            <td>M.E., Ph.D.</td>
+                                            <td>Associate Professor </td>
+                                            <td><a href="pdf/course/cse/Dr.B.Shobhana-full....conv_.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Dr.W.R.Salem Jeyaseelan</td>
+                                            <td>M.E., Ph.D.,</td>
+                                            <td>Associate Professor</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-4.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+
+
+
+
+
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Mr.U.Muthaiah</td>
+                                            <td>M.E.,(Ph.D.,)</td>
+                                            <td>Associate Professor</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-2.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Mr.M.Balamurugan</td>
+                                            <td>M.Tech,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Mr.M.Balamurugan-full-conv.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Mrs.S.Arthi</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Mrs.S.-Arthi-full-conv-1-2.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Ms.P.Keerthana</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-5.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>Mr.P.Kameshkumar</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/MR-P-KAMESH-KUMAR-FULL-CONV.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>Mr.Ramamoorthy</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Mr.A.Ramamoorthy-FULL-CONV.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>Mrs.K.P.Vijayalakshimi</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Ms.K.P.vijayalaks-full-conv.pdf"
+                                                    target="_blank">View</a></td>
+                                        </tr>
+
+
+                                        <tr>
+                                            <td>11</td>
+                                            <td>Mr.R.M.Balajee</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-3.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>12</td>
+                                            <td>Mr.R.Palanivel</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Palanivel.pdf"
+                                                    target="_blank">View</a></td>
+
+
+
+                                        </tr>
+                                        <tr>
+                                            <td>13</td>
+                                            <td>Mr.R.Tamilarasu</td>
+                                            <td>M.E.,</td>
+                                            <td>Assistant Professor</td>
+                                            <td><a href="pdf/course/cse/Faculty-Details-RT.pdf" target="_blank">View</a>
+                                            </td>
+                                        </tr>
+
+
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">NON-TEACHING</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.NO</th>
+                                            <th>Name of the Faculty</th>
+                                            <th>Qualification</th>
+                                            <th>Designation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mr.J.Gokula Krishnan</td>
+                                            <td>Diploma in ECE</td>
+                                            <td>System Administrator</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Mr.Dinesh Prabu</td>
+                                            <td>Diploma in ECE</td>
+                                            <td>Lab Assistant</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Mr.P.Kavinesh</td>
+                                            <td>B.Sc(CS)</td>
+                                            <td>Lab Assistant</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Mr.Meganathan</td>
+                                            <td>B.Tech</td>
+                                            <td>Lab Assistant</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Mr.T.Gowtham</td>
+                                            <td>MCA</td>
+                                            <td>Lab Assistant</td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 3 -->
+                    <div id="curriculum-syllabus" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Curriculum Syllabus</div>
+                            <div class=""></div>
+
+                            <ul class="accordionlinks">
+                                <li><a target="_blank"
+                                        href="http://cac.annauniv.edu/PhpProject1/aidetails/afug_2017_fu/01.B.E.%20CSE%20final.pdf">View
+                                        Regulation 2017</a></li>
+                                <li><a target="_blank"
+                                        href="http://cac.annauniv.edu/PhpProject1/aidetails/afug_2013_fu/22.%20CSE.pdf">View
+                                        Regulation 2013</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 4 -->
+                    <div id="laboratories" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">Department Laboratory</div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                S.NO
+                                            </th>
+                                            <th>Name of the Laboratory</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                1
+                                            </td>
+                                            <td>Computer Practices Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                2
+                                            </td>
+                                            <td>Programming and Data Structures Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                3
+                                            </td>
+                                            <td>Database Management Systems Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                4
+                                            </td>
+                                            <td>Networks Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                5
+                                            </td>
+                                            <td>Operating Systems Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                6
+                                            </td>
+                                            <td>Case Tools Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                7
+                                            </td>
+                                            <td>Internet Programming Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                8
+                                            </td>
+                                            <td>Computer Graphics Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                9
+                                            </td>
+                                            <td>Mobile Application Development Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                10
+                                            </td>
+                                            <td>Compiler Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                11
+                                            </td>
+                                            <td>Security Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                12
+                                            </td>
+                                            <td>Grid and Cloud Computing Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                13
+                                            </td>
+                                            <td>Communication and Soft Skills Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                14
+                                            </td>
+                                            <td>Advanced Data Structures Laboratory</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                15
+                                            </td>
+                                            <td>Advanced Databases Laboratory</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">List of Software</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                S.No.
+                                            </th>
+                                            <th>
+                                                Software
+                                            </th>
+                                            <th>
+                                                License Details
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                1
+                                            </td>
+                                            <td>Oracle</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                2
+                                            </td>
+                                            <td>Rational Suite</td>
+                                            <td>30 Nos</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                3
+                                            </td>
+                                            <td>Network Simulator 2</td>
+                                            <td>Open Source</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                4
+                                            </td>
+                                            <td>C, C++ and Java Compiler</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                5
+                                            </td>
+                                            <td>Eclipse IDE</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                6
+                                            </td>
+                                            <td>Microsoft Visual Studio</td>
+                                            <td>1 No</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                7
+                                            </td>
+                                            <td>Android Studio</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                8
+                                            </td>
+                                            <td>Open Nebula</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                9
+                                            </td>
+                                            <td>GNU Privacy Guard</td>
+                                            <td>Unlimited</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                10
+                                            </td>
+                                            <td>Code Gear Studio</td>
+                                            <td>11 Nos</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                11
+                                            </td>
+                                            <td>Team Foundation Server</td>
+                                            <td>1 No</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                12
+                                            </td>
+                                            <td>Flex Windows (LEX AND YAAAC)</td>
+                                            <td>Open Source</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                13
+                                            </td>
+                                            <td>Microsoft SQL Server</td>
+                                            <td>1 No</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 5 -->
+                    <div id="faculty-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">STAFF ACHIEVEMENTS</div>
+                            <ul class="accordionlinks">
+                                <li>
+                                    <a href="pdf/course/cse/FDP-full.conv-1.pdf" target="_blank">View
+                                        Academic year 2018-2019</a>
+                                </li>
+                            </ul>
+                            <div class="clr20"></div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2017 -2018</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No.</th>
+                                            <th width="30%">Name of the Faculty</th>
+                                            <th width="35%">Course Name</th>
+                                            <th width="25%">Certification Type</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td rowspan="2">1</td>
+
+                                            <td rowspan="2">Mr.M.Balamurugan
+                                            </td>
+                                            <td>Problem Solving Through Programming in C</td>
+                                            <td>Elite</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Programming Data Structure Algorithm in Python</td>
+                                            <td>Successfully Completed</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">ACADEMIC YEAR 2018 -2019 : E & ICT ACADEMY CERTIFICATION</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No.</th>
+                                            <th width="30%">Name of the Faculty</th>
+                                            <th width="35%">Course Name</th>
+                                            <th width="25%">Certification Type</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Mrs.M.Agalya</td>
+                                            <td>Python Programming – A Practical Approach</td>
+                                            <td>Successfully Completed</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Mrs.S.Kiruthika</td>
+                                            <td>Python Programming – A Practical Approach</td>
+                                            <td>Successfully Completed</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Ms.P.Keerthana</td>
+                                            <td>Mobile Compuing – A Practical Approach</td>
+                                            <td>Successfully Completed</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">FACULTY ATTENDED DETAILS</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="8%">S.No.</th>
+                                            <th width="20%">Name of the Faculty</th>
+                                            <th width="35%">Event</th>
+                                            <th width="15%">Date</th>
+                                            <th width="22">Name of the Organizer</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td style="vertical-align: middle;">Mr.S.Nagaraj</td>
+                                            <td>Faculty Development Program – Introduction to Mobile App Development
+                                            </td>
+                                            <td>11.09.2018 &amp; 12.09.2018</td>
+                                            <td>JKKN College of Engineering and Technology</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td style="vertical-align: middle;">Mrs.M.Agalya</td>
+                                            <td>National “Women
+                                                Entrepreneurship Conclave (WeCon)”</td>
+                                            <td>03.09.2018 &amp; 04.09.2018</td>
+                                            <td>AICTE and IIWM at Jain University, Bangalore.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td style="vertical-align: middle;">Mr.M.Balamurugan</td>
+                                            <td>Faculty Development Program – Database programming with PL/SQL</td>
+                                            <td>20.08.2018 to 24.08.2018</td>
+                                            <td>Oracle Academy</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>
+                                                <p>Dr.S.Markkandeyan</p>
+                                                <p>Mr.M.Balamurugan</p>
+                                                <p>Mr.R.Tamilarasu</p>
+                                                <p>Mr.S.Nagaraj</p>
+                                                <p>Mrs.M.Agalya</p>
+                                                <p>Mrs.S.Kiruthika</p>
+                                                <p>Ms.P.Keerthana</p>
+                                            </td>
+                                            <td>AWS Innovate Online
+                                                Conference 2018</td>
+                                            <td style="text-align: center; vertical-align: middle" ;="">19.07.2018</td>
+                                            <td>Amazon Web Services
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>
+                                                <p>Dr.S.Markkandeyan</p>
+                                                <p>Mr.U.Muthaiah</p>
+                                                <p>Mr.M.Balamurugan</p>
+                                                <p>Mr.R.Tamilarasu</p>
+                                                <p>Mr.S.Nagaraj</p>
+                                                <p>Ms.P.Keerthana</p>
+                                                <p>Mrs.S.Kiruthika</p>
+                                            </td>
+                                            <td>Faculty Development
+                                                Program – webinar on Deep Learning</td>
+                                            <td>28.06.2018</td>
+                                            <td>TCS iON Academy</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td style="vertical-align: middle;">Mrs.M.Agalya</td>
+                                            <td>Workshop – The New Age of Quantum Cryptography</td>
+                                            <td>27.06.2018 &amp; 28.06.2018</td>
+                                            <td>Sri Ramakrishna Engineering college</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td style="vertical-align: middle;">Mr.U.Muthaiah</td>
+                                            <td>Workshop- Cyber Security Professional Workshop </td>
+                                            <td>23.06.2018 &amp; 24.06.2018</td>
+                                            <td>Rajarajeswari Medical College</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td style="vertical-align: middle;">Mr.M.Balamurugan</td>
+                                            <td>Faculty Development Program – Mastering Machine Learning with Python
+                                            </td>
+                                            <td>22.06.2018 &amp; 23.06.2018</td>
+                                            <td>Sona College of Technology</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>
+                                                <p>Dr.S.Markkandeyan</p>
+                                                <p>Mr.U.Muthaiah</p>
+                                                <p>Mr.M.Balamurugan</p>
+                                                <p>Mr.R.Tamilarasu</p>
+                                                <p>Mr.S.Nagaraj</p>
+                                                <p>Mrs.M.Agalya</p>
+                                                <p>Mrs.S.Kiruthika</p>
+                                                <p>Ms.P.Keerthana</p>
+                                            </td>
+                                            <td>Faculty Development
+                                                Program – Introduction to cloud Infrastructure and Services</td>
+                                            <td>18.06.2018 &amp;
+                                                19.06.2018</td>
+                                            <td>ICT ACADEMY </td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>
+                                                <p>Ms.P.Keerthana</p>
+                                                <p>Mrs.S.Kiruthika</p>
+                                            </td>
+                                            <td>Faculty Development Program – Problem Solving and Python Programming
+                                            </td>
+                                            <td>11.06.2018 to 17.06.2018</td>
+                                            <td>Knowledge Institute of Technology</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Faculty Achievements 2017-18</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name</th>
+                                            <th>Title</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>U.Muthaiah</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>• Invited as a chief guest and jury to the ONE DAY National
+                                                        level technical symposium that took place at JKKM COLLEGE OF
+                                                        TECHNOLOGY on February, 16 2018. </li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>U.Muthaiah</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>• R Programming in Big data Analytics at SSCET</li>
+                                                    <li>• Data sciences and Big data Analytics at KSRIET</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3</p>
+                                            </td>
+                                            <td>
+                                                <p>M.Balamurugan</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>• R Programming in Big data Analytics at SSCET</li>
+                                                    <li>• Programming and Data structures II at Excel engineering
+                                                        college</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4</p>
+                                            </td>
+                                            <td>
+                                                <p>M.Agalya</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>• R Programming in Big data Analytics at SSCET</li>
+                                                    <li>• Compiler Design </li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Faculty Achievements 2016-17</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name</th>
+                                            <th>Title</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>M.Balamurugan</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>Rubrics in students Assessments and outcome based education</li>
+                                                    <li>Introduction to J2EE</li>
+                                                    <li>Use of ICT in Education for Online and Blended Learning by IIT
+                                                        Bombay</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>K.Gowsic</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>Oracle Java Fundamentals &amp; Java Programming</li>
+                                                    <li>Use of ICT in Education for Online and Blended Learning by IIT
+                                                        Bombay</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3</p>
+                                            </td>
+                                            <td>
+                                                <p>P.Kameshkumar</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>Intoduction to Mobile Application Development</li>
+                                                    <li>Use of ICT in Education for Online and Blended Learning by IIT
+                                                        Bombay</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4</p>
+                                            </td>
+                                            <td>
+                                                <p>U.Muthaiah</p>
+                                            </td>
+                                            <td>
+                                                <ul>
+                                                    <li>Use of ICT in Education for Online and Blended Learning by IIT
+                                                        Bombay</li>
+                                                    <li>Data Analytics using R</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Top results</div>
+                            <ul class="mou-ul">
+                                <li>Gowsic has produced 100% result in Anna University Apr/May 2016 Examination for
+                                    Third Year CSE (Six Semester) in Mobile computing.</li>
+                                <li>Muthaiah has produced 100% result in Anna University Apr/May 2016 Examination for
+                                    Third Year CSE (Six Semester) in Distributed systems.</li>
+                            </ul>
+
+                            <div class="right-heading">Journal Publications</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name</th>
+                                            <th>Title</th>
+                                            <th>Journal</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>Dr.G.Kavitha,</p>
+                                            </td>
+                                            <td>
+                                                <p>Distortion-Resistant Routing Framework for <br> Video Traffic in
+                                                    Wireless Networks</p>
+                                            </td>
+                                            <td>
+                                                <p>International Journal of Engineering<br> And Computer Science(IJECS)
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>M.Agalya AP,</p>
+                                            </td>
+                                            <td>
+                                                <p>Distortion-Resistant Routing Framework for <br> Video Traffic in
+                                                    Wireless Networks</p>
+                                            </td>
+                                            <td>
+                                                <p>International Journal of Engineering<br> And Computer Science(IJECS)
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3</p>
+                                            </td>
+                                            <td>
+                                                <p>S.Gayathri AP,</p>
+                                            </td>
+                                            <td>
+                                                <p>Distortion-Resistant Routing Framework for <br> Video Traffic in
+                                                    Wireless Networks</p>
+                                            </td>
+                                            <td>
+                                                <p>International Journal of Engineering<br> And Computer Science(IJECS)
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4</p>
+                                            </td>
+                                            <td>
+                                                <p>S.K.Murugaraja AP</p>
+                                            </td>
+                                            <td>
+                                                <p>Distortion-Resistant Routing Framework for <br> Video Traffic in
+                                                    Wireless Networks</p>
+                                            </td>
+                                            <td>
+                                                <p>International Journal of Engineering<br> And Computer Science(IJECS)
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">Faculty Achievements 2015 - 2016</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name</th>
+                                            <th>Title</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>P.Kamesh Kumar</p>
+                                            </td>
+                                            <td>
+                                                <ul class="mou-ul">
+                                                    <li>IBM-BLUEMIX organized a Cloud Computing workshop</li>
+                                                    <li>e-Yantra Robotic workshop.</li>
+                                                    <li>Participated in e-Yantra Robotic competition conducted by IIT
+                                                        Bombay.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>R.Kokiladevi</p>
+                                            </td>
+                                            <td>
+                                                <ul class="mou-ul">
+                                                    <li>Attended Computer Network FDP</li>
+                                                    <li>Attended Compiler Design lab FDP</li>
+                                                    <li>IBM-BLUEMIX organized a Cloud Computing workshop</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">TOP RESULTS</div>
+                            <ul class="mou-ul">
+                                <li>All Faculty Members in CSE department presented a paper
+                                    separately on various National and International Conferences, FDP and workshops.
+                                </li>
+                                <li>Dr.G.Kavitha has produced above 95% result in Anna
+                                    University Nov/Dec 2015 Examination for Final Year CSE (Seventh Semester).</li>
+                                <li>K.Gowsic has produced 100% result in Anna University
+                                    Nov/Dec 2015 Examination for Final Year CSE (Six Semester).</li>
+                                <li>U.Muthaiah has produced 100% result in Anna University
+                                    Nov/Dec 2015 Examination for Final Year CSE (Fifth Semester) and also produced above
+                                    95% result in Advanced Computer Architecture.</li>
+                                <li>Rajeswari has produced above 95% result in Anna
+                                    University Nov/Dec 2015 Examination for Final Year CSE (Seventh Semester).</li>
+                                <li>C.Kavitha has produced above 95% result in Anna
+                                    University Nov/Dec 2015 Examination for Final Year CSE (Third and fifth Semester)
+                                    and also produced above 95% result in six semester.</li>
+                                <li>Jagadesan has produced above 95% result in Anna
+                                    University Nov/Dec 2015 Examination for Final Year CSE (Seventh Semester).</li>
+                                <li>P.Kamesh Kumar has produced above 95% result in Anna
+                                    University Nov/Dec 2015 Examination for Final Year CSE (Seventh Semester).</li>
+                            </ul>
+
+                            <div class="right-heading">JOURNAL PUBLISHED</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name</th>
+                                            <th>Title</th>
+                                            <th>Journal</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="52">
+                                                <p>1</p>
+                                            </td>
+                                            <td width="146">
+                                                <p>Mr. P.Kameshkumar</p>
+                                            </td>
+                                            <td width="378">
+                                                <p>Human Semantic Web for Business Process Customization</p>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJETCSE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="11" width="52">
+                                                <p>2</p>
+                                            </td>
+                                            <td rowspan="11" width="146">
+                                                <p>Mrs. Dr. G. kavitha</p>
+                                            </td>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>A Novel Approach for Efficient String Generation Using MDL
+                                                        Pruning Method</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJREEE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Privacy Preserving Data Publishing Using Tuple Grouping
+                                                        Algorithm</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJREEE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>A Chord Based Decentralized Secure Service Discovery on Peer to
+                                                        Peer Network</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJSCI</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>An Efficient Approach for Mobile Commerce Pattern and Sequential
+                                                        Pattern Mining</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIIET</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Privacy Preservation Using Access Control Mechanism for
+                                                        Incremental Data</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIIET</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Heuristic Rule Based Mining of High Utility Itemsets From
+                                                        Transactional Database</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIIET</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>IP Based Approach for Tracing Stolen Laptop and Data Protectio
+                                                        With Mac Address</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJSCI</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Discovery of Latency Delay in Provenance Data Through Secret
+                                                        Channel Encoder</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIIET</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>A Genetic Algorithm With Support for Selective Travelling
+                                                        Salesman Problem on Petrinets</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJSCI</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Bacterial Foraging Optimiztion Based Travelling Salesman Problem
+                                                        for Data Collection in Mobile Sinks</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJSCI</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Multiagent Based Self Scheduling Algorithm for Travelling
+                                                        Salesman Problem</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJETCSE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" width="52">
+                                                <p>3</p>
+                                            </td>
+                                            <td rowspan="2" width="146">
+                                                <p>Mrs. C. Kavitha</p>
+                                            </td>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Achieving Remote Data Intergrity Verification And Eradication
+                                                        Semi honest Attack in Multicloud Storage</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ol start="2">
+                                                    <li>Public Auditing of Dynamic Bigdata Storage With Efficient High
+                                                        Memory Utilization And ECC Algorithm</li>
+                                                    </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="52">
+                                                <p>4</p>
+                                            </td>
+                                            <td width="146">
+                                                <p>Mr.M.Premkumar</p>
+                                            </td>
+                                            <td width="378">
+                                                <p>Efficient Privacy Preserving Secure Odarm Algorithm in Horizontally
+                                                    Distributed Database</p>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="52">
+                                                <p>5</p>
+                                            </td>
+                                            <td width="146">
+                                                <p>Mrs.S.Rajeswari</p>
+                                            </td>
+                                            <td width="378">
+                                                <p>The Software Approach to Measure The Quality Of Vein Images for Fake
+                                                    Detection in Online Attendance System</p>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="5" width="52">
+                                                <p>6</p>
+                                            </td>
+                                            <td rowspan="5" width="146">
+                                                <p>Mr.U.Muthaiah</p>
+                                            </td>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Energy Efficient Mobile Sink Path Selection Using Cluster Based
+                                                        Approach In WSNS</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ol start="2">
+                                                    <li>Efficient Deduplication With Security Using Jenkins And Recovery
+                                                        Techniques</li>
+                                                    </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ol start="3">
+                                                    <li>Security With Authorized Deduplication Compression Using JHF And
+                                                        DR Techniques In Hybrid Cloud</li>
+                                                    </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>&nbsp;</p>
+                                                <p>EIJTEM</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Utility Based Consolidation of Cloud Servers Using Memory
+                                                        Harnessing</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRSET</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>Anonymity Set Location Privacy Scheme In MANET</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJESRT</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" width="52">
+                                                <p>7</p>
+                                            </td>
+                                            <td rowspan="2" width="146">
+                                                <p>Mr.K.Gowsic</p>
+                                            </td>
+                                            <td width="378">
+                                                <ul class="mou-ul">
+                                                    <li>A NOVEL APPROACH FOR ENERGY EFFICIENT RELIABLE ROUTING USING
+                                                        TABU IN WIRELESS AD HOC NETWORKS</li>
+                                                </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJIRCCE</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="378">
+                                                <ol start="2">
+                                                    <li>“Geographic Routing Scheme Based on Dynamic Location Update and
+                                                        Load Balancing Mechanism"</li>
+                                                    </ul>
+                                            </td>
+                                            <td width="74">
+                                                <p>IJCSMC</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 6 -->
+                    <div id="student-achievements" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">PATICIPATION IN COCURRICULAR ACTIVITIES 2018-2019</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>DATE</th>
+                                            <th>NAME OF THE STUDENTS</th>
+                                            <th>YEAR</th>
+                                            <th>PARTICIPATED AT</th>
+                                            <th>TYPE OF THE EVENT</th>
+                                            <th>TITLE OF THE EVENT</th>
+                                            <th>PRIZE WON</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>05.10.2018 &amp;
+                                                06.10.2018</td>
+                                            <td style="vertical-align: middle;">K.NAGARAJ</td>
+                                            <td>III</td>
+                                            <td>SSM Institute of
+                                                Technology</td>
+                                            <td>Symposium</td>
+                                            <td>
+                                                <p>Jam Task</p>
+                                                <p>Treasure Hunt</p>
+                                                <p>Pubg game</p>
+                                                <p>Quiz</p>
+                                                <p>Line Follower</p>
+                                            </td>
+                                            <td>-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="6">2</td>
+                                            <td rowspan="3">
+                                                05.10.2018</td>
+                                            <td rowspan="6" style="vertical-align: middle;">R.KARTHICK</td>
+                                            <td rowspan="6">III</td>
+                                            <td rowspan="6">SSM
+                                                Institute of Technology</td>
+                                            <td rowspan="2">
+                                                Symposium</td>
+                                            <td>Treasure Hunt</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Dumbcharades</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Paper Presentation</td>
+                                            <td>Raspberry</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">
+                                                06.10.2018</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Raspberry</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2">
+                                                Symposium</td>
+                                            <td>Line Follower</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Techno talk</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="8">3</td>
+                                            <td rowspan="5">
+                                                05.10.2018</td>
+                                            <td rowspan="8" style="vertical-align: middle;">S.NAGARAJU</td>
+                                            <td rowspan="8">III</td>
+                                            <td rowspan="8">SSM
+                                                Institute of Technology</td>
+                                            <td rowspan="4">
+                                                Symposium</td>
+                                            <td>Treasure Hunt</td>
+                                            <td rowspan="5">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Debugging</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Dumb charades</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Jam Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Paper Presentation</td>
+                                            <td>Blue Brain</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">
+                                                06.10.2018</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Blue Brain</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Line Follower</td>
+                                            <td rowspan="2">
+                                                Symposium</td>
+                                            <td rowspan="2">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Techno Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="5">4</td>
+                                            <td rowspan="5">
+                                                05.10.2018</td>
+                                            <td rowspan="5" style="vertical-align: middle;">M.ROSHITH KUMAR</td>
+                                            <td rowspan="5">III</td>
+                                            <td rowspan="5">SSM
+                                                Institute of Technology</td>
+                                            <td rowspan="5">
+                                                Symposium</td>
+                                            <td>Debugging</td>
+                                            <td rowspan="2">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Dumb charades</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Jam Talk</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Line Follower</td>
+                                            <td rowspan="2">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Treasure Hunt</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="4">5</td>
+                                            <td rowspan="4">
+                                                05.10.2018</td>
+                                            <td rowspan="4" style="vertical-align: middle;">G.PRAMODH</td>
+                                            <td rowspan="4">III</td>
+                                            <td rowspan="4">SSM
+                                                Institute of Technology</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Blue Brain</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">
+                                                Symposium</td>
+                                            <td>Dumb charades</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Jam Talk</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Quiz</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="6">6</td>
+                                            <td rowspan="6">
+                                                05.10.2018</td>
+                                            <td rowspan="6" style="vertical-align: middle;">R.PURUSOT HAMAN</td>
+                                            <td rowspan="6">III</td>
+                                            <td rowspan="6">SSM
+                                                Institute of Technology</td>
+                                            <td rowspan="4">
+                                                Symposium</td>
+                                            <td>Treasure Hunt</td>
+                                            <td rowspan="4">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pubg Game</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Jam Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Debugging</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Paper Presentation</td>
+                                            <td>Raspberry</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Symposium</td>
+                                            <td>Line Follower</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align: center;">7</td>
+                                            <td>28.09.2018 - 29.09.2018</td>
+                                            <td style="vertical-align: middle;">YOGA LAKSHMI</td>
+                                            <td style="text-align: center;">III</td>
+                                            <td>Paavai Engineering College</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Build Coding</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align: center;">8</td>
+                                            <td>28.09.2018 - 29.09.2018</td>
+                                            <td style="vertical-align: middle;">M.BHARATHI</td>
+                                            <td style="text-align: center;">III</td>
+                                            <td>Paavai Engineering College</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Build Coding</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="5">9</td>
+                                            <td rowspan="5">
+                                                29.09.2018</td>
+                                            <td>V.AJITHA</td>
+                                            <td>III</td>
+                                            <td rowspan="5" style="vertical-align: middle;">Velalar College of
+                                                Engineering and Technology</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Artificial Intelligence</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.REVATHI</td>
+                                            <td rowspan="4">II</td>
+                                            <td>Symposium</td>
+                                            <td>Freaky Fun</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" style="vertical-align: middle;">T.SOWMIYA</td>
+                                            <td>Symposium</td>
+                                            <td>Freaky Fun</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Paper Presentation</td>
+                                            <td>Artificial Intelligence</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.REVATHI</td>
+                                            <td>Paper Presentation</td>
+                                            <td>Artificial Intelligence</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="11">10</td>
+                                            <td rowspan="11">
+                                                28.09.2018 - 29.09.2018</td>
+                                            <td>R.PREM</td>
+                                            <td rowspan="11">III
+                                            </td>
+                                            <td rowspan="11" style="vertical-align: middle;">Paavai Engineering College
+                                            </td>
+                                            <td rowspan="11" style="vertical-align: middle;">Symposium</td>
+                                            <td>Gaming(Pubg)</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" style="vertical-align: middle;">G.VIGNESH RAJA</td>
+                                            <td>Blind Coding</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Code Treasure</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>S.DHAMO DHARAN</td>
+                                            <td>Code Treasure</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" style="vertical-align: middle;">R.PREM</td>
+                                            <td>Blind Coding</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Code Treasure</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" style="vertical-align: middle;">VIJAY M</td>
+                                            <td>Code Treasure</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Blind Coding</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>S.DHAMO DHARAN</td>
+                                            <td>Blind Coding</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" style="vertical-align: middle;">G.VIGNESH RAJA</td>
+                                            <td>Swell-O-Net</td>
+                                            <td style="text-align: center;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Mind Twister</td>
+                                            <td style="text-align: center;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align: center;">11</td>
+                                            <td style="text-align: center;">29.09.2018</td>
+                                            <td style="text-align: center;">S.KOWSALYA</td>
+                                            <td style="text-align: center;">III</td>
+                                            <td>Velalar College of Engineering and Technology</td>
+                                            <td>Symposium- Paper Presentation</td>
+                                            <td>Artificial Intelligence</td>
+                                            <td style="text-align: center;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2">12</td>
+                                            <td rowspan="2">
+                                                26.09.2018 - 27.09.2018</td>
+                                            <td style="vertical-align: middle;">J.RAKSHANA</td>
+                                            <td rowspan="2">III</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Sona College of Engineering
+                                            </td>
+                                            <td rowspan="2" style="vertical-align: middle;">Workshop</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Ardubo tics</td>
+                                            <td rowspan="2" style="vertical-align: middle;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>M.DIVYA BHARATHI</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">13</td>
+                                            <td rowspan="3">
+                                                20.09.2018</td>
+                                            <td style="vertical-align: middle;">J.MANO</td>
+                                            <td rowspan="3">III</td>
+                                            <td rowspan="3" style="vertical-align: middle;">PGP College of Engineering
+                                            </td>
+                                            <td rowspan="3" style="vertical-align: middle;">Workshop</td>
+                                            <td rowspan="3" style="vertical-align: middle;">Internet of Things</td>
+                                            <td rowspan="3" style="vertical-align: middle;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td>R.RAJESH WARI</td>
+                                        </tr>
+                                        <tr>
+                                            <td>V.SHALINI</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="8">14</td>
+                                            <td rowspan="8">
+                                                18.9.2018 - 19.09.2018</td>
+                                            <td style="vertical-align: middle;">S.KOWSALYA</td>
+                                            <td rowspan="6">III</td>
+                                            <td rowspan="8" style="vertical-align: middle;">Sengunthar College of
+                                                Engineering</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Paper Presentation</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Artificial Intelligence</td>
+                                            <td rowspan="2" style="vertical-align: middle;">-</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">V.AJITHA</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">S.KOWSALYA</td>
+                                            <td rowspan="4" style="vertical-align: middle;">Symposium</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Hacking</td>
+                                            <td style="vertical-align: middle;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">V.AJITHA</td>
+                                            <td style="vertical-align: middle;">II</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">S.KOWSALYA</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Code Debugging</td>
+                                            <td style="vertical-align: middle;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">V.AJITHA</td>
+                                            <td style="vertical-align: middle;">I</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="vertical-align: middle;">M.REVATHI</td>
+                                            <td rowspan="2">II</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Paper Presentation</td>
+                                            <td rowspan="2" style="vertical-align: middle;">Artificial Intelligence</td>
+                                            <td rowspan="2" style="vertical-align: middle;">-</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">STUDENT’S ACHIEVEMENTS 2016-17</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th style="text-align: center;">Name</th>
+                                            <th>Prize</th>
+                                            <th> style="text-align: center;"Institute</th>
+                                            <th style="text-align: center;">Year</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>B.Bavishna</td>
+                                            <td>Fourth</td>
+                                            <td>
+                                                <p>Kavery Engineering College</p>
+                                                <p>Tech Quiz</p>
+                                            </td>
+                                            <td>III CSE</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>B.Bavishna</td>
+                                            <td>Third</td>
+                                            <td>
+                                                <p>Kavery Engineering College</p>
+                                                <p>Paper presentation</p>
+                                            </td>
+                                            <td>III CSE</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">2015-16 Achievement</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th style="text-align: center;">Name</th>
+                                            <th>Prize</th>
+                                            <th style="text-align: center;">Institute</th>
+                                            <th style="text-align: center;">Year</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="53">1</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Thangamani</li>
+                                                    <li>K. Mythili, IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>1<sup>st</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Knowledge Institute of Technology, Paper Presentation</p>
+                                            </td>
+                                            <td width="132">2015
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="53">2</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Poorani</li>
+                                                    <li>S. Mathiyarasi, IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>2<sup>nd</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Knowledge Institute of Technology, Paper Presentation</p>
+                                            </td>
+                                            <td width="132">2015
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="53">3</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Thangamani, IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>1<sup>st</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Knowledge Institute of Technology , Technical Event</p>
+                                            </td>
+                                            <td width="132">2015
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="53">4</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Mathiyarasi, IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>1<sup>st</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Erode Sengunthar Engineering college , Short Film</p>
+                                            </td>
+                                            <td width="132">2015
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="53">5</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Mathiyarasi</li>
+                                                    <li>S.Lavanya</li>
+                                                    <li>V.Tamilarasi ,IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>3<sup>rd</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Salem Collector office, Best Project</p>
+                                            </td>
+                                            <td width="132">2015
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="53">6</td>
+                                            <td width="240">
+                                                <ul class="mou-ul">
+                                                    <li>Mathiyarasi, IV CSE</li>
+                                                </ul>
+                                            </td>
+                                            <td width="71">
+                                                <p>3<sup>rd</sup> Prize</p>
+                                            </td>
+                                            <td width="204">
+                                                <p>Salem Steel Plant Company, Best Poem</p>
+                                            </td>
+                                            <td width="132">
+                                                <p>2015</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">2014-15 Achievements</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.NO</th>
+                                            <th>NAME</th>
+                                            <th>YEAR</th>
+                                            <th>COLLEGE</th>
+                                            <th>EVENT</th>
+                                            <th>PRIZE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>P.R.Vignesh Priyadharshan R.Balaji</td>
+                                            <td>2014</td>
+                                            <td>Vivekanandha College of Engineering for Women, Elayampalayam</td>
+                                            <td>Paper Presentation Event</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>P.R.Vignesh Priyadharshan R.Balaji</td>
+                                            <td>2014</td>
+                                            <td>Jansons Institute of Technology, Coimbatore</td>
+                                            <td>Animation Event</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>M.Manirathanam K.R.VasanthaKumar</td>
+                                            <td>2014</td>
+                                            <td>SCAD College of Engineering and Technology, Tirunelveli</td>
+                                            <td>Quiz Event</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>P.R.Vignesh Priyadarshan</td>
+                                            <td>2014</td>
+                                            <td>Kalainagar Karunanidhi Institute of Technology, Coimbatore</td>
+                                            <td>Google Hunter Event</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>T.N.Nandhini</td>
+                                            <td>2014</td>
+                                            <td>Mahendra College Of Engineering</td>
+                                            <td>Code Debugging</td>
+                                            <td>First</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>P.R.Vignesh Priyadarshan R.Balaji</td>
+                                            <td>2014</td>
+                                            <td>University College of Engineering,Villupuram</td>
+                                            <td>Paper Presentation</td>
+                                            <td>First</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>K.Bhuvanaeshwaran S.Saravanan</td>
+                                            <td>2014</td>
+                                            <td>Mahendra College of Engineering</td>
+                                            <td>Poster Presentation</td>
+                                            <td>First</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>K.Bhuvanaeshwaran</td>
+                                            <td>2014</td>
+                                            <td>Mahendra College of Engineering</td>
+                                            <td>Marketing</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>Manirathanam.M</td>
+                                            <td>2014</td>
+                                            <td>Annai Mathammal Sheela Engineering College</td>
+                                            <td>Code Debugging</td>
+                                            <td>Second</td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>Balaji.R</td>
+                                            <td>2014</td>
+                                            <td>Annai Mathammal Sheela Engineering College</td>
+                                            <td>Code Debugging</td>
+                                            <td>First</td>
+                                        </tr>
+                                        <tr>
+                                            <td>11</td>
+                                            <td>Balaji.R</td>
+                                            <td>2014</td>
+                                            <td>Annai Mathammal Sheela Engineering College</td>
+                                            <td>Hardware Assembling</td>
+                                            <td>First</td>
+                                        </tr>
+                                        <tr>
+                                            <td>12</td>
+                                            <td>M.Gokulnath S.Soundharrajan</td>
+                                            <td>2014</td>
+                                            <td>Kongu Engineering College</td>
+                                            <td>Just Do It</td>
+                                            <td>Third</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="right-heading">B.E(Computer Science & Engineering)</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th style="text-align: center;">Name</th>
+                                            <th style="text-align: center;">Course</th>
+                                            <th style="text-align: center;">Batch</th>
+                                            <th style="text-align: center;">CGPA</th>
+                                            <th style="text-align: center;">Rank</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td width="79">1</td>
+                                            <td width="162">
+                                                <p>K.Bhuvaneswaran</p>
+                                            </td>
+                                            <td width="99">UG</td>
+                                            <td width="81">2015</td>
+                                            <td width="90">8.63</td>
+                                            <td width="105">45</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="79">2</td>
+                                            <td width="162">
+                                                <p>S.Hemalatha</p>
+                                            </td>
+                                            <td width="99">PG</td>
+                                            <td width="81">2015</td>
+                                            <td width="90">9.03</td>
+                                            <td width="105">9</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="79">3</td>
+                                            <td width="162">
+                                                <p>Ms.S.Usmin</p>
+                                            </td>
+                                            <td width="99">PG</td>
+                                            <td width="81">2014</td>
+                                            <td width="90">--</td>
+                                            <td width="105">30</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="79">4</td>
+                                            <td width="162">
+                                                <p>Ms.S.Chitra</p>
+                                            </td>
+                                            <td width="99">PG</td>
+                                            <td width="81">2014</td>
+                                            <td width="90">--</td>
+                                            <td width="105">36</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="79">5</td>
+                                            <td width="162">
+                                                <p>Ms.M.Rajalakshmi</p>
+                                            </td>
+                                            <td width="99">PG</td>
+                                            <td width="81">2014</td>
+                                            <td width="90">--</td>
+                                            <td width="105">37</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 7 -->
+                    <div id="activities" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">DEPARTMENT ACTIVITIES 2018-2019</div>
+                            <ul class="mou-ul">
+                                <li>Two days FDP on Cloud infrastructure and services in association with ICT Academy
+                                    organized by CSE on 18.06.18 and 19.06.18.</li>
+                                <li>One day Guest lecture on Internet Programming organized by CSE on 07.07.18.</li>
+                                <li>CSE Association inauguration STACE 2k19 was conducted on 14.07.2018.</li>
+                                <li>Two days IFHRMS DDO’s training programme in association with CSI organized by CSE on
+                                    20.07.18 and 21.07.18.</li>
+                                <li>One day workshop on industry oriented training programme – Python Programming
+                                    Language organized by HACKEDWEB club of CSE on 23.07.18.</li>
+                                <li>National level Technical symposium TECHNOTRAN-2K18 organized by CSE on 06.09.18.
+                                </li>
+                                <li>One day industry seminar on Career opportunities in IT industries organized by CSE
+                                    on 06.09.18.</li>
+                                <li>One day seminar on Software testing and Software Security Testing organized by CSE
+                                    on 15.09.18.</li>
+                                <li>One day Guest lecture on Service oriented architecture organized by CSE on 1.10.18.
+                                </li>
+                                <li>One day Guest lecture on Cryptography and Network Security organized by CSE on
+                                    2.10.18.</li>
+                                <li>One day Industry seminar on Technology-Automation organized by CSE on 1.10.18.</li>
+                                <li>One day Guest lecture on Theory of Computation organized by CSE on 13.10.18.</li>
+                                <li>One day workshop on Cloud literacy day in association with ICT Academy organized by
+                                    CSE on 31.10.18.</li>
+                            </ul>
+
+
+
+
+                            <div class="right-heading">DEPARTMENT ACTIVITIES 2017-2018</div>
+                            <ul class="mou-ul">
+                                <li>HACKDWEB - CLUB of CSE department organized one day workshop in PHP- MySQL on 23rd
+                                    Feb 2018.</li>
+                                <li>Four days National level workshop on “R Programming in Big Data Analytics” dated
+                                    from 07.06.17 to 10.06.17 by the Mr.D.Seshathiri, Data Scientist, Techno Forum
+                                    Development and Research Centre.</li>
+                                <li>The Association of computer science of engineering department was inaugurated on
+                                    30.08.2017 by Mr.R.Shankar, Divisional Manager-Projects,Ashok Leyland limited.</li>
+                                <li>One day National level Technical symposium "TECHNOTRON 2K17" was conducted on 1st
+                                    September 2017. The chief guest address given by Mr.Durai.M.R, HR Manager, Robert
+                                    Bosch Engineering and business solutions limited.</li>
+                                <li>One day Power seminar on Career oppurtunities in Core engineering was organized by
+                                    ICT Academy on October 23rd 2017.</li>
+                                <li>Guest lecture on Object oriented Analysis &amp; Design was conducted by Dr.G.Magesh,
+                                    IRTT, Erode for Third Years. </li>
+                                <li>Guest lecture on Artificial Intelligence and Design and Analysis of Algorithms were
+                                    handled by Dr.G.Magesh, IRTT, and Erode for Third Year and second year CSE students.
+                                </li>
+                                <li>“Hatlet Technologies – Incubation centre “inauguration was conducted on 07.02.2018
+                                    by Department of CSE.</li>
+                                <li>E2 infosystems – Incubation centre inauguration was conducted on 11.2.2018 by
+                                    Department of CSE.</li>
+                            </ul>
+
+                            <div class="right-heading">DEPARTMENT ACTIVITIES 2016-2017</div>
+                            <ul class="mou-ul">
+                                <li>The Association of computer science of engineering department was inaugurated on
+                                    30.07.2016. by Mr.mani Narayan, Vice president, Human resources, Karya Technologies.
+                                </li>
+                                <li>Industry talk on Big data &amp; Analytics was given by Mr.Srinivasan Mohandass Chief
+                                    Business officer – Big data &amp; Analytics, Systech Solutions Pvt Ltd. On August
+                                    4<sup>th</sup></li>
+                                <li>One day National level Technical symposium "TECHNOTRON 2K16"was conducted on 11th
+                                    August The chief guest address given by Mr.Sangameshwaran Mohan, HR Manager, KMIT
+                                    Solutions Pvt Ltd.</li>
+                                <li>Guest lecture on Object oriented Analysis &amp; Design was conducted by Dr.G.Magesh,
+                                    IRTT, Erode for Third Years.</li>
+                            </ul>
+
+                            <div class="right-heading">ACADEMIC YEAR 2016 AND EARLIER <br>SPECIAL DEPARTMENT ACTIVITIES
+                            </div>
+                            <ul class="mou-ul">
+                                <li>CSI - Computer Society of India</li>
+                                <li>ISTE - Indian Society for Technical Education</li>
+                                <li>ICTACT - ICT Academy of Tamil Nadu</li>
+                            </ul>
+
+                            <div class="right-heading">DEPARTMENT ACTIVITIES</div>
+                            <ul class="mou-ul">
+                                <li>
+                                    One week national level workshop on "Database
+                                    Management Systems" was conducted by IIT Bombay 21.05 2013 to 31.05.2013
+                                </li>
+                                <li>
+                                    Student Association was Inaugurated on 20th July 2013
+                                    by Mr.D.Aravind, Assistant Manager-HR, KGiSL, Coimbatore and a seminar on Career
+                                    opportunities in IT industry was given by him.
+                                </li>
+                                <li>
+                                    One day national level workshop on "Recent Trends and
+                                    Mobile Application on Android" was conducted on 31st August 2013.The Chief Guest
+                                    address given by Dr.T.Senthilkumar, AP-Amirtha School of Engineering,
+                                    Coimbatore.
+                                </li>
+                                <li>
+                                    One day national level conference on "Tomorrow's
+                                    Technologies"was conducted on 1st February 2014. The Chief Guest address given
+                                    by Dr.V.SubramaniamSwamy, SAP/CSE, SASTRA University, Tanjavur.
+                                </li>
+                                <li>
+                                    One day National level Technical symposium
+                                    "XZIQUT'14"was conducted on 15th February 2014.The chief guest address given by
+                                    Dr.V.Venkatesa Kumar, AP/CSE, Anna University, Coimbatore.
+                                </li>
+                                <li>
+                                    Guest lecture for Artificial Intelligence was
+                                    conducted by Dr.G.Magesh, IRTT, Erode for Third Years on 4.2.2015 &amp;
+                                    25.03.2015.
+                                </li>
+                                <li>
+                                    TWO - WEEK ISTE Short Term Training Programme (STTP)
+                                    on Pedagogy for Effective use of ICT in Engineering Education, Date of face to
+                                    face Interaction: 5th-7th January 2015 and 19th-21st January 2015 conducted
+                                    Under the National Mission on Education through ICT (MHRD, Govt. of India)
+                                    Through IIT Bombay.
+                                </li>
+                                <li>
+                                    A National level technical symposium ASPIRE’15 was
+                                    conducted by department of computer science on 26th September 2015.
+                                </li>
+                                <li>
+                                    Department of computer science and engineering
+                                    conducted the seminar on Microsoft Technology on 8th September 2015.
+                                </li>
+                                <li>
+                                    One day Workshop was conducted for students and staffs
+                                    on the open source technology PHP -My SQL on 02.04.2015
+                                </li>
+                                <li>
+                                    The Association of computer science of engineering
+                                    department named SCALE (Shanmugha Computer Association for Legend Engineers) was
+                                    inaugurated on 25.07.2015.
+                                </li>
+                                <li>
+                                    Two day Inauguration was held by CSE Students
+                                    Association and Workshop Typesetting Journal and Book using Latex .
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 8 -->
+                    <div id="innovative-teaching-methods" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">INNOVATIVE TEACHING METHODS</div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Innovative Teaching Methods</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Power Point Presentation (PPT)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>National Programme on Technology Enhanced Learning (NPTEL)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>Audio and Video Lecturing (Animation)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>Quiz and Role Play</td>
+
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Learning Management Systems (LMS)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>3 Minutes Talk</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Massive open online course (MOOC)</td>
+
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 9 -->
+                    <div id="mou" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">MEMORANDUM OF UNDERSTANDING SIGNED</div>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>NAME OF THE INDUSTRY</th>
+                                            <th>THEME OF MOU</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>Hatlet Technologies</td>
+                                            <td>Training provided for web development</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>Greefi Technologies</td>
+                                            <td>Training and Development for Web, Mobile and IoT</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3</td>
+                                            <td>K-Teq Solutions</td>
+                                            <td>Training provided for web development</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>E2 Infosystems</td>
+                                            <td>Training and web development (Java based)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Inspirate</td>
+                                            <td>Imparting Computer Education and Training</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>B-Square</td>
+                                            <td>Imparting Computer Education and Training</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>Inspirate</td>
+                                            <td>Imparting Computer Education and Training</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7</td>
+                                            <td>Skill Matrix</td>
+                                            <td>Imparting Computer Education and Training</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8</td>
+                                            <td>NIIT Salem Center</td>
+                                            <td>Training and Certification</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9</td>
+                                            <td>Vefetch Technologies
+                                            </td>
+                                            <td>Internship, Projects(UG and PG), Conference and Workshops</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 10 -->
+                    <div id="patents" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">PATENTS APPLIED/RECEIVED</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>Name of the Applicant(s) / Assignee Name</th>
+                                            <th>Name of the Inventor(s)</th>
+                                            <th>Title</th>
+                                            <th>Application No. &amp; Patent filed date</th>
+                                            <th>Current Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1</td>
+                                            <td>
+                                                <p>Dr.N.Sengottaiyan </p>
+                                                <p>Dr.S.Markkandeyan</p>
+                                            </td>
+                                            <td>
+                                                <p>Dr.N.Sengottaiyan </p>
+                                                <p>Dr.S.Markkandeyan</p>
+                                            </td>
+                                            <td>
+                                                <p>SIGI Prints </p>
+                                            </td>
+                                            <td>
+                                                <p>14.07.2018</p>
+                                            </td>
+                                            <td>
+                                                <p>Applied</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 11 -->
+                    <div id="professional-society" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">PROFESSIONAL SOCIETIES</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>NAME OF PROFESSIONAL SOCIETIES/ASSOICIATION/CLUBS</th>
+                                            <th>ACTIVITES</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td rowspan="1">1</td>
+                                            <td rowspan="1"><a href="pdf/course/cse/csi.pdf" target="_blank">Computer
+                                                    Society of
+                                                    India(CSI)</a> </td>
+                                            <td>
+                                                <p>Seminar</p>
+                                                <p>Workshop</p>
+                                                <p>Conference</p>
+                                                <p>Project contest</p>
+                                                <p>Guest Lecture</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1">2</td>
+                                            <td rowspan="1"><a href="pdf/course/cse/ict.pdf" target="_blank">ICT
+                                                    Academy</a></td>
+                                            <td>
+                                                <p>Seminar</p>
+                                                <p>Workshop</p>
+                                                <p>Conference</p>
+                                                <p>Project contest</p>
+                                                <p>Guest Lecture</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1">3</td>
+                                            <td rowspan="1"><a href="pdf/course/cse/ie.pdf" target="_blank">Institute of
+                                                    Engineers(IE)</a> </td>
+                                            <td>
+                                                <p>Seminar</p>
+                                                <p>Workshop</p>
+                                                <p>Conference</p>
+                                                <p>Project contest</p>
+                                                <p>Guest Lecture</p>
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="1">4</td>
+                                            <td rowspan="1"> <a
+                                                    href="pdf/course/cse/Details-of-the-Events-Organized-Through-National-Cyber-Defense-Research-Centre.pdf"
+                                                    target="_black">National Cyber Defense
+                                                    Research Centre (NCDRC)</a></td>
+                                            <td>
+                                                <p>Seminar</p>
+                                                <p>Workshop</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SECTION - 2 -->
+                    <div id="special-interest-group" class="right-nav-divs tab-pane fade">
+                        <div class="right-card">
+                            <div class="right-heading">SPECIAL INTEREST GROUP (SIG)</div>
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>S.No.</th>
+                                            <th>TITLE OF SIG</th>
+                                            <th>NAME OF THE COORDINATOR</th>
+                                            <th>FACULTY MEMBERS IN SIG</th>
+                                            <th>STUDENT MEMBERS IN SIG</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>Data Mining, Web Mining, Natural Language Processing and Text Mining
+                                                </p>
+                                            </td>
+                                            <td>Dr.S.Markkandeyan
+                                            </td>
+                                            <td>
+                                                <p>Dr.S.Markkandeyan</p>
+                                                <p>Mrs.S.Arthi</p>
+                                                <p>Mr.R.M.Balajee</p>
+                                            </td>
+                                            <td>
+
+                                                <p>R.Purushothaman</p>
+                                                <p>S.Ajith</p>
+                                                <p>P.Kannan</p>
+                                                <p>K.Jeevitha sri</p>
+                                            </td>
+
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2</p>
+                                            </td>
+                                            <td>
+                                                <p>Big Data Analytics and Deep Learning</p>
+                                            </td>
+                                            <td>Prof. U.Muthaiah
+                                            </td>
+                                            <td>
+                                                <p>Prof. U.Muthaiah</p>
+                                                <p>Mr.P.Kameshkumar</p>
+                                                <p>Mrs.K.P.Vijayalakshmi</p>
+                                                <p>Ms.K.Deepika</p>
+                                            </td>
+                                            <td>
+                                                <p>R.Renuga</p>
+                                                <p>S.Dhamodharan</p>
+                                                <p>R.Karthick</p>
+                                                <p>M. Revathi</p>
+                                                <p>S. Nagaraju</p>
+                                            </td>
+
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3</p>
+                                            </td>
+                                            <td>
+                                                <p>Networks, Wireless Networks, Ad-Hoc Networks, Cryptography and
+                                                    Network Security</p>
+                                            </td>
+                                            <td>
+                                                Dr.W.R.SalemJeyaseelan</td>
+                                            <td>
+                                                <p>Dr.R.Radhakrishnan</p>
+                                                <p>Dr.W.R.SalemJeyaseelan</p>
+                                                <p>Ms.S.S.Ramyadharshni</p>
+                                            </td>
+                                            <td>
+                                                <p>M.Vijay</p>
+                                                <p>K. Ramya</p>
+                                                <p>A.K.Vineeth kumar</p>
+                                                <p>S.Vinoth Kumar</p>
+                                            </td>
+
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4</p>
+                                            </td>
+                                            <td>
+                                                <p>Artificial Intelligence and Machine Learning</p>
+                                            </td>
+                                            <td>Dr.B.Shobhana</td>
+                                            <td>
+                                                <p>Dr.B.Shobhana</p>
+                                                <p>Mr.M.Balamurugan</p>
+                                                <p>Mr.A.Ramamoorthy</p>
+                                            </td>
+                                            <td>
+                                                <p>P.Priyadharshini</p>
+                                                <p>G.Pramodh</p>
+                                                <p>P.Sathish Kumar</p>
+                                                <p>C.Gokulraj</p>
+                                                <p>G.AbubakkarSithic</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+            shanmugaJs.academicsMenuActive();
+        })
+    </script>
+</body>
+
+</html>

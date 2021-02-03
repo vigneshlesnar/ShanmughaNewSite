@@ -1,0 +1,1906 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Sri Shanmugha College of Engineering and Technology</title>
+  <meta charset="utf-8">
+  <link rel="icon" href="images/shanmugalogo.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+  <meta name="description" content="Shanmugha College" />
+
+  <!--#include file="commonInclude/js-css-include.html" -->
+
+</head>
+
+<body>
+  <!--#include file="commonInclude/header.html" -->
+  <!--#include file="commonInclude/navbar.html" -->
+
+  <section class="mid-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12 col-md-3 left-nav-menu">
+          <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#about-central-library">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#sections">Sections</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#collections">Collections</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#eresources">E-Resources</a>
+            </li>
+           <!--  <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#remoteAccess">Remote Access</a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#services">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#reference">Reference Sources</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#useful-links">Useful Links</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#downloads">Downoads</a>
+            </li>
+          </ul>
+
+        </div>
+        <div class="col-sm-12 col-md-8 right-nav-desc tab-content">
+
+          <!-- SECTION - 1 -->
+          <div id="about-central-library" class="right-nav-divs tab-pane active">
+            <div class="right-card">
+              <div class="right-heading">ABOUT CENTRAL LIBRARY</div>
+
+              <div class="row">
+                <div class="col-sm-12">
+                  <img src="images/library/library.jpg" />
+                </div>
+              </div>
+
+              <p>The SSCET takes pride in having a Library with build-up area of 454 Sq.m. It has a well-furnished reading hall, which is has seating capacity of 72. SSCET Library uses fully automated ILMS software by AutoLib. The automated package of library services provides circulation, acquisitions, cataloguing, web OPAC, Report Generation, Email & SMS Alert etc. Book database is created along with the user’s database. The students and Faculty members are encouraged to utilize the learning materials available in the library.  Patrons can borrow books using the ID card issued by the college. Issue return process is fully automated and manual cards are kept as supporting documents for students and faculty.</p>
+              <p>SSCET library follows bar-code system to track the movement of the books and to check the availability of the books. The Central Library subscribes to national and international journals. e-Journals like Springer, ProQuest, J-Gate are available in the Library. For accessing the E-resources 15 computers with LAN connectivity are made available for students and staff members. The Library is also Wi-Fi enabled. Free internet browsing and photocopying facilities with nominal charges are also available throughout the working hours in the central library to cater to the needs of staff and students.</p>
+              <p>The NDL [National Digital Library] is a digital repository containing textbooks, articles, videos, audio books, lectures, thesis and all other kinds of learning media. It provides a single-window search facility to access all digital contents and sources under a single umbrella at free of cost.</p>
+              <p>The NPTEL and DELNET facilities are very useful to the students & staff. Inter library loan[ILL] facility is also available in DELNET, the students and staff can request for books, photocopies and Articles by ILL. To watch NPTEL and Swayam MOOC’s videos a TV and Swayam Prabha DTH Dish connection with 32 channels are available in the library. Apart From that epathashala,e PGpathashala .The Open access system is practiced in the library. Besides the central library, departmental libraries also function in the SSCET campus. CCTV cameras are placed at strategic points in the entire library for surveillance.</p>
+
+
+<p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Gisha&quot;,sans-serif"><span style="color:black">Name of ILMS Software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <strong>AutoLib</strong></span></span></span></span></p>
+
+<p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Gisha&quot;,sans-serif"><span style="color:black">Nature of Automation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <strong>Fully</strong></span></span></span></span></p>
+
+<p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Gisha&quot;,sans-serif"><span style="color:black">Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <strong>6.0</strong></span></span></span></span></p>
+
+<p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Gisha&quot;,sans-serif"><span style="color:black">Year of Automation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : <strong>2013</strong></span></span></span></span></p>
+
+
+              <div class="right-heading">MISSION OF CENTRAL LIBRARY</div>
+              <ul class="mou-ul">
+                <li>Selecting, acquiring, organizing, maintaining and making accessible a collection of
+                  printed and non-printed, primary and secondary materials that will support the
+                  educational, research and public service programmers of both students and the
+                  faculty.</li>
+                <li>Providing library users with point-of-use instruction, personal assistance in
+                  conducting literature research and other reference services.</li>
+                <li>Providing an environment conducive to the optimum use of library materials and an
+                  appropriate schedule of hours of service and professional assistance.</li>
+                <li>Enhancing the library’s resources and services through cooperative relationship with
+                  other libraries and agencies.</li>
+              </ul>
+
+              <div class="row">
+                 <div class="col-sm-12">
+                  <img src="images/library/about-us.jpg" />
+                </div>
+                <div class="col-sm-12">
+                  <img src="images/library/library-2.jpg" />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- SECTION - 2 -->
+          <div id="sections" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">THE ACQUISITION SECTION</div>
+              <p>
+                Collect requests for books from the faculty and interacts to place orders with the
+                selected suppliers, accessioned the procured books and transfers them to the Technical
+                Processing Section for classification, cataloging, indexing and database entry.
+              </p>
+
+              <div class="right-heading">TECHNICAL PROCESSING SECTION</div>
+              <p>
+                Technical Processing Section plays a key role to function the library. It makes a bridge
+                between the acquisitions of documents to the Circulation.
+              </p>
+
+              <ul class="mou-ul">
+                <li>Classification of books following DDC latest edition</li>
+                <li>Cataloging of books following AACR-II</li>
+                <li>Preparing / Updating Database using AUTOLIB software</li>
+                <li>Updates database for the classified books also for Binding, Lost Books etc, Stamping
+                  and labeling bar-code, spine-label.</li>
+                <li>Generates list of new arrival of books which includes bibliographic details
+                  including Abstract.</li>
+                <li>Displays the hard copy of new arrivals on the board (weekly). Simultaneously those
+                  books are kept in 'New Arrival' Display.</li>
+              </ul>
+
+              <div class="right-heading">CIRCULATION SECTION</div>
+              <div class="row">
+                <div class="col-12">
+                  <img src="images/library/circular.jpg" />
+                </div>
+              </div>
+              <p>
+                Circulation Section performs issue, renewal, return of books using AUTOLIB software.
+                Book reservation, various e-mail alert generation, etc. and Circulation related queries
+                by the users are being performed by this section.
+              </p>
+
+              <div class="right-heading">PERIODICAL SECTION</div>
+              <div class="row">
+                <div class="col-12">
+                  <img src="images/library/periodical-section.jpg" />
+                </div>
+              </div>
+              <p>
+                Periodical section contains publications which have single title and deposit number
+                issued at regularly or irregularly such as newspapers, Magazines, pamphlets and reports.
+                The section is working on all its acquisition available to readers.
+              </p>
+
+              <div class="right-heading">DIGITAL SECTION</div>
+              <div class="row">
+                <div class="col-12">
+                  <img src="images/library/Digital-library.jpg" />
+                </div>
+              </div>
+              <p>
+                The Digital Library Section maintains a large Number of Digital collections like CD/DVD
+                ROMS and online study materials.
+              </p>
+
+              <div class="right-heading">REFERENCE SECTION</div>
+              <div class="row">
+                <div class="col-12">
+                  <img src="images/library/reference-Section.jpg" />
+                </div>
+              </div>
+              <p>
+                The library has a good reference collection consisting of various encyclopedias,
+                dictionaries, year books, almanacs, atlases, biographies, etc. of the national and
+                international coverage and other reference books. Sufficient reading tables and chairs
+                are provided to the members.
+              </p>
+            </div>
+          </div>
+
+          <!-- SECTION - 3 -->
+          <div id="collections" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">BOOKS</div>
+              <p>
+                The Library has abundant collection of books 22744 Volumes comprising of 4590 titles and
+                1340 CD's on various branches of Engineering and Science & Humanities. Besides subject
+                collection of books, the Library also has specialized collections for English
+                communication skills.
+              </p>
+
+              <div class="right-heading">PERIODICALS - MAGAZINES 12</div>
+              <ul class="mou-ul">
+                <li>Electronics For You</li>
+                <li>Civil Engineering Construction and Review</li>
+                <li>Down To Earth</li>
+                <li>Competition Success Review</li>
+
+                <li>Employement News</li>
+                <li>English Today</li>
+                <li>Career 360</li>
+                <li>GK Today</li>
+
+              </ul>
+
+              <div class="right-heading">NEWSPAPERS</div>
+              <ul class="mou-ul">
+                <li>The Hindu</li>
+                <li>The New Indian Express</li>
+                <li>The Times of India</li>
+                <li>Business Line</li>
+              </ul>
+
+              <div class="right-heading">SPECIAL COLLECTIONS</div>
+              <ul class="mou-ul">
+                <li>Previous Year Question papers</li>
+                <li>249 Project Reports </li>
+                <li>301 Back Volumes</li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- SECTION - 4 -->
+          <div id="eresources" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">E-RESOURCES</div>
+              <div class="clr20"></div>
+  
+              <ul class="nav nav-pills">
+                <li><a class="active" data-toggle="pill" href="#openAccess">Open Access</a></li>
+                <li><a data-toggle="pill" href="#e-journals">E-Journals</a></li>
+                <li><a data-toggle="pill" href="#e-db">E-Databases</a></li>
+                <li><a data-toggle="pill" href="#e-theses">E-Theses</a></li>
+                <li><a data-toggle="pill" href="#e-patents">E-Patents</a></li>
+                <li><a data-toggle="pill" href="#pds">PDS</a></li>
+              </ul>
+              <div class="clr"></div>
+
+              <div class="tab-content">
+                <div id="openAccess" class="tab-pane in active">
+                  <div class="right-heading">Open Access E-Journals</div>
+                  <div class="common-tble">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <td>S.No</td>
+                          <td>Name of Provider</td>
+                          <td>e-Journals database  URL</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>Directory of Open Access Journals</td>
+                          <td><a href="https://doaj.org/" target="_blank">https://doaj.org/</a></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>BioMed Central</td>
+                          <td><a href="https://www.biomedcentral.com/journals" target="_blank">https://www.biomedcentral.com/journals</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>Scientific Research Publishing</td>
+                          <td><a href="https://www.scirp.org/" target="_blank">https://www.scirp.org/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>Springer Open Journals</td>
+                          <td><a href="https://www.springeropen.com/journals"
+                              target="_blank">https://www.springeropen.com/journals</a></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>Trans stellar Journal Publications and Research Consultancy</td>
+                          <td><a href="http://www.tjprc.org/"
+                              target="_blank">http://www.tjprc.org/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>Science Publications:</td>
+                          <td> <a href="http://thescipub.com" target="_blank">http://thescipub.com</a></td>
+                        </tr>
+                        <tr>
+                          <td>7</td>
+                          <td>Research India Publications</td>
+                          <td><a href="https://www.ripublication.com/"
+                              target="_blank">https://www.ripublication.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>8</td>
+                          <td>International Association of Engineering and Management</td>
+                          <td> <a href="http://www.iaeme.com/"
+                              target="_blank">http://www.iaeme.com/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>9</td>
+                          <td>Seventh Sense Research Group</td>
+                          <td> <a href="http://www.internationaljournalssrg.org/"
+                              target="_blank">http://www.internationaljournalssrg.org/</a></td>
+                        </tr>
+                        <tr>
+                          <td>10</td>
+                          <td>IBIMA Publishing</td>
+                          <td> <a href="http://ibimapublishing.com" target="_blank">http://ibimapublishing.com</a></td>
+                        </tr>
+                        <tr>
+                          <td>11</td>
+                          <td>Indian Academy of Sciences</td>
+                          <td> <a href="http://www.ias.ac.in" target="_blank">http://www.ias.ac.in</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>12</td>
+                          <td>Hindawi publishers</td>
+                          <td><a href="https://www.hindawi.com/"
+                              target="_blank">https://www.hindawi.com/</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>13</td>
+                          <td>CSC Open-Access Library</td>
+                          <td> <a href="http://www.cscjournals.org/"
+                              target="_blank">http://www.cscjournals.org/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>14</td>
+                          <td>OMICS International</td>
+                          <td><a href="https://www.omicsonline.org" target="_blank">https://www.omicsonline.org</a></td>
+                        </tr>
+                        <tr>
+                          <td>15</td>
+                          <td>Elsevier Online Periodicals Repository</td>
+                          <td> <a href="https://www.elsevier.com/about/open-science"
+                              target="_blank">https://www.elsevier.com/about/open-science</a></td>
+                        </tr>
+                        <tr>
+                          <td>16</td>
+                          <td>IEEE</td>
+                          <td> <a href="https://open.ieee.org/" target="_blank">https://open.ieee.org/</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">Open Access E-Books</div>
+                  <div class="common-tble">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <td>S.No</td>
+                          <td>Name of Provider</td>
+                          <td>e-Books database  URL</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>Directory of Open Access Books</td>
+                          <td><a href="http://www.doabooks.org/" target="_blank">http://www.doabooks.org/</a></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>E-Books Directory</td>
+                          <td><a href="http://www.e- booksdirectory.com/listing.php?category=73" target="_blank">http://www.e- booksdirectory.com/listing.php?category=73</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>AMS Books</td>
+                          <td><a href="http://www.ams.org/publicoutreach/math-history/math-history" target="_blank">http://www.ams.org/publicoutreach/math-history/math-history</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>Intech</td>
+                          <td><a href="https://www.intechopen.com/books"
+                              target="_blank">https://www.intechopen.com/books</a></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>Audio Books for Free </td>
+                          <td><a href="http://www.audiobooksforfree.com/screen_main.asp"
+                              target="_blank">http://www.audiobooksforfree.com/screen_main.asp  </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>New Free Books</td>
+                          <td> <a href="http://newfreebooks.com/" target="_blank">http://newfreebooks.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>7</td>
+                          <td>ACS e-Books</td>
+                          <td><a href="http://pubs.acs.org/search/advanced"
+                              target="_blank">http://pubs.acs.org/search/advanced</a></td>
+                        </tr>
+                        <tr>
+                          <td>8</td>
+                          <td>Online book Page</td>
+                          <td> <a href="http://digital.library.upenn.edu/books/index.html"
+                              target="_blank">http://digital.library.upenn.edu/books/index.html</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>9</td>
+                          <td>UC Press E-Books Collection</td>
+                          <td> <a href="http://publishing.cdlib.org/ucpressebooks/"
+                              target="_blank">http://publishing.cdlib.org/ucpressebooks/</a></td>
+                        </tr>
+                        <tr>
+                          <td>10</td>
+                          <td>GPO ACCESS</td>
+                          <td> <a href="http://www.gpo.gov/fdsys/" target="_blank">http://www.gpo.gov/fdsys/</a></td>
+                        </tr>
+                        <tr>
+                          <td>11</td>
+                          <td>INTERNET ARCHIVE</td>
+                          <td> <a href="http://archive.org/details/texts" target="_blank">http://archive.org/details/texts</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>12</td>
+                          <td>PROJECT GUTENBERG</td>
+                          <td><a href="http://www.gutenberg.org/wiki/Gutenberg:About"
+                              target="_blank">http://www.gutenberg.org/wiki/Gutenberg:About</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>13</td>
+                          <td>BOOKBOON</td>
+                          <td> <a href="http://bookboon.com"
+                              target="_blank">http://bookboon.com</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>14</td>
+                          <td>Free books Hub</td>
+                          <td><a href="http://www.freebookshub.com/" target="_blank">http://www.freebookshub.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>15</td>
+                          <td>World Book</td>
+                          <td> <a href="http://www.worldbook.com/"
+                              target="_blank">http://www.worldbook.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>16</td>
+                          <td>Books-On-Line.com </td>
+                          <td> <a href="http://www.books-on-line.com/bol/default.cfm" target="_blank">http://www.books-on-line.com/bol/default.cfm</a></td>
+                        </tr>
+                        <tr>
+                          <td>17</td>
+                          <td>Computer Books</td>
+                          <td><a href="http://freecomputerbooks.com/" target="_blank">http://freecomputerbooks.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>18</td>
+                          <td>Page by Page Books Online</td>
+                          <td><a href="http://www.pagebypagebooks.com/" target="_blank">http://www.pagebypagebooks.com/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>19</td>
+                          <td>Read Print</td>
+                          <td><a href="http://www.readprint.com/" target="_blank">http://www.readprint.com/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>20</td>
+                          <td>World e-book Library</td>
+                          <td><a href="http://www.netlibrary.net/default.aspx"
+                              target="_blank">http://www.netlibrary.net/default.aspx</a></td>
+                        </tr>
+                        <tr>
+                          <td>21</td>
+                          <td>Biodiversity Heritage Library</td>
+                          <td><a href="http://www.biodiversitylibrary.org/"
+                              target="_blank">http://www.biodiversitylibrary.org/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>22</td>
+                          <td>Free book centre</td>
+                          <td> <a href="http://www.freebookcentre.net" target="_blank">http://www.freebookcentre.net</a></td>
+                        </tr>
+                        <tr>
+                          <td>23</td>
+                          <td>Comic books</td>
+                          <td><a href="http://www.comicbookdb.com/"
+                              target="_blank">http://www.comicbookdb.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>24</td>
+                          <td>AR book find</td>
+                          <td> <a href="http://www.arbookfind.com"
+                              target="_blank">http://www.arbookfind.com</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>25</td>
+                          <td>Read Print</td>
+                          <td> <a href="http://www.readprint.com/"
+                              target="_blank">http://www.readprint.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>26</td>
+                          <td>Black book online</td>
+                          <td> <a href="http://www.blackbookonline.info/" target="_blank">http://www.blackbookonline.info/</a></td>
+                        </tr>
+                        <tr>
+                          <td>27</td>
+                          <td>Fiction db</td>
+                          <td> <a href="http://www.fictiondb.com/" target="_blank">http://www.fictiondb.com/</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>28</td>
+                          <td>E-Books</td>
+                          <td><a href="www.pdfdrive.net"
+                              target="_blank">www.pdfdrive.net</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>29</td>
+                          <td>Open Access e-Books</td>
+                          <td> <a href="http://www.digitallibrary.edu.pk/OAEBooks.html"
+                              target="_blank">http://www.digitallibrary.edu.pk/OAEBooks.html</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>30</td>
+                          <td>Free Tech Books</td>
+                          <td><a href="http://www.freetechbooks.com/" target="_blank">http://www.freetechbooks.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>31</td>
+                          <td>Get free books</td>
+                          <td> <a href="https://Www.Getfreeebooks.Com/400-Free-Business-Sales-Career-Economics-And-Financial-Ebooks/#Humanresources"
+                              target="_blank">https://Www.Getfreeebooks.Com/400-Free-Business-Sales-Career-Economics-And-Financial-Ebooks/#Humanresources</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">Open Access Institutional Repositories </div>
+                  <div class="common-tble">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <td>S.No</td>
+                          <td>Name of Provider</td>
+                          <td>URL</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>KRISHIKOSH</td>
+                          <td><a href="http://krishikosh.egranth.ac.in/" target="_blank">http://krishikosh.egranth.ac.in/</a></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>Journal of Digital Information</td>
+                          <td><a href="http://journals.tdl.org/jodi/index.php/jodi" target="_blank">http://journals.tdl.org/jodi/index.php/jodi</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>Indian Journals</td>
+                          <td><a href="http://www.indianjournals.com/ijor.aspx" target="_blank">http://www.indianjournals.com/ijor.aspx</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>Journal of Engineering and Technology</td>
+                          <td><a href="http://www.onlinejet.net/"
+                              target="_blank">http://www.onlinejet.net/</a></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>International Journal of Online Engineering</td>
+                          <td><a href="http://www.online-journals.org/i-joe/"
+                              target="_blank">http://www.online-journals.org/i-joe/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>Intelligent Control and Automation</td>
+                          <td> <a href="http://www.scirp.org/journal/ica/" target="_blank">http://www.scirp.org/journal/ica/</a></td>
+                        </tr>
+                        <tr>
+                          <td>7</td>
+                          <td>International Journal of Computers Communications & Control</td>
+                          <td><a href="http://univagora.ro/jour/index.php/ijccc/index"
+                              target="_blank">http://univagora.ro/jour/index.php/ijccc/index</a></td>
+                        </tr>
+                        <tr>
+                          <td>8</td>
+                          <td>High Wire Press</td>
+                          <td> <a href="http://highwire.stanford.edu/lists/freeart.dtl"
+                              target="_blank">http://highwire.stanford.edu/lists/freeart.dtl</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>9</td>
+                          <td>The Journal of Engineering (JoE)</td>
+                          <td> <a href="http://digital-library.theiet.org/content/journals/joe/"
+                              target="_blank">http://digital-library.theiet.org/content/journals/joe/</a></td>
+                        </tr>
+                        <tr>
+                          <td>10</td>
+                          <td>Journal of Information Technology in Construction</td>
+                          <td> <a href="http://www.itcon.org/" target="_blank">http://www.itcon.org/</a></td>
+                        </tr>
+                        <tr>
+                          <td>11</td>
+                          <td>NISCAIR Online Periodicals Repository</td>
+                          <td> <a href="http://nopr.niscair.res.in/" target="_blank">http://nopr.niscair.res.in/</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>12</td>
+                          <td>National Institute of Technology - Rourkela</td>
+                          <td><a href="http://dspace.nitrkl.ac.in/dspace/"
+                              target="_blank">http://dspace.nitrkl.ac.in/dspace/</a></td>
+                        </tr>
+    
+                        <tr>
+                          <td>13</td>
+                          <td>West Bengal Public Library Network</td>
+                          <td> <a href="http://dspace.wbpublibnet.gov.in:8080/jspui/"
+                              target="_blank">http://dspace.wbpublibnet.gov.in:8080/jspui/</a>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                <div id="e-journals" class="tab-pane fade">
+                  <div class="right-heading">To access Springer Nature - <a href="https://link.springer.com/" target="_blank">https://link.springer.com/</a></div>
+                  <div class="enlarge-image">
+                    <img src="images/library/spring.png" />
+                  </div>
+                </div>
+
+                <div id="e-db" class="tab-pane fade">
+                  <div class="right-heading">The Objectives of DELNET (Developing Library Network)</div>
+
+                  <ul class="mou-ul">
+                    <li>To promote sharing of resources among the libraries by developing a network of libraries, by collecting, storing and disseminating information and by offering computerized services to the users</li>
+                    <li>To undertake scientific research in the area of Information Science and Technology, create new systems in the field, apply the results of research and publish them</li>
+                    <li>To offer technical guidance to the member-libraries on collecting, storing, sharing and disseminating information</li>
+                    <li>To coordinate efforts for suitable collection development and reduce unnecessary duplication wherever possible</li>
+                    <li>To establish/facilitate the establishment of referral and /or research centers, and maintain a central online union catalogue of books, serials and non-book materials of all the participating libraries</li>
+                    <li>To facilitate and promote delivery of documents manually or mechanically</li>
+                    <li>To develop specialized bibliographic database of books, serials and non-book materials</li>
+                    <li>To develop databases of projects, specialists and institutions</li>
+                    <li>To possess and maintain electronic and mechanical equipment for speedy communication of information and delivery of electronic mail</li>
+                    <li>To coordinate with other regional, national and international networks and libraries for exchange of information and documents</li>
+                    <li> To access DELNET: <a href="http://164.100.247.26/" target="_blank">http://164.100.247.26/</a></li>
+                  </ul>
+                  <div class="enlarge-image">
+                    <img src="images/library/delnet.png" />
+                  </div>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">National Digital Library of India (NDLI)</div>
+                  <p>
+                    NDLI is a project of the Ministry of Human Resource Development under the aegis of National Mission on Education through Information and Communication Technology (NMEICT) has entrusted IIT Kharagpur to host, coordinate and set-up National Digital Library towards building a national asset.
+                  </p>
+                  <p>
+                    National Digital Library is a digital library that integrated all existing digitized and digital contents across Institutions of the nation and to provide a single-window access with e-learning facility to the users. NDL provides educational materials in various languages, in all disciplines. To make use of these resources, all faculty members, research scholars and students should register in NDL Portal.
+                  </p>
+                  <p>
+                    <b>
+                      <i>
+                        The main objective of the digital library is to make quality digital educational resources available to all citizens of the country to empower, inspire and encourage learning.
+                      </i>
+                    </b>
+                    <br/><br/>
+                    To access NDLI: <a href="https://ndl.iitkgp.ac.in/" target="_blank">https://ndl.iitkgp.ac.in/</a>
+
+                    <div class="enlarge-image">
+                      <img src="images/library/ndli.png" />
+                    </div>
+                  </p>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">National Programme on Technology Enhanced Learning (NPTEL)</div>
+                  <p>
+                    NPTEL Open Course Ware is a Joint Initiative by 7 IITs and IISc, Bangalore Funded by MHRD, Govt. of India. It provides e-learning through online Web and Video courses in Engineering, Sciences, Technology, Management and Humanities. 
+                  </p>
+                  <p>
+                    Six major engineering disciplines covered and 260 courses available in phase-I. Twenty-three disciplines covered and 990 courses available in phase-II.
+                  </p>
+                  <p>
+                    The main objective of NPTEL is to make learning material available to students of engineering institutions through easier means. The broad aim of the project is to facilitate the competitiveness of Indian industry in the global markets through improving the quality and reach of engineering.
+                    <br/>
+                    <br/>
+                    To learn NPTEL Courses: <a href="https://nptel.ac.in/" target="_blank">https://nptel.ac.in/</a>
+                    <br/>
+                    To learn NPTEL Videos: <a href="http://172.16.250.30/" target="_blank">http://172.16.250.30/</a>
+                  </p>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">Swayam Prabha</div>
+                  <p>
+                    To access Swayam Prabha: <a href="https://www.swayamprabha.gov.in/" target="_blank">https://www.swayamprabha.gov.in/</a>
+                  </p>
+                  <div class="enlarge-image">
+                    <img src="images/library/SwayamPrabha.jpg" />
+                  </div>
+
+                  <div class="right-heading">EGyanKosh-Electronic Gyan (knowledge) and Kosh</div>
+                  <p>
+                    <b>A National Digital Repository</b> to store, index, preserve, distribute and share the digital learning resources developed by the Open and Distance Learning Institutions in the country. Items in eGyanKosh are protected by copyright, with all rights reserved by IGNOU, unless otherwise indicated.
+                  </p>
+                  <p>
+                    Study materials, audio video programmes and archives of radio & television-based live interactive sessions Access open to all through one time registration process Approximate 125,000 active registered users of the repository.
+                    <br/><br/>
+                    To Access EGyanKosh: <a href="http://egyankosh.ac.in/" target="_blank">http://egyankosh.ac.in/</a>
+                  </p>
+                  <div class="enlarge-image">
+                    <img src="images/library/egyankosh.png" />
+                  </div>
+
+                </div>
+
+                <div id="e-theses" class="tab-pane fade">
+                  <div class="right-heading">E-Theses</div>
+                  <div class="common-tble">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <td>S.No</td>
+                          <td>Name of Provider</td>
+                          <td>URL</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>Europe E-theses Portal</td>
+                          <td><a href="http://www.dart-europe.eu/basic-search.php" target="_blank">http://www.dart-europe.eu/basic-search.php</a></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>British Library EThOS service</td>
+                          <td><a href="https://ethos.bl.uk/Home.do" target="_blank">https://ethos.bl.uk/Home.do</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>Netherlands</td>
+                          <td><a href="https://www.narcis.nl/" target="_blank">https://www.narcis.nl/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>PQDT Open</td>
+                          <td><a href="http://pqdtopen.proquest.com/pqdtopen/search.html"
+                              target="_blank">http://pqdtopen.proquest.com/pqdtopen/search.html</a></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>Corvinus University dissertations</td>
+                          <td><a href="http://phd.lib.uni-corvinus.hu/"
+                              target="_blank">http://phd.lib.uni-corvinus.hu/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>Durham e-Theses</td>
+                          <td> <a href="http://etheses.dur.ac.uk/view/departments/" target="_blank">http://etheses.dur.ac.uk/view/departments/</a></td>
+                        </tr>
+                        <tr>
+                          <td>7</td>
+                          <td>MIT Theses</td>
+                          <td><a href="http://dspace.mit.edu/handle/1721.1/7582"
+                              target="_blank">http://dspace.mit.edu/handle/1721.1/7582</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    
+                  </div>
+                  <div class="clr20"></div>
+
+                  <div class="right-heading">Shodhganga and ShodhGangotri</div>
+                  <p>
+                    Shodhganga: a reservoir of Indian theses is a national digital repository of theses and dissertations with an intuitive interface which enables submission of electronic version of theses and dissertations by Universities in India and facilitates search, browse and downloading of theses available in the repository. It is maintained by INFLIBNET Centre, Ahmedabad.
+                  </p>
+                  <p>
+                    Shodhganga provides access to Indian theses and dissertations in open access to world-wide academic community and making visibility of Indian research to other countries. It extend their access to plagiarism detection software to eligible universities.
+                  </p>
+                  <p>
+                    Shodhgangotri: Indian research in Progress is a repository of the synopses and research proposals of the PhD programmes in Indian universities.
+                    <br/><br/>
+                    To Access Shodhganga: <a href="https://shodhganga.inflibnet.ac.in/" target="_blank">https://shodhganga.inflibnet.ac.in/</a>
+                    <br/>
+                    To Access Shodhgangotri: <a href="https://shodhgangotri.inflibnet.ac.in/" target="_blank">https://shodhgangotri.inflibnet.ac.in/</a>
+                  </p>
+                  <div class="enlarge-image">
+                    <img src="images/library/shod.png" />
+                  </div>
+                </div>
+
+                <div id="e-patents" class="tab-pane fade">
+                  <div class="right-heading">E-Patents</div>
+                  <div class="common-tble">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <td>S.No</td>
+                          <td>Name of Provider</td>
+                          <td>URL</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>Indian Patent Search (IPAIRS)</td>
+                          <td><a href="https://ipindiaservices.gov.in/publicsearch" target="_blank">https://ipindiaservices.gov.in/publicsearch</a></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>Google Patents</td>
+                          <td><a href="https://patents.google.com/" target="_blank">https://patents.google.com/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>Free Patents Online (FPO) </td>
+                          <td><a href="http://www.freepatentsonline.com/" target="_blank">http://www.freepatentsonline.com/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>4</td>
+                          <td>Espacenet Patent Search </td>
+                          <td><a href="https://worldwide.espacenet.com/"
+                              target="_blank">https://worldwide.espacenet.com/</a></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>The Lens </td>
+                          <td><a href="https://www.lens.org/"
+                              target="_blank">https://www.lens.org/</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>US Patent and Trademark Office (PTO)</td>
+                          <td> <a href="https://www.uspto.gov/patent" target="_blank">https://www.uspto.gov/patent</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    
+                  </div>
+                  <div class="clr20"></div>
+                </div>
+
+                <div id="pds" class="tab-pane fade">
+                  <div class="right-heading">Plagiarism Detection Software</div>
+                  <ul class="mou-ul">
+                    <li>URKUND : <a href="https://www.urkund.com/" target="_blank">https://www.urkund.com/</a></li>
+                    <li>TURNITIN : <a href="https://www.turnitin.com/" target="_blank">https://www.turnitin.com/</a></li>
+                    <li><a href="https://www.plagiarismsoftware.net/" target="_blank">https://www.plagiarismsoftware.net/</a></li>
+                    <li><a href="https://smallseotools.com/plagiarism-checker/" target="_blank">https://smallseotools.com/plagiarism-checker/</a></li>
+                    <li><a href="https://plagiarismdetector.net/" target="_blank">https://plagiarismdetector.net/</a></li>
+                    <li><a href="https://www.duplichecker.com/" target="_blank">https://www.duplichecker.com/</a></li>
+                    <li><a href="https://www.grammarly.com/plagiarism-checker" target="_blank">https://www.grammarly.com/plagiarism-checker</a></li>
+                    <li><a href="https://copyleaks.com/plagiarism-checker" target="_blank">https://copyleaks.com/plagiarism-checker</a></li>
+                    <li><a href="https://www.quetext.com/" target="_blank">https://www.quetext.com/</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- SECTION - 5 -->
+          <div id="remoteAccess" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">Remote Access (Off Campus) to e-Resources of the Central Library</div>
+              <ul class="mou-ul">
+                <li>Knimbus eLibrary URL: <a href="https://shanmugha.new.knimbus.com" target="_blank">https://shanmugha.new.knimbus.com</a></li>
+                <li>Username : Your mail ID</li>
+                <li>Password : user@knimbus</li>
+              </ul>
+
+              <div class="right-heading">mLibrary app</div>
+              <ul class="mou-ul">
+                <li><b>Install mlibrary App from Google Play or App Store</b></li>
+                <li>The User Name and Password are the same as above</li>
+                <li>Provides Access to Our Subscribed E-Resources With Federated Search</li>
+                <li>Access to Academic Content Including eLearning and Multimedia at Your Fingertips</li>
+                <li>Access to Lakhs of E-Books, Thousands of E-Journals and Other Learning Resources from Anywhere,
+                  Any Time, On Any Device</li>
+                <li>Knowledge of the Latest Additions to the Library Collection</li>
+                <li>All Relevant Content Curated For Our Institute Are Now Available At One Place</li>
+                <li><a href="https://www.sathyabama.ac.in/sites/default/files/2020-10/Knimbus%20e-Library%20user%20guide.pdf" target="_blank">Click Here Knimbus E-Library User Guide</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- SECTION - 6 -->
+          <div id="services" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">LIBRARY SERVICES & FACILITIES</div>
+
+              <ul class="mou-ul">
+                <li>Reference and Information Services</li>
+                <li> Current Awareness Service [CAS]</li>
+                <li>Inter Library Loan [ILL]</li>
+                <li>Lending Service </li>
+                <li>Digital Library With CD / DVD’s</li>
+                <li>Scanning Facility </li>
+                <li>Printing Facility </li>
+                <li>Spiral Binding Facility</li>
+                <li>Reprographic Facility </li>
+                <li>Periodicals/ Magazines </li>
+                <li> OPAC</li>
+                <li> NPTEL / SwayamPrabha</li>
+                <li> E-Books &amp; E- Journals [Springer Nature /J-GATE]</li>
+                <li> User Orientation Programme</li>
+                <li> New Arrivals Display</li>
+                <li> Previous University Question Banks with Answers</li>
+                <li> Institutional Member ship with DELNET,IETE, ICI and NDL</li>
+                <li> Fully Automated and Bar code System</li>
+                <li> Surveillance Camera Facility</li>
+                <li> Periodicals Bound Volumes </li>
+              </ul>
+
+              <div class="right-heading">Current Awareness Service (CAS)</div>
+              <p>
+                Announcement of the various institution regarding seminar, workshop and conferences etc
+                will be displayed (Library Notice Board). Photocopies of the articles published by the
+                faculty/students in various periodicals will be displayed and also send as e-mail to
+                faculty, student and other staff in the name of News Paper Clippings.
+              </p>
+
+
+              <div class="right-heading">Inter Library Loan (ILL)</div>
+              <p>
+                Books (not available with us) may be obtained from other libraries on request. The
+                institution is a Member in Developing Library Network (DELNET).
+              </p>
+
+              <div class="right-heading">OPAC</div>
+              <p>
+                The entire Library collection including books, journals, etc. can be searched through
+                the web enabled Online Public Access Catalogue (OPAC). Users can access the OPAC to find
+                out the real-time availability of library materials from their own computer terminals.
+                Faculty and students can reserve items, which are on loan.URL:
+                http://172.16.11.2:8080/AutoLib/
+              </p>
+
+              <div class="right-heading">Reference and Information Services</div>
+              <p>
+                The library maintains a separate reference collection consisting of encyclopedias,
+                dictionaries, handbooks, technical data, and CD-Rom etc. Reference books are marked by
+                REFERENCE ONLY. Readers may approach the circulation section for information
+              </p>
+
+              <div class="right-heading">Interaction Service</div>
+              <p>
+                This is an e-mail service which enhance the interaction between the user and the
+                library. Reminder will be given to return the long due library material.
+              </p>
+
+              <div class="right-heading">Library Orientation</div>
+              <p>
+                Central Library offers the orientation program to the students and others in the
+                beginning of every academic year. Through this program, an effort is made to familiarize
+                with the resources, services, and facilities offered by Central Library and its policies
+                to use the same.
+              </p>
+
+              <div class="right-heading">New Arrivals Section</div>
+              <p>
+                In the New Arrivals section, one copy of the new title or new edition is displayed for
+                one month for attracting the students and staff members for using the library
+                effectively and at the same time updating theirknowledge.
+              </p>
+            </div>
+          </div>
+
+          <!-- SECTION - 7 -->
+          <div id="reference" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">DICTIONARIES</div>
+              <p>
+                <a href="http://www.dictionary.com/" target="_blank">Dictionary.com</a> -
+                [http://dictionary.reference.com/] Dictionary.com one of the daily updating and most
+                trusted free online dictionary. People can find the exact meanings,accurate definitions,
+                spelling, grammar and synonymous quickly.
+              </p>
+
+              <div class="right-heading">OXFORD DICTIONARIES ONLINE</div>
+              <p>
+                <a href="http://oxforddictionaries.com/" target="_blank">Oxford</a> -
+                http://oxforddictionaries.com/ Best dictionary with lot of features such long meaning,
+                synonyms and audio pronunciation and more. The Oxford Dictionary site have online World
+                and US English words meanings with puzzles & games, tips & guidance about better
+                writing, spelling, grammar and other resources.
+              </p>
+
+              <div class="right-heading">CAMBRIDGE DICTIONARIES ONLINE</div>
+              <p>
+                <a href="http://dictionary.cambridge.org/" target="_blank">Cambridge</a> -
+                http://dictionary.cambridge.org/ Free online dictionary from Cambridge University Press.
+                Cambridge dictionary have lot of features such long definition, audio pronunciation,
+                synonyms, British Dictionary and more. Best site for students and English lovers.
+              </p>
+
+              <div class="right-heading">ALLWORDS.COM</div>
+              <p>
+                <a href="http://allwords.com/" target="_blank">Allwords</a> - http://www.allwords.com/
+                Its a Good online English dictionary with multiple language translation facility. Any
+                words definition results can be translated into German, Dutch, French, Italian, and
+                Spanish etc.
+              </p>
+
+              <div class="right-heading">ONELOOK DICTIONARY</div>
+              <p>
+                <a href="http://www.onelook.com/" target="_blank">Onelook</a> - http://www.onelook.com/
+                This English dictionary site support word’s meanings and definitions from many
+                dictionaries at once. Also has a reverse dictionary and translations. This multiple
+                dictionary resources highly useful for students and new learners.
+              </p>
+
+              <div class="right-heading">YOURDICTIONARY.COM</div>
+              <p>
+                <a href="http://yourdictionary.com/" target="_blank">Your Dictionary</a> -
+                http://www.yourdictionary.com/ Yourdictionary.com is an easy to understand site with
+                example sentences, famous quotes and audio pronunciations. It also have some most wanted
+                features like spelling check, pronunciation, thesaurus, business dictionary, computer
+                dictionary and more
+              </p>
+
+              <div class="right-heading">ALPHADICTIONARY</div>
+              <p>
+                <a href="http://www.alphadictionary.com/" target="_blank">Alpha Dictionary</a> -
+                http://www.alphadictionary.com/index.shtml Another Free online English dictionary and
+                grammars for 350 languages. Alpha dictionary also have multi searching feature it allow
+                search for word meanings from more than 992 dictionaries. Some learning features for
+                childrens like crossword puzzles, word games, language jokes, and lot.
+              </p>
+
+              <div class="right-heading">ULTRALINGUA.COM</div>
+              <p>
+                <a href="http://ultralingua.com/onlinedictionary/" target="_blank">Ultralingua</a> -
+                http://www.ultralingua.com/onlinedictionary/dictionary Multilingual dictionary with
+                translation options from English to French, Spanish and other European languages. It
+                also providing Dictionary Software, Translation Software, Grammar Software and more
+              </p>
+
+              <div class="common-tbl">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th>Site</th>
+                      <th>Language</th>
+                      <th>Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><a title="Appropedia" href="http://en.wikipedia.org/wiki/Appropedia">Appropedia</a></td>
+                      <td>English</td>
+                      <td>Collaborative systems for sustainability, poverty reduction and
+                        international development</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Baidu Baike" href="http://en.wikipedia.org/wiki/Baidu_Baike">Baidu Baike</a></td>
+                      <td><a title="Chinese language" href="http://en.wikipedia.org/wiki/Chinese_language">Chinese</a>
+                      </td>
+                      <td>Collaborative online encyclopedia hosted by the major Chinese search
+                        engine <a title="Baidu" href="http://en.wikipedia.org/wiki/Baidu">Baidu</a></td>
+                    </tr>
+                    <tr>
+                      <td><a title="Banglapedia" href="http://en.wikipedia.org/wiki/Banglapedia">Banglapedia</a></td>
+                      <td><a title="Bengali language" href="http://en.wikipedia.org/wiki/Bengali_language">Bengali</a>,
+                        English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="The Canadian Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/The_Canadian_Encyclopedia">The
+                          Canadian Encyclopedia</a></td>
+                      <td>English, French</td>
+                      <td>General interest (original content of the hard copy Canadian
+                        Encyclopedia)</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Citizendium" href="http://en.wikipedia.org/wiki/Citizendium">Citizendium</a></td>
+                      <td>English</td>
+                      <td>General interest, wiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Columbia Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Columbia_Encyclopedia">Columbia
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Conservapedia" href="http://en.wikipedia.org/wiki/Conservapedia">Conservapedia</a>
+                      </td>
+                      <td>English</td>
+                      <td><a title="American conservative"
+                          href="http://en.wikipedia.org/wiki/American_conservative">American
+                          conservative</a> and <a title="Christian"
+                          href="http://en.wikipedia.org/wiki/Christian">Christian</a>
+                        interests</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Den Store Danske Encyklopædi"
+                          href="http://en.wikipedia.org/wiki/Den_Store_Danske_Encyklop%C3%A6di">Den
+                          Store Danske Encyklopædi</a></td>
+                      <td><a title="Danish language" href="http://en.wikipedia.org/wiki/Danish_language">Danish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Digital Universe" href="http://en.wikipedia.org/wiki/Digital_Universe">Digital
+                          Universe</a></td>
+                      <td>English</td>
+                      <td>Collection of articles on educational, cultural, and scientific topics
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Doosan Encyclopedia" href="http://en.wikipedia.org/wiki/Doosan_Encyclopedia">Doosan
+                          Encyclopedia</a></td>
+                      <td><a title="Korean language" href="http://en.wikipedia.org/wiki/Korean_language">Korean</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="EcuRed" href="http://en.wikipedia.org/wiki/EcuRed">EcuRed</a>
+                      </td>
+                      <td>Spanish</td>
+                      <td>General interest. Cuban</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Ekşi Sözlük" href="http://en.wikipedia.org/wiki/Ek%C5%9Fi_S%C3%B6zl%C3%BCk">Ekşi
+                          Sözlük</a></td>
+                      <td>Turkish</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Encyclopædia Britannica"
+                          href="http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica">Encyclopædia
+                          Britannica</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Britannica 1911" href="http://en.wikipedia.org/wiki/Britannica_1911">Encyclopædia
+                          Britannica –1911 Edition</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Encyklopedia Internautica"
+                          href="http://en.wikipedia.org/wiki/Encyklopedia_Internautica">Encyklopedia
+                          Internautica</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Enciclopedia Libre"
+                          href="http://en.wikipedia.org/wiki/Enciclopedia_Libre">Enciclopedia
+                          Libre</a></td>
+                      <td>Spanish</td>
+                      <td>Fork of the Spanish Wikipedia, using <a title="Wiki"
+                          href="http://en.wikipedia.org/wiki/Wiki">wiki</a> software, released
+                        under the <a title="GNU Free Documentation License"
+                          href="http://en.wikipedia.org/wiki/GNU_Free_Documentation_License">GFDL</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Enciclopedia Italiana"
+                          href="http://en.wikipedia.org/wiki/Enciclopedia_Italiana">Enciclopedia
+                          Italiana</a></td>
+                      <td><a title="Italian language" href="http://en.wikipedia.org/wiki/Italian_language">Italian</a>
+                      </td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Everything2" href="http://en.wikipedia.org/wiki/Everything2">Everything2</a></td>
+                      <td>English</td>
+                      <td>General interest, users can submit articles on the topic of essentially
+                        anything</td>
+                    </tr>
+                    <tr>
+                      <td><a title="FAQ" href="http://en.wikipedia.org/wiki/FAQ">FAQ</a></td>
+                      <td>English</td>
+                      <td>A collection of searchable FAQs</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Great Catalan Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Great_Catalan_Encyclopedia">Gran
+                          Enciclopèdia Catalana</a></td>
+                      <td>Catalan</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Grand Larousse encyclopédique"
+                          href="http://en.wikipedia.org/wiki/Grand_Larousse_encyclop%C3%A9dique">Grand
+                          Larousse encyclopédique</a></td>
+                      <td>French</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Great Soviet Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Great_Soviet_Encyclopedia">Great
+                          Soviet Encyclopedia</a></td>
+                      <td>Russian, English</td>
+                      <td>General interest, often from the former official Soviet viewpoint.</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Holocaust Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Holocaust_Encyclopedia">Holocaust
+                          Encyclopedia</a></td>
+                      <td>English, Arabic, Persian, French, Spanish</td>
+                      <td>Holocaust-related articles</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Hudong" href="http://en.wikipedia.org/wiki/Hudong">Hudong</a>
+                      </td>
+                      <td>Chinese</td>
+                      <td>General interest. China's largest wiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Hutchinson Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Hutchinson_Encyclopedia">Hutchinson
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Infoplease" href="http://en.wikipedia.org/wiki/Infoplease">Infoplease</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Internetowa encyklopedia PWN"
+                          href="http://en.wikipedia.org/wiki/Internetowa_encyklopedia_PWN">Internetowa
+                          encyklopedia PWN</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Kdo byl kdo" href="http://en.wikipedia.org/wiki/Kdo_byl_kdo">Kdo byl kdo</a></td>
+                      <td><a title="Czech language" href="http://en.wikipedia.org/wiki/Czech_language">Czech</a></td>
+                      <td>Biographies on notable <a title="Czechs" href="http://en.wikipedia.org/wiki/Czechs">Czech</a>
+                        and <a title="Slovak people" href="http://en.wikipedia.org/wiki/Slovak_people">Slovak people</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Keyinpedia" href="http://en.wikipedia.org/wiki/Keyinpedia">Keyinpedia</a></td>
+                      <td>Chinese</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="King Abdulllah Abdul Aziz Health Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/King_Abdulllah_Abdul_Aziz_Health_Encyclopedia">King
+                          Abdulllah Abdul Aziz Health Encyclopedia</a></td>
+                      <td>Arabic, English</td>
+                      <td>Health encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Marathi Vishwakosh" href="http://en.wikipedia.org/wiki/Marathi_Vishwakosh">Marathi
+                          Vishwakosh</a></td>
+                      <td><a title="Marathi language" href="http://en.wikipedia.org/wiki/Marathi_language">Marathi</a>
+                      </td>
+                      <td>General Interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Marefa" href="http://en.wikipedia.org/wiki/Marefa">Marefa</a>
+                      </td>
+                      <td><a title="Arabic language" href="http://en.wikipedia.org/wiki/Arabic_language">Arabic</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Metapedia" href="http://en.wikipedia.org/wiki/Metapedia">Metapedia</a></td>
+                      <td>Hungarian, German, English, Spanish, Swedish, Romanian, Estonian,
+                        French, Slovenian, Czech, Portuguese, Norwegian, Croatian, Danish,
+                        Greek, Dutch</td>
+                      <td>Far <a title="Right-wing" href="http://en.wikipedia.org/wiki/Right-wing">right-wing</a>, <a
+                          title="White nationalist" href="http://en.wikipedia.org/wiki/White_nationalist">white
+                          nationalist</a> and <a title="Neo nazi" href="http://en.wikipedia.org/wiki/Neo_nazi">neo
+                          nazi</a>
+                        encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Meyers Konversations-Lexikon"
+                          href="http://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon">Meyers
+                          Konversations-Lexikon 4. ed. 1888 - 1892</a></td>
+                      <td>German</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="New World Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/New_World_Encyclopedia">New World
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Private Sözlük (page does not exist)"
+                          href="http://en.wikipedia.org/w/index.php?title=Private_S%C3%B6zl%C3%BCk&amp;action=edit&amp;redlink=1">Private
+                          Sözlük</a></td>
+                      <td><a title="Turkish language" href="http://en.wikipedia.org/wiki/Turkish_language">Turkish</a>
+                      </td>
+                      <td>Collaborative hypertext Turkish dictionary and encyclopedia site that
+                        shares a similar concept with Everything2 or H2G2</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Probert Encyclopaedia"
+                          href="http://en.wikipedia.org/wiki/Probert_Encyclopaedia">Probert
+                          Encyclopaedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Proleksis Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Proleksis_Encyclopedia">Proleksis
+                          Encyclopedia</a></td>
+                      <td><a title="Croatian language"
+                          href="http://en.wikipedia.org/wiki/Croatian_language">Croatian</a>
+                      </td>
+                      <td>General and national encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Quid (encyclopedia)"
+                          href="http://en.wikipedia.org/wiki/Quid_%28encyclopedia%29">Quid</a>
+                      </td>
+                      <td>French</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Sarvavijnanakosam"
+                          href="http://en.wikipedia.org/wiki/Sarvavijnanakosam">Sarvavijnanakosam</a>
+                      </td>
+                      <td><a title="Malayalam language"
+                          href="http://en.wikipedia.org/wiki/Malayalam_language">Malayalam</a>
+                      </td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Scholarpedia" href="http://en.wikipedia.org/wiki/Scholarpedia">Scholarpedia</a>
+                      </td>
+                      <td>English</td>
+                      <td>Articles are written by scholars and peer-reviewed for accuracy</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Store norske leksikon"
+                          href="http://en.wikipedia.org/wiki/Store_norske_leksikon">Store
+                          norske leksikon</a></td>
+                      <td><a title="Bokmål" href="http://en.wikipedia.org/wiki/Bokm%C3%A5l">Norwegian
+                          (Bokmål)</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Superpedia" href="http://en.wikipedia.org/wiki/Superpedia">Superpedia</a></td>
+                      <td>Bahasa Indonesia</td>
+                      <td>Indonesian, based on MediaWiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Tamil Encyclopedia" href="http://en.wikipedia.org/wiki/Tamil_Encyclopedia">Tamil
+                          Encyclopedia</a></td>
+                      <td><a title="Tamil language" href="http://en.wikipedia.org/wiki/Tamil_language">Tamil</a></td>
+                      <td>General Interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Từ điển Bách khoa toàn thư Việt Nam"
+                          href="http://en.wikipedia.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_B%C3%A1ch_khoa_to%C3%A0n_th%C6%B0_Vi%E1%BB%87t_Nam">Từ
+                          điển Bách khoa toàn thư Việt Nam</a></td>
+                      <td>Vietnamese</td>
+                      <td>General interest. State-sponsored encyclopedia.</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Vikidia" href="http://en.wikipedia.org/wiki/Vikidia">Vikidia</a></td>
+                      <td>French, Spanish</td>
+                      <td>Articles designed for children ages 8–13</td>
+                    </tr>
+                    <tr>
+                      <td><a title="WIEM Encyklopedia" href="http://en.wikipedia.org/wiki/WIEM_Encyklopedia">WIEM
+                          Encyklopedia</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Wikipedia" href="http://en.wikipedia.org/wiki/Wikipedia">Wikipedia</a></td>
+                      <td>See list <a title="List of Wikipedias"
+                          href="http://en.wikipedia.org/wiki/List_of_Wikipedias">here</a></td>
+                      <td>General interest <a title="Wiki" href="http://en.wikipedia.org/wiki/Wiki">wiki</a></td>
+                    </tr>
+                    <tr>
+                      <td><a title="Wikinfo" href="http://en.wikipedia.org/wiki/Wikinfo">Wikinfo</a></td>
+                      <td>English</td>
+                      <td>Holds multiple articles on subjects from different points of view</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Appropedia" href="http://en.wikipedia.org/wiki/Appropedia">Appropedia</a></td>
+                      <td>English</td>
+                      <td>Collaborative systems for sustainability, poverty reduction and
+                        international development</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Baidu Baike" href="http://en.wikipedia.org/wiki/Baidu_Baike">Baidu Baike</a></td>
+                      <td><a title="Chinese language" href="http://en.wikipedia.org/wiki/Chinese_language">Chinese</a>
+                      </td>
+                      <td>Collaborative online encyclopedia hosted by the major Chinese search
+                        engine <a title="Baidu" href="http://en.wikipedia.org/wiki/Baidu">Baidu</a></td>
+                    </tr>
+                    <tr>
+                      <td><a title="Banglapedia" href="http://en.wikipedia.org/wiki/Banglapedia">Banglapedia</a></td>
+                      <td><a title="Bengali language" href="http://en.wikipedia.org/wiki/Bengali_language">Bengali</a>,
+                        English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="The Canadian Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/The_Canadian_Encyclopedia">The
+                          Canadian Encyclopedia</a></td>
+                      <td>English, French</td>
+                      <td>General interest (original content of the hard copy Canadian
+                        Encyclopedia)</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Citizendium" href="http://en.wikipedia.org/wiki/Citizendium">Citizendium</a></td>
+                      <td>English</td>
+                      <td>General interest, wiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Columbia Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Columbia_Encyclopedia">Columbia
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Conservapedia" href="http://en.wikipedia.org/wiki/Conservapedia">Conservapedia</a>
+                      </td>
+                      <td>English</td>
+                      <td><a title="American conservative"
+                          href="http://en.wikipedia.org/wiki/American_conservative">American
+                          conservative</a> and <a title="Christian"
+                          href="http://en.wikipedia.org/wiki/Christian">Christian</a>
+                        interests</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Den Store Danske Encyklopædi"
+                          href="http://en.wikipedia.org/wiki/Den_Store_Danske_Encyklop%C3%A6di">Den
+                          Store Danske Encyklopædi</a></td>
+                      <td><a title="Danish language" href="http://en.wikipedia.org/wiki/Danish_language">Danish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Digital Universe" href="http://en.wikipedia.org/wiki/Digital_Universe">Digital
+                          Universe</a></td>
+                      <td>English</td>
+                      <td>Collection of articles on educational, cultural, and scientific topics
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Doosan Encyclopedia" href="http://en.wikipedia.org/wiki/Doosan_Encyclopedia">Doosan
+                          Encyclopedia</a></td>
+                      <td><a title="Korean language" href="http://en.wikipedia.org/wiki/Korean_language">Korean</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="EcuRed" href="http://en.wikipedia.org/wiki/EcuRed">EcuRed</a>
+                      </td>
+                      <td>Spanish</td>
+                      <td>General interest. Cuban</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Ekşi Sözlük" href="http://en.wikipedia.org/wiki/Ek%C5%9Fi_S%C3%B6zl%C3%BCk">Ekşi
+                          Sözlük</a></td>
+                      <td>Turkish</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Encarta" href="http://en.wikipedia.org/wiki/Encarta">Encarta</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Encyclopædia Britannica"
+                          href="http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica">Encyclopædia
+                          Britannica</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Britannica 1911" href="http://en.wikipedia.org/wiki/Britannica_1911">Encyclopædia
+                          Britannica –1911 Edition</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Encyklopedia Internautica"
+                          href="http://en.wikipedia.org/wiki/Encyklopedia_Internautica">Encyklopedia
+                          Internautica</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Enciclopedia Libre"
+                          href="http://en.wikipedia.org/wiki/Enciclopedia_Libre">Enciclopedia
+                          Libre</a></td>
+                      <td>Spanish</td>
+                      <td>Fork of the Spanish Wikipedia, using <a title="Wiki"
+                          href="http://en.wikipedia.org/wiki/Wiki">wiki</a> software, released
+                        under the <a title="GNU Free Documentation License"
+                          href="http://en.wikipedia.org/wiki/GNU_Free_Documentation_License">GFDL</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Enciclopedia Italiana"
+                          href="http://en.wikipedia.org/wiki/Enciclopedia_Italiana">Enciclopedia
+                          Italiana</a></td>
+                      <td><a title="Italian language" href="http://en.wikipedia.org/wiki/Italian_language">Italian</a>
+                      </td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Everything2" href="http://en.wikipedia.org/wiki/Everything2">Everything2</a></td>
+                      <td>English</td>
+                      <td>General interest, users can submit articles on the topic of essentially
+                        anything</td>
+                    </tr>
+                    <tr>
+                      <td><a title="FAQ" href="http://en.wikipedia.org/wiki/FAQ">FAQ</a></td>
+                      <td>English</td>
+                      <td>A collection of searchable FAQs</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Great Catalan Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Great_Catalan_Encyclopedia">Gran
+                          Enciclopèdia Catalana</a></td>
+                      <td>Catalan</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Grand Larousse encyclopédique"
+                          href="http://en.wikipedia.org/wiki/Grand_Larousse_encyclop%C3%A9dique">Grand
+                          Larousse encyclopédique</a></td>
+                      <td>French</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Great Soviet Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Great_Soviet_Encyclopedia">Great
+                          Soviet Encyclopedia</a></td>
+                      <td>Russian, English</td>
+                      <td>General interest, often from the former official Soviet viewpoint.</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Holocaust Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Holocaust_Encyclopedia">Holocaust
+                          Encyclopedia</a></td>
+                      <td>English, Arabic, Persian, French, Spanish</td>
+                      <td>Holocaust-related articles</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Hudong" href="http://en.wikipedia.org/wiki/Hudong">Hudong</a>
+                      </td>
+                      <td>Chinese</td>
+                      <td>General interest. China's largest wiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Hutchinson Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Hutchinson_Encyclopedia">Hutchinson
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Infoplease" href="http://en.wikipedia.org/wiki/Infoplease">Infoplease</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Internetowa encyklopedia PWN"
+                          href="http://en.wikipedia.org/wiki/Internetowa_encyklopedia_PWN">Internetowa
+                          encyklopedia PWN</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Kdo byl kdo" href="http://en.wikipedia.org/wiki/Kdo_byl_kdo">Kdo byl kdo</a></td>
+                      <td><a title="Czech language" href="http://en.wikipedia.org/wiki/Czech_language">Czech</a></td>
+                      <td>Biographies on notable <a title="Czechs" href="http://en.wikipedia.org/wiki/Czechs">Czech</a>
+                        and <a title="Slovak people" href="http://en.wikipedia.org/wiki/Slovak_people">Slovak people</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><a title="Keyinpedia" href="http://en.wikipedia.org/wiki/Keyinpedia">Keyinpedia</a></td>
+                      <td>Chinese</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="King Abdulllah Abdul Aziz Health Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/King_Abdulllah_Abdul_Aziz_Health_Encyclopedia">King
+                          Abdulllah Abdul Aziz Health Encyclopedia</a></td>
+                      <td>Arabic, English</td>
+                      <td>Health encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Marathi Vishwakosh" href="http://en.wikipedia.org/wiki/Marathi_Vishwakosh">Marathi
+                          Vishwakosh</a></td>
+                      <td><a title="Marathi language" href="http://en.wikipedia.org/wiki/Marathi_language">Marathi</a>
+                      </td>
+                      <td>General Interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Marefa" href="http://en.wikipedia.org/wiki/Marefa">Marefa</a>
+                      </td>
+                      <td><a title="Arabic language" href="http://en.wikipedia.org/wiki/Arabic_language">Arabic</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Metapedia" href="http://en.wikipedia.org/wiki/Metapedia">Metapedia</a></td>
+                      <td>Hungarian, German, English, Spanish, Swedish, Romanian, Estonian,
+                        French, Slovenian, Czech, Portuguese, Norwegian, Croatian, Danish,
+                        Greek, Dutch</td>
+                      <td>Far <a title="Right-wing" href="http://en.wikipedia.org/wiki/Right-wing">right-wing</a>, <a
+                          title="White nationalist" href="http://en.wikipedia.org/wiki/White_nationalist">white
+                          nationalist</a> and <a title="Neo nazi" href="http://en.wikipedia.org/wiki/Neo_nazi">neo
+                          nazi</a>
+                        encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Meyers Konversations-Lexikon"
+                          href="http://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon">Meyers
+                          Konversations-Lexikon 4. ed. 1888 - 1892</a></td>
+                      <td>German</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="New World Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/New_World_Encyclopedia">New World
+                          Encyclopedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Private Sözlük (page does not exist)"
+                          href="http://en.wikipedia.org/w/index.php?title=Private_S%C3%B6zl%C3%BCk&amp;action=edit&amp;redlink=1">Private
+                          Sözlük</a></td>
+                      <td><a title="Turkish language" href="http://en.wikipedia.org/wiki/Turkish_language">Turkish</a>
+                      </td>
+                      <td>Collaborative hypertext Turkish dictionary and encyclopedia site that
+                        shares a similar concept with Everything2 or H2G2</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Probert Encyclopaedia"
+                          href="http://en.wikipedia.org/wiki/Probert_Encyclopaedia">Probert
+                          Encyclopaedia</a></td>
+                      <td>English</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Proleksis Encyclopedia"
+                          href="http://en.wikipedia.org/wiki/Proleksis_Encyclopedia">Proleksis
+                          Encyclopedia</a></td>
+                      <td><a title="Croatian language"
+                          href="http://en.wikipedia.org/wiki/Croatian_language">Croatian</a>
+                      </td>
+                      <td>General and national encyclopedia</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Quid (encyclopedia)"
+                          href="http://en.wikipedia.org/wiki/Quid_%28encyclopedia%29">Quid</a>
+                      </td>
+                      <td>French</td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Sarvavijnanakosam"
+                          href="http://en.wikipedia.org/wiki/Sarvavijnanakosam">Sarvavijnanakosam</a>
+                      </td>
+                      <td><a title="Malayalam language"
+                          href="http://en.wikipedia.org/wiki/Malayalam_language">Malayalam</a>
+                      </td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Scholarpedia" href="http://en.wikipedia.org/wiki/Scholarpedia">Scholarpedia</a>
+                      </td>
+                      <td>English</td>
+                      <td>Articles are written by scholars and peer-reviewed for accuracy</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Store norske leksikon"
+                          href="http://en.wikipedia.org/wiki/Store_norske_leksikon">Store
+                          norske leksikon</a></td>
+                      <td><a title="Bokmål" href="http://en.wikipedia.org/wiki/Bokm%C3%A5l">Norwegian
+                          (Bokmål)</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Superpedia" href="http://en.wikipedia.org/wiki/Superpedia">Superpedia</a></td>
+                      <td>Bahasa Indonesia</td>
+                      <td>Indonesian, based on MediaWiki</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Tamil Encyclopedia" href="http://en.wikipedia.org/wiki/Tamil_Encyclopedia">Tamil
+                          Encyclopedia</a></td>
+                      <td><a title="Tamil language" href="http://en.wikipedia.org/wiki/Tamil_language">Tamil</a></td>
+                      <td>General Interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Từ điển Bách khoa toàn thư Việt Nam"
+                          href="http://en.wikipedia.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_B%C3%A1ch_khoa_to%C3%A0n_th%C6%B0_Vi%E1%BB%87t_Nam">Từ
+                          điển Bách khoa toàn thư Việt Nam</a></td>
+                      <td>Vietnamese</td>
+                      <td>General interest. State-sponsored encyclopedia.</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Vikidia" href="http://en.wikipedia.org/wiki/Vikidia">Vikidia</a></td>
+                      <td>French, Spanish</td>
+                      <td>Articles designed for children ages 8–13</td>
+                    </tr>
+                    <tr>
+                      <td><a title="WIEM Encyklopedia" href="http://en.wikipedia.org/wiki/WIEM_Encyklopedia">WIEM
+                          Encyklopedia</a></td>
+                      <td><a title="Polish language" href="http://en.wikipedia.org/wiki/Polish_language">Polish</a></td>
+                      <td>General interest</td>
+                    </tr>
+                    <tr>
+                      <td><a title="Wikipedia" href="http://en.wikipedia.org/wiki/Wikipedia">Wikipedia</a></td>
+                      <td>See list <a title="List of Wikipedias"
+                          href="http://en.wikipedia.org/wiki/List_of_Wikipedias">here</a></td>
+                      <td>General interest <a title="Wiki" href="http://en.wikipedia.org/wiki/Wiki">wiki</a></td>
+                    </tr>
+                    <tr>
+                      <td><a title="Wikinfo" href="http://en.wikipedia.org/wiki/Wikinfo">Wikinfo</a></td>
+                      <td>English</td>
+                      <td>Holds multiple articles on subjects from different points of view</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+
+
+          <!-- SECTION - 8 -->
+          <div id="useful-links" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">HIGHER EDUCATION</div>
+              <ul class="mou-ul">
+                <li>Dept of Higher Education (GOI)</li>
+                <li>AICTE</li>
+                <li>DOTE</li>
+                <li>ANNA UNIVERSITY CHENNAI </li>
+                <li>NPTEL</li>
+                <li>ICTACT</li>
+                <li>GYAN DARSHAN</li>
+              </ul>
+
+
+              <div class="right-heading">IMPORTANT LIBRARIES</div>
+              <ul class="mou-ul">
+                <li>IIT Libraries </li>
+                <li>IISc Library</li>
+                <li>NIT Library</li>
+                <li>AU-Chennai Library</li>
+                <li>IIM Libraries</li>
+                <li>Library of congress</li>
+                <li>The British Library</li>
+                <li>The National Library of Russia</li>
+                <li>America International resource centre [AIRC]</li>
+                <li>British Council Library [BCL]</li>
+                <li>The National Library, India</li>
+                <li>National Digital Library</li>
+                <li>National Science Digital Library</li>
+                <li>INDEST</li>
+                <li>Digital Library of India</li>
+              </ul>
+
+              <div class="right-heading">ONLINE BOOK STORES</div>
+              <ul class="mou-ul">
+                <li>Flip kart.Com</li>
+                <li>Amazon.com </li>
+                <li> Banner &amp; Nuble</li>
+              </ul>
+
+              <div class="right-heading">RESULTS</div>
+              <ul class="mou-ul">
+                <li>Anna University</li>
+              </ul>
+
+              <div class="right-heading">SEARCH ENGINES</div>
+              <ul class="mou-ul">
+                <li>Google</li>
+                <li>Yahoo</li>
+                <li> MSN</li>
+                <li>ALTAVSTA</li>
+              </ul>
+
+              <div class="right-heading">NEWS</div>
+              <ul class="mou-ul">
+                <li>Press Trust of India </li>
+                <li>United News of India</li>
+                <li>United Press International (USA)</li>
+                <li>The press association Limited (UK)</li>
+                <li>DD News</li>
+                <li>All India Radio</li>
+                <li>NDTV</li>
+                <li>BBC</li>
+                <li>Puthiyathlaimurai Tv</li>
+              </ul>
+
+              <div class="right-heading">SPORTS</div>
+              <ul class="mou-ul">
+                <li>Sports authority of India</li>
+                <li> BCCI</li>
+                <li>Indian Olympic Association</li>
+              </ul>
+
+              <div class="right-heading">JOBS</div>
+              <ul class="mou-ul">
+                <li>Employment News </li>
+                <li>Career 360.com</li>
+                <li> Naukri.com</li>
+                <li>TimeJobs.In</li>
+                <li><a href="http://www.careerjet.co.in">Careerjet.co.in</a></li>
+              </ul>
+
+              <div class="right-heading">GENERAL - TRANSPORT</div>
+              <ul class="mou-ul">
+                <li>Railway - IRCTC,Indian Railway</li>
+                <li>Roadway - TNSTC,SHARMA,KPN</li>
+                <li>Airway - Indian Airlines, Air India, Sahara, Jet Airway</li>
+              </ul>
+
+              <div class="right-heading">
+                <a
+                  href="http://www.google.co.in/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Fwww.nic.in%2F&amp;ei=Z6i4UPGxDoP_rAfYlIDIBg&amp;usg=AFQjCNFuBlBVn-UpJd2QD8GUa_nXPM3ZAw">National
+                  Informatics Centre (NIC)</a>
+              </div>
+              <ul class="mou-ul">
+                <li>Weather</li>
+                <li>Earth Calendar</li>
+                <li>Pincode Finder</li>
+                <li>Just Dial</li>
+                <li>Yellow Pages</li>
+              </ul>
+
+            </div>
+          </div>
+
+          <!-- SECTION - 9 -->
+          <div id="downloads" class="right-nav-divs tab-pane fade">
+            <div class="right-card">
+              <div class="right-heading">DOWNLOADS</div>
+
+              <ul class="accordionlinks">
+                <li>
+                  <a href="pdf/downloads/SSCET-CENTRAL-LIBRARY-BOOK-REQUISITIONFORM.pdf" target="_blank">Book
+                    requisition form</a>
+                </li>
+                <li>
+                  <a href="pdf/downloads/Library-Membership-Form-for-Faculty.pdf" target="_blank">Faculty Membership
+                    form</a>
+                </li>
+                <li>
+                  <a href="pdf/downloads/Library-Membership-Form-for-Students.pdf" target="_blank">Student Membership
+                    form</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--#include file="commonInclude/footer.html" -->
+  <script>
+    $(document).ready(function () {
+      shanmugaJs.pageInit();
+    })
+  </script>
+</body>
+
+</html>

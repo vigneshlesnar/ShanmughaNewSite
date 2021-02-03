@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sri Shanmugha College of Engineering and Technology</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/shanmugalogo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0">
+    <meta name="description" content="Shanmugha College" />
+
+    <!--#include file="commonInclude/js-css-include.html" -->
+
+
+</head>
+
+<body>
+    <!--#include file="commonInclude/header.html" -->
+    <!--#include file="commonInclude/navbar.html" -->
+
+    <section class="mid-section">
+        <div class="container-fluid">
+            <div id="accordion">
+                <div class="panel-group">
+                    <div class="card-header" id="heading1" data-toggle="collapse" data-target="#collapse1"
+                    aria-controls="collapse1">
+                        <div class="right-heading">Examination</div>
+                        <span class="fas caret-awesome"></span>
+                    </div>
+
+                    <div id="collapse1" class="panel-collapse collapse show" aria-labelledby="heading1"
+                        data-parent="#accordion">
+                        <div class="card-body">
+                            <p>
+                                Examcell in Sri Shanmugha College of Engineering and Technology has been established
+                                from the month of August 2011.It works under the control of Anna university Chennai.
+                                
+                                <div class="clr"></div>
+
+                                <b>Contact:</b>
+                                <br>
+                                Examcell<br>
+                                Sri Shanmugha College of Engineering and Technology,<br>
+                                Pullipalyam, Morur(P.O),Sankari (T.K).<br>
+                                Salem – 637304<br>
+                                <div class="clr20"></div>
+
+                                <b>Email : </b>examcell@shanmugha.edu.in
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel-group">
+                    <div class="card-header" id="heading2" data-toggle="collapse" data-target="#collapse2"
+                    aria-controls="collapse2">
+                        <div class="right-heading">Circular</div>
+                        <span class="fas caret-awesome"></span>
+                    </div>
+
+                    <div id="collapse2" class="panel-collapse collapse" aria-labelledby="heading2"
+                        data-parent="#accordion">
+                        <div class="card-body">
+                            <ul class="accordionlinks">
+                                <li>
+                                    <a target="_blank" href="pdf/examination/Assessment_Schedule_PG_IISem.pdf">Anna
+                                        University April/May 2020 – Assessment Schedule</a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="pdf/examination/Practical_Schedule_0520.pdf">Anna
+                                        University April/May 2020 – Practical Schedule</a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="pdf/examination/Z73_73_7327_RC_ND19.pdf">Anna University
+                                        Nov/Dec 2019 Results</a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="pdf/examination/Re-Exam-CP5153-Intimation-Reg.pdf">Anna
+                                        University Nov/Dec 2019 Re-Exam (PG)</a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="pdf/examination/assessment_sechedule_nd18.pdf">Anna
+                                        University Nov/Dec 2018 – Assessment Schedule</a>
+                                </li>
+                                <li>
+                                    <a target="_blank"
+                                        href="pdf/examination/UNIVERSITY-CURRENT-TIMETABLE-novdec2017.pdf">Anna
+                                        University Nov/Dec 2017 – Current Semester Time Table</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel-group">
+                    <div class="card-header" id="heading3" data-toggle="collapse" data-target="#collapse3"
+                    aria-controls="collapse3">
+                        <div class="right-heading">Rules</div>
+                        <span class="fas caret-awesome"></span>
+                    </div>
+
+                    <div id="collapse3" class="panel-collapse collapse" aria-labelledby="heading3"
+                        data-parent="#accordion">
+                        <div class="card-body">
+                            <p>
+                                Anna University Rules related to University Examination
+                            </p>
+
+                            <ul class="mou-ul">
+                                <li> Admission to the Examination is provisional</li>
+                                <li>The Hall Ticket is issued subject to the candidate satisfying the Attendance and the
+                                    other requirements as per rules, regulations and instructions issued by the
+                                    University from time to time. If later, it is found that the candidate fails to
+                                    comply with the above requirements, the examinations the candidate has taken will be
+                                    treated as cancelled.</li>
+                                <li> Candidates shall not be allowed to leave the examination hall before the expiry of
+                                    45 minutes from the commencement of examination. No candidate who leaves the
+                                    examination hall during the period allotted for a paper will be allowed to re-enter
+                                    the hall within that period.</li>
+                                <li> Candidates suffering from infectious diseases of any kind shall not be admitted to
+                                    examination hall.</li>
+                                <li> Candidates are strictly prohibited from smoking inside the examination hall.</li>
+                                <li>Strict silence should be maintained in the examination hall.<br>
+                                    Candidates are required to bring their own pens, pencils, and eraser. Candidates
+                                    should use only blue or black ink while answering their papers.</li>
+                                <li> Before proceeding to answer the paper, the candidate should write his/her register
+                                    number, semester, subject and date of the examination at the appropriate space
+                                    provided in the first page of the answer book and nowhere else in the answer book or
+                                    in any additional attachment.</li>
+                                <li>If a candidate writes his/her register number on any part of the answer book/sheets
+                                    or on any space other than the one provided for or puts any special mark or writes
+                                    anything which may disclose, in anyway, the identity of the candidate/ college,
+                                    he/she will render himself/herself liable for disciplinary action.</li>
+                                <li>Writing of wrong register number in answer book will entail rejection of the answer
+                                    book.</li>
+                                <li> Candidates are not allowed to exceed the prescribed time assigned to each paper.
+                                </li>
+                                <li>Candidates shall not talk/ask questions of any kind during the examination.</li>
+                                <li>Candidates shall not take any written/printed matter, any paper material, cell
+                                    phone, programmable calculator , any unauthorized data sheet/table into the
+                                    examination hall and if found in possession of any such material in the examination
+                                    hall during the examination hours, those candidates shall be liable for disciplinary
+                                    action.</li>
+                                <li> No candidates shall pass any part or whole of answer papers or question papers to
+                                    any other candidate. No candidate shall allow another candidate to copy form his/her
+                                    answer paper or copy from the answer paper of another candidate. If found committing
+                                    such malpractice, the involved candidates shall be liable for disciplinary action.
+                                </li>
+                                <li> Candidates found guilty of using unfair means of any nature shall be liable for
+                                    disciplinary action.</li>
+                                <li>Candidates will have to hand over the answer books to the Invigilator/Chief
+                                    Superintendent before leaving the examination hall.</li>
+                                <li>Candidates should produce the hall ticket on demand by the Invigilator/Chief
+                                    Superintendent /AUR/Squad members.
+                                </li>
+                            </ul>
+
+                            <p>Anna University Examinations Office of the Controller of Examinations</p>
+                            <b>Warning to the Students</b>
+                            <p>
+                                The students are warned to desist from doing any kind of malpractice during
+                                examinations. If anyone indulges in malpractice, the students is likely to be debarred
+                                from Examination or even expelled from the Degree Programme. The nature of malpractice
+                                and the minimum punishment are indicated in the table. In extreme cases, action may
+                                include debarring of officials of examinations.
+                            </p>
+
+                            <div class="common-tbl">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th width="50%">Nature of Malpractice</th>
+                                            <th>Punishment</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Appeal for a favourable consideration or mercy in the answer book</td>
+                                            <td rowspan="5">Cancellation of the examination of the particular paper.
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Writings on the desk relevant to the examinations.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Writings on any part of the<br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Verbal or oral communication to neighbouring candidate.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Irrelevant writings in the answer book.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Possession of any incriminating materials inside the examination hall
+                                                (whether used or not).For example:-Written or printed materials, bits,
+                                                writings on scale. Calculator, handkerchief, Hall Ticket, possession of
+                                                organizer etc.</td>
+                                            <td rowspan="6">Cancellation of all Theory examinations (all papers –
+                                                current and arrear) registered during the examination session like April
+                                                / May or Oct. / Nov.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vulgar writings in the answer book</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Copying from neighbour.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Possession of answer book of another candidate.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giving answer book to another candidate.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Exchange of Question papers and other materials with some answers.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Appeal in the examination answer book coupled with a promise of any form
+                                                of consideration.</td>
+                                            <td rowspan="1">Cancellation of all Theory examinations (all papers –
+                                                current and arrears) registered and further debarred from writing all
+                                                examinations (current and arrear) in the subsequent semester.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Misbehavior in the examination hall (Disobedience, unruly conduct in the
+                                                examination hall, threatening the Hall Superintendent / Chief
+                                                Superintendent and other examination officials).</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Involved in Malpractice for the second or subsequent times.</td>
+                                            <td>Cancellation of all Theory examinations (all papers – current and
+                                                arrears) and further debarred from continuing his studies for one year
+                                                (i.e.) two subsequent semesters. However the student is permitted to
+                                                appear for the examination in all the arrear subjects up to the last
+                                                semester during the debarred period.</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3">Cases of Impersonation</td>
+                                            <td>Handing over the Impersonator to the police with a complaint to take
+                                                appropriate action against the person involved in the impersonation by
+                                                the Chief Superintendent.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cancellation of all examinations (all papers – current and arrear)
+                                                appeared and further debarred from continuing his studies and writing
+                                                all examinations for 2 years.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>If a student of this University is found to impersonate a ‘Bonafide
+                                                    Student’, the impersonating student also will be debarred from
+                                                    continuing his studies and writing all examination for 2 years.</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <p>
+                                Writing of name of the candidate in the answer book by the candidate, writing of Reg. No. / College Name in places other than specified in the answer book by the candidate and any special marking in the answer script by the candidate is also punishable.
+
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- 4 -->
+
+                <div class="panel-group">
+                    <div class="card-header" id="heading3" data-toggle="collapse" data-target="#collapse4"
+                        aria-controls="collapse4">
+                        <div class="right-heading">Mechanism of Internal assessment is transparent and robust in terms of frequency and mode</div>
+                        <span class="fas caret-awesome"></span>
+                    </div>
+                    <div id="collapse4" class="panel-collapse collapse" aria-labelledby="heading3"
+                        data-parent="#accordion">
+                        <div class="card-body">
+                            
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">The main objective of conducting Internal Assessment is to assess the extent of&nbsp; &nbsp;understanding of each topic of the whole syllabus by the students. The Head of the Institution/the senior professor nominated by him will act as the Chief Superintendent and he ensures the effective functioning of Examination Cell, which is solely responsible for smooth conduct of internal and end semester Exams.</span></span></span></p>
+
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><strong>Internal assessment Examination</strong> - process is described in the Academic Calendar stipulating the dates for covering syllabus, conducting theory and lab Internal Assessments and thereby total transparency is absorbed in the whole process.</span></span></span></p>
+
+
+
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">As per the Anna University norms, three Internal Assessment Exams (IAE) are being conducted for which the Time Table will be prepared and displayed in the notice board well in advance. Before commencing the examinations, the subject faculty members will prepare two sets of question papers based on the blooms taxonomy, verified and approved by the concerned department HoDs. Of which, Examination Cell will select one set of question paper an hour prior to the commencement of examination. Once the examination is over, the faculty concerned will discuss the question paper with&nbsp; &nbsp;students and their performance in the examination, based on the evaluation scheme. Exams are conducted continuously as per schedule and the marks secured by the students are entered in Anna University web portal along with attendance. </span></span></span></p>
+
+
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><strong>Evaluation&nbsp; Process</strong> - Evaluation&nbsp; of the answer scripts are done within two days after completion of the internal exam based on the answer key prepared by the course instructor. As a means of transparency, the evaluated answer scripts are given to the students for perusal and for discussing with the faculty concerned and the faculty, inturn, will rectify the discrepancies, if any, noticed.&nbsp; The students will note the correction of marks and acknowledge the same by signing near the marks recorded in the answer script.&nbsp; Scrutiny Committee Members will also scrutinize the answer scripts through which sustained monitoring are ensured.&nbsp; After the exams are over, three sets of answer scripts one each with low, average and high scores are selected by the course instructor and kept in his/her custody for the purpose of analyzing the result and corrective action. The marks secured by students in the assessment exams and attendance percentage are displayed in the notice board besides communicating to the parents by the Department concerned, which is accessible on Anna University website (<span style="color:blue"><u><a href="http://www.coe1.annauniv.edu" style="color:blue; text-decoration:underline">www.coe1.annauniv.edu</a></u></span>) also. </span></span></span></p>
+
+                           <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><strong>Laboratory Examination</strong> -&nbsp;&nbsp;Similarly, one model practical laboratory examination will be conducted prior to the end semester examination. </span><span style="font-size:13.0pt">Every practical experiment is evaluated based on student&rsquo;s performance in conducting the experiment, viva and maintenance of the lab records etc. In accordance with Anna University guidelines the 3<sup>rd</sup> and final year students are assigned with the task of mini projects and major projects. &nbsp;</span></span></span></p>
+
+                            <p style="text-align:justify">&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- model 5 -->
+               <div class="panel-group">
+                    <div class="card-header" id="heading3" data-toggle="collapse" data-target="#collapse5"
+                        aria-controls="collapse5">
+                        <div class="right-heading">Mechanism to deal with Internal/External examination related grievances are Transparent, Time-bound and Efficient </div>
+                        <span class="fas caret-awesome"></span>
+                    </div>
+                    <div id="collapse5" class="panel-collapse collapse" aria-labelledby="heading3"
+                        data-parent="#accordion">
+                        <div class="card-body">
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Exam Cell </b>-  system effectively monitors the process of conducting internal and external examinations including preparation question paper sets, conduct of exams, collection of answer scripts, evaluation process, entry of students&rsquo; attendance and marks scored etc. and uploading them in University web-portal with time-bound transparency.&nbsp; It is the major platform redresses the students&rsquo; grievance regarding examination issues. </span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Internal and end-semester exams</b> - are conducted adhering to University Rules based on which Academic Calendar is prepared for each semester. During each semester three internal assessment examinations are conducted and the exam time-table is prepared and disseminated to students in advance by displaying in notice board. Two sets of question papers are prepared based on blooms taxonomy and course outcomes synchronizing the semester question paper pattern which will be scrutinized and approved by the HoD. </span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">After the examination, the subject handling faculty discusses the question paper with students in commensurate with answer key and assess their performance. This system acts as an eye-opener for students to understand their status in the subjects and the quantum of efforts need to be put in for improving performance. It also helps to identify the slow learners/absentees and the required remedial measures to be adopted by faculty to fetch forth the students&rsquo; efficiency by conducting re-test.&nbsp; &nbsp;</span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">The subject handling faculty is expected to complete the evaluation process in two days and the evaluated answer scripts are given to students for perusal. If any discrepancies noticed, the faculty will rectify them immediately and handover the same to the Department. The Internal Scrutiny Committee Members will also scrutinize the answer scripts once again and thus the students&rsquo; sustained growth is ensured, which is another mechanism to identify and improve the performance of slow-learners by intensified coaching. </span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Redress of Students' Grievances</b> -  During the end-semester examinations the general issues being faced by the students are such as (i) difficulty in down-loading the Hall Ticket, (ii) wrong particulars such as Register No., Name, Gender, Subjects with Code etc., found in Hall Ticket, (iii) out of syllabus in the question paper, (iv) results withheld by University and so on. Whenever a student representing such grievances, the Exam Cell will take responsibility and initiate immediate action by representing the matter before the University authority and ensure it is redressed. </span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt"><b>Revaluation Process</b> - After declaring the end-semester results, if a student having any objection, the Exam Cell guides him for applying the answer script photocopy and after getting the same, the subject faculty will evaluate the same and on faculty&rsquo;s recommendations the student will apply for re-evaluation within a week. In case, if he does not succeed in his efforts then he can apply challenging the evaluation within a week after the announcement of revaluation results for which also the Exam Cell will extend its efforts to achieve his target. </span></span></span></p>
+                            <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:13.0pt">Thus, the Exam Cell addresses the students&rsquo; grievances relating to Internal/External examinations with utmost sincerity and transparency and ensures that their grievances are redressed early. </span></span></span></p>
+                            <p style="text-align:justify">&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="commonInclude/footer.html" -->
+    <script>
+        $(document).ready(function () {
+            shanmugaJs.pageInit();
+            shanmugaJs.panelCaretActive();
+        })
+    </script>
+</body>
+
+</html>

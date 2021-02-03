@@ -1,0 +1,100 @@
+{
+    "gallery1": {
+        "year":2020,
+        "partcount":2,
+        "parts":[
+            {
+                "imgcount": 9,
+                "title": "DESIGN THINKING WORKSHOP SPECIAL SPEECH BY DR. C. SYLENDRA BABU IPS, DGP-RAILWAYS, TAMILNADU [01.02.2020]"
+            },
+            {
+                "imgcount": 8,
+                "title": "KCE PONGAL CELEBRATION -[11.01.2020]"
+            }
+        ]
+    },
+    "gallery2": {
+        "year":2019,
+        "partcount":8,
+        "parts":[
+            {
+                "title": "GRADUATION DAY 2019 – [15.12.19]",
+                "imgcount": 20
+            },
+            {
+                "title": "KALAKRIDHAA 2k19 & KALAI ARUVI SCIENCE COMPETITION – [01&02.11.19]",
+                "imgcount": 5
+            },
+            {
+                "title": "ICKCE 2k19 – [09.03.19]",
+                "imgcount": 7
+            },
+            {
+                "title": "KATHIR’S DIPLOMA FEST 2k19 – [08.03.19]",
+                "imgcount": 12
+            },
+            {
+                "title": "KATHIR’S SPORTS DAY & ANNUAL DAY FUNCTION – [02.03.19]",
+                "imgcount": 11
+            },
+            {
+                "title": "KATHIR TECHNICAL SYMPOSIUM- DHRONA 2K19   [25.01.19]",
+                "imgcount": 10
+            },
+            {
+                "title": "KATHIR NSS CAMP IN VELLANAPATTI ASSOCIATION WITH KGM HOSPITAL  [19.01.19 – 25.1.19]",
+                "imgcount": 6
+            },
+            {
+                "title": "PONGAL CELEBRATION IN KCE CAMPUS (12.01.2019 Saturday).",
+                "imgcount": 9
+            }
+        ]
+    },
+    "gallery3": {
+        "year":2018,
+        "partcount":10,
+        "parts":[
+            {
+                "title": "6th GRADUATION DAY CEREMONY – KCE on 13.10.18 (Saturday).",
+                "imgcount": 15
+            },
+            {
+                "title": "Helmet Awareness Rally from Kathir College – Chinniampalayam on 31.08.18 (Thursday). Organized by Kathir College Association with Tamilnadu Police Department.",
+                "imgcount": 8
+            },
+            {
+                "title": "REWORBZ Inaugural Function 21.07.2018   [Department of EEE – Association Inaugural]",
+                "imgcount": 1
+            },
+            {
+                "title": "ADONIZ Inaugural Function – 21.07.2018   [Department of CSE – Association Inaugural]",
+                "imgcount": 4
+            },
+            {
+                "title": "ICKCE 2018 – 24.03.2018",
+                "imgcount": 12
+            },
+            {
+                "title": "Tamil Mandram Celebration -01.03.2018 ",
+                "imgcount": 16
+            },
+            {
+                "title": "Science Day Celebration -28.02.2018 ",
+                "imgcount": 10
+            },
+            {
+                "title": "KCE Annual Day – Celebration – 2018",
+                "imgcount": 16
+            },
+            {
+                "title": "Sri Mata Amritanandamayi Blesses Thiru E.S.Kathir, Founder Chairman, Kathir Group of Institutions.",
+                "imgcount": 1
+            },
+            {
+                "title": "Sri Sri Ravi Shankar Guruji, Art of Living Blesses Thiru.E.S.Kathir & Tmt. Lavanya Kathir, Kathir Group Institutions",
+                "imgcount": 4
+            }
+        ]
+    }
+}
